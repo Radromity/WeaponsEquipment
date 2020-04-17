@@ -1,2 +1,2 @@
-MechPontiff Pontiff
-MechPontiffDesc Todo:
+MechPontif Pontif
+MechPontifDesc Description Required!

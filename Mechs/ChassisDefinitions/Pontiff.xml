@@ -2,26 +2,26 @@
 	<DisplayName>MechPontiff</DisplayName>
 	<Description>MechPontiffDesc</Description>
 	
-	<MarketValue>5575000</MarketValue>
+	<MarketValue>7210000</MarketValue>
 	<MarketRoleMin>0</MarketRoleMin>
-	<MarketRoleMax>4</MarketRoleMax>
-	<MarketRoleChance>0.6</MarketRoleChance>
-	<Maintenance>13937</Maintenance>
+	<MarketRoleMax>3</MarketRoleMax>
+	<MarketRoleChance>0.5</MarketRoleChance>
+	<Maintenance>18025</Maintenance>
 	
 	<DefaultDesign>Pontiff Prime</DefaultDesign>
 	<MechPrefab>PriestPrefab</MechPrefab>
 	<CockpitPrefab>Cockpit1</CockpitPrefab>
-	<MechClass>medium</MechClass>
+	<MechClass>heavy</MechClass>
 	<Tonnage>65</Tonnage>
-	<BaseWeight>5</BaseWeight>
+	<BaseWeight>6.5</BaseWeight>
 	
 	<DefaultSkin>Blue</DefaultSkin>
 	
-	<DisplaySpeedForwardMulti>54.80212419354839</DisplaySpeedForwardMulti>
-	<DisplaySpeedReverseMulti>40.36055434782609</DisplaySpeedReverseMulti>
+	<DisplaySpeedForwardMulti>63.16336</DisplaySpeedForwardMulti>
+	<DisplaySpeedReverseMulti>43.13947</DisplaySpeedReverseMulti>
 	
-	<SpeedForwardMulti>0.2956090019875144</SpeedForwardMulti>
-	<SpeedReverseMulti>0.2217067514906358</SpeedReverseMulti>
+	<SpeedForwardMulti>0.25647</SpeedForwardMulti>
+	<SpeedReverseMulti>0.19235</SpeedReverseMulti>
 	<AccelerationForwardMulti>0.07</AccelerationForwardMulti>
 	<AccelerationReverseMulti>0.045</AccelerationReverseMulti>
 	<DeaccelerationMulti>0.1</DeaccelerationMulti>
@@ -33,26 +33,26 @@
 	<TorsoPitchMax>40</TorsoPitchMax>
 	<TorsoPitchMin>-40</TorsoPitchMin>
 	
-	<CameraShakeModifier>1.0</CameraShakeModifier>
-	<RecoilModifier>1.0</RecoilModifier>
+	<CameraShakeModifier>0.5</CameraShakeModifier>
+	<RecoilModifier>0.75</RecoilModifier>
 	
 	<HeadArmorLimit>18</HeadArmorLimit>
-	<TorsoCenterArmorLimit>64</TorsoCenterArmorLimit>
-	<TorsoLeftArmorLimit>44</TorsoLeftArmorLimit>
-	<TorsoRightArmorLimit>44</TorsoRightArmorLimit>
-	<LegLeftArmorLimit>48</LegLeftArmorLimit>
-	<LegRightArmorLimit>48</LegRightArmorLimit>
-	<ArmLeftArmorLimit>40</ArmLeftArmorLimit>
-	<ArmRightArmorLimit>40</ArmRightArmorLimit>
+	<TorsoCenterArmorLimit>88</TorsoCenterArmorLimit>
+	<TorsoLeftArmorLimit>73</TorsoLeftArmorLimit>
+	<TorsoRightArmorLimit>73</TorsoRightArmorLimit>
+	<LegLeftArmorLimit>55</LegLeftArmorLimit>
+	<LegRightArmorLimit>55</LegRightArmorLimit>
+	<ArmLeftArmorLimit>30</ArmLeftArmorLimit>
+	<ArmRightArmorLimit>30</ArmRightArmorLimit>
 	
 	<HeadInternal>15.0</HeadInternal>
-	<TorsoCenterInternal>32.0</TorsoCenterInternal>
-	<TorsoLeftInternal>22.0</TorsoLeftInternal>
-	<TorsoRightInternal>22.0</TorsoRightInternal>
-	<LegLeftInternal>24.0</LegLeftInternal>
-	<LegRightInternal>24.0</LegRightInternal>
-	<ArmLeftInternal>18.0</ArmLeftInternal>
-	<ArmRightInternal>18.0</ArmRightInternal>
+	<TorsoCenterInternal>44.0</TorsoCenterInternal>
+	<TorsoLeftInternal>35.0</TorsoLeftInternal>
+	<TorsoRightInternal>35.0</TorsoRightInternal>
+	<LegLeftInternal>30.0</LegLeftInternal>
+	<LegRightInternal>30.0</LegRightInternal>
+	<ArmLeftInternal>14.0</ArmLeftInternal>
+	<ArmRightInternal>14.0</ArmRightInternal>
 	
 	<HeadSlotGroups>
 		<SlotGroup>
@@ -187,15 +187,15 @@
 	</LegRightSlotGroups>	
 	
 	<FootStepClips>
-		<string>FootStepMechLight1</string>
-		<string>FootStepMechLight2</string>
-		<string>FootStepMechLight3</string>
-		<string>FootStepMechLight4</string>
-		<string>FootStepMechLight5</string>
-		<string>FootStepMechLight6</string>
-		<string>FootStepMechLight7</string>
-		<string>FootStepMechLight8</string>
-		<string>FootStepMechLight9</string>
-		<string>FootStepMechLight10</string>
+		<string>FootStepMechHeavy1</string>
+		<string>FootStepMechHeavy2</string>
+		<string>FootStepMechHeavy3</string>
+		<string>FootStepMechHeavy4</string>
+		<string>FootStepMechHeavy5</string>
+		<string>FootStepMechHeavy6</string>
+		<string>FootStepMechHeavy7</string>
+		<string>FootStepMechHeavy8</string>
+		<string>FootStepMechHeavy9</string>
+		<string>FootStepMechHeavy10</string>
 	</FootStepClips>
 </MechChassisDefinition>
