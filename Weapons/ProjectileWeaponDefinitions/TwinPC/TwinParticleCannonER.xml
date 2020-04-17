@@ -1,0 +1,14 @@
+<ProjectileWeaponDefinition>
+	<BaseDefinition>TwinParticleCannon</BaseDefinition>
+	<DisplayName>WeaponTwinPCER</DisplayName>
+	<ModelScale>
+		<x>1.0</x>
+		<y>1.0</y>
+		<z>0.6</z>
+	</ModelScale>
+	<SalvoCount>2</SalvoCount>
+	<SalvoDelay>0.1</SalvoDelay>
+	<ProjectileDefinitions>
+		<string>TwinParticleCannonER</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>

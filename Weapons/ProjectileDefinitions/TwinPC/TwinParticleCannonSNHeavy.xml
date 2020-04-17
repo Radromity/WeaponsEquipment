@@ -1,0 +1,10 @@
+<ProjectileDefinition>
+	<BaseDefinition>ParticleCannonHeavy</BaseDefinition>
+	<Heat>3100.0</Heat>
+	<RangeDamageMin>48.0</RangeDamageMin>
+	<RangeEffective>24.0</RangeEffective>
+	<Velocity>63.0</Velocity>
+	<Spread>0.3</Spread>
+	<SalvoDelay>0.1</SalvoDelay>
+	<ProjectileLifeTime>0.914</ProjectileLifeTime>
+</ProjectileDefinition>

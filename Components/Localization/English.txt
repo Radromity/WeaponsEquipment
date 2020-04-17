@@ -1,0 +1,74 @@
+ComponentSetACAoe HE Autocannons
+
+ComponentSetGaussRifleRapid Rapidfire Gauss Rifle
+
+ComponentSetGaussRifleCan Canister Gauss Rifles
+
+ComponentSetTwinPC Twin Particle Cannons
+
+ComponentSetAmmoSlugCan Canister Slug Mags
+
+ComponentAmmoSlug4cmCan_I Slug 4cm Canister Mag I
+ComponentAmmoSlug4cmCan_II Slug 4cm Canister Mag II
+ComponentAmmoSlug4cmCan_III Slug 4cm Canister Mag III
+ComponentAmmoSlug4cmCanDesc Description Required!
+ComponentAmmoSlug6cmCan_I Slug 6cm Canister Mag I
+ComponentAmmoSlug6cmCan_II Slug 6cm Canister Mag II
+ComponentAmmoSlug6cmCan_III Slug 6cm Canister Mag III
+ComponentAmmoSlug6cmCanDesc Description Required!
+ComponentAmmoSlug2cmCan_I Slug 2cm Canister Mag I
+ComponentAmmoSlug2cmCan_II Slug 2cm Canister Mag II
+ComponentAmmoSlug2cmCan_III Slug 2cm Canister Mag III
+ComponentAmmoSlug2cmCanDesc Description Required!
+ComponentAmmoSlug1cmCan_I Slug 1cm Canister Mag I
+ComponentAmmoSlug1cmCan_II Slug 1cm Canister Mag II
+ComponentAmmoSlug1cmCan_III Slug 1cm Canister Mag III
+ComponentAmmoSlug1cmCanDesc Description Required!
+
+ComponentAC2Aoe HE AC 2cm
+ComponentAC2AoeDesc Autocannon 2cm
+ComponentAC5Aoe HE AC 5cm
+ComponentAC5AoeDesc High Explosive Autocannon 5cm
+ComponentAC10Aoe HE AC 10cm
+ComponentAC10AoeDesc High Explosive Autocannon 10cm
+ComponentAC15Aoe HE AC 15cm
+ComponentAC15AoeDesc High Explosive Autocannon 15cm
+ComponentAC20Aoe HE AC 20cm
+ComponentAC20AoeDesc High Explosive Autocannon 20cm
+ComponentAC30Aoe HE AC 30cm
+ComponentAC30AoeDesc High Explosive Autocannon 30cm
+
+ComponentTwinParticleCannon Twin PC
+ComponentTwinParticleCannonDesc Twin Particle Cannon
+ComponentTwinParticleCannonHeavy Twin H-PC
+ComponentTwinParticleCannonHeavyDesc Twin Heavy Particle Cannon
+ComponentTwinParticleCannonLight Twin L-PC
+ComponentTwinParticleCannonLightDesc Twin Light Particle Cannon
+ComponentTwinParticleCannonER Twin ER-PC
+ComponentTwinParticleCannonERDesc Twin Extended Range Particle Cannon
+ComponentTwinParticleCannonERHeavy Twin HER-PC
+ComponentTwinParticleCannonERHeavyDesc Twin Heavy Extended Range Particle Cannon
+ComponentTwinParticleCannonSN Twin SN-PC
+ComponentTwinParticleCannonSNDesc Twin Snub Nose Particle Cannon
+ComponentTwinParticleCannonSNHeavy Twin HSN-PC
+ComponentTwinParticleCannonSNHeavyDesc Twin Heavy Snub Nose Particle Cannon
+ComponentTwinParticleCannonSNLight Twin LSN-PC
+ComponentTwinParticleCannonSNLightDesc Twin Light Snub Nose Particle Cannon
+
+ComponentGaussRifleRapid Rapidfire Gauss Rifle
+ComponentGaussRifleRapidDesc Rapidfire Gauss Rifle
+ComponentGaussRifleHeavyRapid Rapidfire Heavy Gauss Rifle
+ComponentGaussRifleHeavyRapidDesc Rapidfire Heavy Gauss Rifle
+ComponentGaussRifleLightRapid Rapidfire Light GaussRifle
+ComponentGaussRifleLightRapidDesc Rapidfire Light GaussRifle
+ComponentGaussRifleMicroRapid Rapid Micro Gauss Rifle
+ComponentGaussRifleMicroRapidDesc Rapid Micro Gauss Rifle
+
+ComponentGaussRifleCan Canister Gauss Rifle
+ComponentGaussRifleCanDesc Canister Gauss Rifle
+ComponentGaussRifleHeavyCan Canister Heavy Gauss Rifle
+ComponentGaussRifleHeavyCanDesc Canister Heavy Gauss Rifle
+ComponentGaussRifleLightCan Canister Light GaussRifle
+ComponentGaussRifleLightCanDesc Canister Light GaussRifle
+ComponentGaussRifleMicroCan Canister Micro Gauss Rifle
+ComponentGaussRifleMicroCanDesc Canister Micro Gauss Rifle

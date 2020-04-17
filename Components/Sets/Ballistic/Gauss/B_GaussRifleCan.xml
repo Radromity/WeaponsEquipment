@@ -1,0 +1,22 @@
+<ComponentSet>
+	<DisplayName>ComponentSetGaussRifleCan</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>0.2</b>
+		<a>0.88</a>
+	</Color>
+	<TextColor>
+		<r>0.0</r>
+		<g>0.0</g>
+		<b>0.0</b>
+		<a>0.88</a>
+	</TextColor>
+	<Components>
+		<string>GaussRifleMicroCan</string>
+		<string>GaussRifleLightCan</string>
+		<string>GaussRifleCan</string>
+		<string>GaussRifleHeavyCan</string>
+	</Components>
+</ComponentSet>

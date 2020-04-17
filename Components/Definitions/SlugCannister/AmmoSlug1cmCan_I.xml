@@ -1,0 +1,24 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoSlug1cmCan_I</DisplayName>
+	<Description>ComponentAmmoSlug1cmCanDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>0.2</b>
+		<a>0.88</a>
+	</Color>
+	<TextColor>
+		<r>0.0</r>
+		<g>0.0</g>
+		<b>0.0</b>
+		<a>0.88</a>
+	</TextColor>
+	<SlotSize>1</SlotSize>
+	<Weight>0.5</Weight>
+	
+	<MarketValue>2000</MarketValue>
+	<AmmoType>Slug1cmCan</AmmoType>
+	<AmmoCount>27</AmmoCount>
+</ComponentDefinition>

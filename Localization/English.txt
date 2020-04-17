@@ -1,0 +1,84 @@
+AmmoLRM LRM
+AmmoSRM SRM
+AmmoMRM MRM
+AmmoDRM DRM
+AmmoMRR MRR
+AmmoHSRM H-SRM
+AmmoALRM A-LRM
+AmmoULRM U-LRM
+AmmoSLRM S-LRM
+AmmoSSRM S-SRM
+AmmoTSRM T-SRM
+AmmoSMRM S-MRM
+AmmoGMRM G-MRM
+AmmoGSRM G-SRM
+AmmoAC2cm AC 2cm
+AmmoAC5cm AC 5cm
+AmmoAC10cm AC 10cm
+AmmoAC15cm AC 15cm
+AmmoAC20cm AC 20cm
+AmmoAC30cm AC 30cm
+AmmoFAC2cm FAC 2cm
+AmmoBAC2cm BAC 2cm
+AmmoBAC5cm BAC 5cm
+AmmoBAC10cm BAC 10cm
+AmmoBAC15cm BAC 15cm
+AmmoBAC20cm BAC 20cm
+AmmoBAC30cm BAC 30cm
+AmmoCAC2cm CAC 2cm
+AmmoCAC5cm CAC 5cm
+AmmoCAC10cm CAC 10cm
+AmmoCAC15cm CAC 15cm
+AmmoCAC20cm CAC 20cm
+AmmoCAC30cm CAC 30cm
+AmmoHVAC2cm HVAC 2cm
+AmmoHVAC5cm HVAC 5cm
+AmmoHVAC10cm HVAC 10cm
+AmmoHVAC15cm HVAC 15cm
+AmmoHVAC20cm HVAC 20cm
+AmmoHVAC30cm HVAC 30cm
+AmmoGH10cm GH 10cm
+AmmoGH20cm GH 20cm
+AmmoHMG HMG
+AmmoLMG LMG
+AmmoMG MG
+AmmoRAC2cm RAC 2cm
+AmmoRAC5cm RAC 5cm
+AmmoRAC10cm RAC 10cm
+AmmoSlug4cm Slug 4cm
+AmmoSlug6cm Slug 6cm
+AmmoSlug2cm Slug 2cm
+AmmoSlug1cm Slug 1cm
+AmmoSlug4cmCan Slug 4cm Cannister
+AmmoSlug6cmCan Slug 6cm Cannister
+AmmoSlug2cmCan Slug 2cm Cannister
+AmmoSlug1cmCan Slug 1cm Cannister
+AmmoTAM TAM
+AmmoCIWS CIWS
+MechClassLight Light
+MechClassMedium Medium
+MechClassHeavy Heavy
+MechClassAssault Assault
+hint1 Shooting out the cockpit of a mech will make it easier to salvage.
+hint2 Destroying both legs of a mech will disable it.
+hint3 A mech's reactor will explode if it gets too hot.
+MissionTypeBattle Battle
+MissionTypeBattleDesc Description Required!
+MissionTypeAssassination Assassination
+MissionTypeAssassinationDesc Description Required!
+MissionTypeBaseCapture Base Capture
+MissionTypeBaseCaptureDesc Description Required!
+MissionTypeBaseDefend Base Defend
+MissionTypeBaseDefendDesc Description Required!
+MissionTypeBaseDestroy Base Destroy
+MissionTypeBaseDestroyDesc Description Required!
+MissionTypeBattleSupport Battle Support
+MissionTypeBattleSupportDesc Description Required!
+MissionTypeConvoyCapture Convoy Capture
+MissionTypeConvoyCaptureDesc Description Required!
+MissionTypeConvoyDestroy Convoy Destroy
+MissionTypeConvoyDestroyDesc Description Required!
+MissionTypeConvoyEscort Convoy Escort
+MissionTypeConvoyEscortDesc Description Required!
+MissionTypeSearchAndDestroy Search And Destroy
+MissionTypeSearchAndDestroyDesc Description Required!

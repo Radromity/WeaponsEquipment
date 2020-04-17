@@ -1,0 +1,25 @@
+
+WeaponAC2cmAoe HE AC 2cm
+WeaponAC5cmAoe HE AC 5cm
+WeaponAC10cmAoe HE AC 10cm
+WeaponAC15cmAoe HE AC 15cm
+WeaponAC20cmAoe HE AC 20cm
+WeaponAC30cmAoe HE AC 30cm
+
+WeaponTwinPC Twin PC
+WeaponTwinPCH Twin H-PC
+WeaponTwinPCL Twin L-PC
+WeaponTwinPCSN Twin SN-PC
+WeaponTwinPCSNH Twin HSN-PC
+WeaponTwinPCSNL Twin LSN-PC
+WeaponTwinPCER Twin ER-PC
+WeaponTwinPCERH Twin HER-PC
+
+WeaponGaussRifleRapid Rapidfire Micro Gauss Rifle
+WeaponGaussRifleLightRapid Rapidfire Heavy Gauss Rifle
+WeaponGaussRifleHeavyRapid Rapidfire Light Gauss Rifle
+WeaponGaussRifleMicroRapid Rapidfire Gauss Rifle
+WeaponGaussRifleCan Cannister Gauss Rifle
+WeaponGaussRifleHeavyCan Cannister Heavy Gauss Rifle
+WeaponGaussRifleLightCan Cannister Light Gauss Rifle
+WeaponGaussRifleMicroCan Cannister Micro Gauss Rifle

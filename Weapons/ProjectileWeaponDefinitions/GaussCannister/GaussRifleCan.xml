@@ -1,0 +1,19 @@
+<ProjectileWeaponDefinition>
+	<DisplayName>WeaponGaussRifleCan</DisplayName>
+	<ModelPrefab>Railgun</ModelPrefab>
+	<ModelScale>
+		<x>0.8</x>
+		<y>0.8</y>
+		<z>0.5</z>
+	</ModelScale>
+	<RecycleTime>5.0</RecycleTime>
+	<DefaultWeaponGrouping>
+		<WeaponGroup2>true</WeaponGroup2>
+	</DefaultWeaponGrouping>
+	<MuzzleEffectPrefab>MuzzleFlashGaussRifle</MuzzleEffectPrefab>
+	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
+	<RequiresAmmo>true</RequiresAmmo>
+	<ProjectileDefinitions>
+		<string>GaussRifleCan</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>

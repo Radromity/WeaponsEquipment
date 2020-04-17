@@ -1,0 +1,24 @@
+<ProjectileWeaponDefinition>
+	<DisplayName>WeaponTwinPCH</DisplayName>
+	<ModelPrefab>ParticleCanonHeavy</ModelPrefab>
+	<ModelScale>
+		<x>1.0</x>
+		<y>1.0</y>
+		<z>0.5</z>
+	</ModelScale>
+	<WeaponClassifications>
+		<WeaponClassification>Energy</WeaponClassification>
+		<WeaponClassification>ParticleCannon</WeaponClassification>
+	</WeaponClassifications>
+	<RecycleTime>7.0</RecycleTime>
+	<DefaultWeaponGrouping>
+		<WeaponGroup1>true</WeaponGroup1>
+	</DefaultWeaponGrouping>
+	<MuzzleEffectPrefab>MuzzleFlashParticleCannon</MuzzleEffectPrefab>
+	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
+	<SalvoCount>2</SalvoCount>
+	<SalvoDelay>0.1</SalvoDelay>
+	<ProjectileDefinitions>
+		<string>TwinParticleCannonHeavy</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>
