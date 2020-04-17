@@ -1,0 +1,22 @@
+<MechPaintScheme>
+	<BaseColor>
+		<r>0.0</r>
+		<g>0.0</g>
+		<b>0.0</b>
+		<a>1.0</a>
+	</BaseColor>
+	<PaintLayer1>AnimalTiger1</PaintLayer1>
+	<PaintLayer1Color>
+		<r>0.5</r>
+		<g>0.0</g>
+		<b>0.0</b>
+		<a>1.0</a>
+	</PaintLayer1Color>
+	<PaintLayer2>AnimalCow</PaintLayer2>
+	<PaintLayer2Color>
+		<r>0.0</r>
+		<g>0.0</g>
+		<b>0.0</b>
+		<a>0.8</a>
+	</PaintLayer2Color>
+</MechPaintScheme>
