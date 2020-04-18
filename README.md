@@ -3,9 +3,13 @@
 
 Additions:
   Rapidfire Gauss: 3 Shot gauss rifles that function identically to burst autocannons.
-  HE Autocannon: Autocannons with High Explosive Shells for Aoe Damage.
+  HE Autocannon Ammo: High Explosive Autocannon ammo that does Aoe Damage.
   Canister Gauss: Shotgun Gauss, nuff said.
   Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
+Patch 0.0.5:
+  Added new Mech the Pontiff. A moddification of the Priest.
+  Removed HE Autocannons.
+  Added HE Autocannon Ammo.
 Patch 0.0.4:
   Added Twin Particle Cannons.
   Organized the XML files into their own folders to make it easier to find items in the future.

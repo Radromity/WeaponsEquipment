@@ -1,5 +1,5 @@
 <ProjectileWeaponDefinition>
-	<DisplayName>WeaponAC15cmAoe</DisplayName>
+	<DisplayName>WeaponAC15cm</DisplayName>
 	<ModelPrefab>AutoCannon10cm</ModelPrefab>
 	<ModelScale>
 		<x>1.1</x>
@@ -14,6 +14,7 @@
 	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
 	<RequiresAmmo>true</RequiresAmmo>
 	<ProjectileDefinitions>
+		<string>AC15cm</string>
 		<string>AC15cmAoe</string>
 	</ProjectileDefinitions>
 </ProjectileWeaponDefinition>

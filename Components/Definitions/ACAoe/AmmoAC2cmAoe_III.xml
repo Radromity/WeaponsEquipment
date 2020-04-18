@@ -1,0 +1,25 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoAC2cmAoe_III</DisplayName>
+	<Description>ComponentAmmoAC2cmAoeDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>0.2</b>
+		<a>0.88</a>
+	</Color>
+	<TextColor>
+		<r>0.0</r>
+		<g>0.0</g>
+		<b>0.0</b>
+		<a>0.88</a>
+	</TextColor>
+	<SlotSize>2</SlotSize>
+	<Weight>2.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>0.5</AmmoExplosionDamage>
+	<MarketValue>13000</MarketValue>
+	<AmmoType>AC2cmAoe</AmmoType>
+	<AmmoCount>225</AmmoCount>
+</ComponentDefinition>

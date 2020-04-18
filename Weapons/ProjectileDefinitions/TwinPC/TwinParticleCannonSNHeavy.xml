@@ -5,6 +5,7 @@
 	<RangeEffective>24.0</RangeEffective>
 	<Velocity>63.0</Velocity>
 	<Spread>0.3</Spread>
+	<SalvoCount>2</SalvoCount>
 	<SalvoDelay>0.1</SalvoDelay>
 	<ProjectileLifeTime>0.914</ProjectileLifeTime>
 </ProjectileDefinition>
