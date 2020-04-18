@@ -1,5 +1,5 @@
 <ProjectileDefinition>
-	<AmmoType>AC20cm</AmmoType>
+	<AmmoType>AC20cmAoe</AmmoType>
 	<Heat>1580.0</Heat>
 	<DamageType>Ballistic</DamageType>
 	<DamageEffective>12.0</DamageEffective>

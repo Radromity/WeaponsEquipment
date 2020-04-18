@@ -1,19 +1,20 @@
 <ProjectileWeaponDefinition>
-	<DisplayName>WeaponAC5cmAoe</DisplayName>
-	<ModelPrefab>AutoCannon5cm</ModelPrefab>
+	<DisplayName>WeaponAC20cm</DisplayName>
+	<ModelPrefab>AutoCannon20cm</ModelPrefab>
 	<ModelScale>
 		<x>1.0</x>
 		<y>1.0</y>
 		<z>0.5</z>
 	</ModelScale>
-	<RecycleTime>1.66</RecycleTime>
+	<RecycleTime>4.0</RecycleTime>
 	<DefaultWeaponGrouping>
 		<WeaponGroup2>true</WeaponGroup2>
 	</DefaultWeaponGrouping>
-	<MuzzleEffectPrefab>MuzzleFlashAutoCannonLight</MuzzleEffectPrefab>
+	<MuzzleEffectPrefab>MuzzleFlashAutoCannonHeavy</MuzzleEffectPrefab>
 	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
 	<RequiresAmmo>true</RequiresAmmo>
 	<ProjectileDefinitions>
-		<string>AC5cmAoe</string>
+		<string>AC20cm</string>
+		<string>AC20cmAoe</string>
 	</ProjectileDefinitions>
 </ProjectileWeaponDefinition>

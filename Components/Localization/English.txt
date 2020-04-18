@@ -1,5 +1,3 @@
-ComponentSetACAoe HE Autocannons
-
 ComponentSetGaussRifleRapid Rapidfire Gauss Rifle
 
 ComponentSetGaussRifleCan Canister Gauss Rifles
@@ -25,18 +23,32 @@ ComponentAmmoSlug1cmCan_II Slug 1cm Canister Mag II
 ComponentAmmoSlug1cmCan_III Slug 1cm Canister Mag III
 ComponentAmmoSlug1cmCanDesc Description Required!
 
-ComponentAC2Aoe HE AC 2cm
-ComponentAC2AoeDesc Autocannon 2cm
-ComponentAC5Aoe HE AC 5cm
-ComponentAC5AoeDesc High Explosive Autocannon 5cm
-ComponentAC10Aoe HE AC 10cm
-ComponentAC10AoeDesc High Explosive Autocannon 10cm
-ComponentAC15Aoe HE AC 15cm
-ComponentAC15AoeDesc High Explosive Autocannon 15cm
-ComponentAC20Aoe HE AC 20cm
-ComponentAC20AoeDesc High Explosive Autocannon 20cm
-ComponentAC30Aoe HE AC 30cm
-ComponentAC30AoeDesc High Explosive Autocannon 30cm
+ComponentSetAmmoACAoe High Explosive Autocannon Rounds
+
+ComponentAmmoAC2cmAoe_I High Explosive AC2cm Rounds I
+ComponentAmmoAC2cmAoe_II High Explosive AC2cm Rounds II
+ComponentAmmoAC2cmAoe_III High Explosive AC2cm Rounds III
+ComponentAmmoAC2cmAoeDesc High Explosive AC2cm Rounds
+ComponentAmmoAC5cmAoe_I High Explosive AC5cm Rounds I
+ComponentAmmoAC5cmAoe_II High Explosive AC5cm Rounds II
+ComponentAmmoAC5cmAoe_III High Explosive AC5cm Rounds III
+ComponentAmmoAC5cmAoeDesc High Explosive AC5cm Rounds
+ComponentAmmoAC10cmAoe_I High Explosive AC10cm Rounds I
+ComponentAmmoAC10cmAoe_II High Explosive AC10cm Rounds II
+ComponentAmmoAC10cmAoe_III High Explosive AC10cm Rounds III
+ComponentAmmoAC10cmAoeDesc High Explosive AC10cm Rounds
+ComponentAmmoAC15cmAoe_I High Explosive AC15cm Rounds I
+ComponentAmmoAC15cmAoe_II High Explosive AC15cm Rounds II
+ComponentAmmoAC15cmAoe_III High Explosive AC15cm Rounds III
+ComponentAmmoAC15cmAoeDesc High Explosive AC15cm Rounds
+ComponentAmmoAC20cmAoe_I High Explosive AC20cm Rounds I
+ComponentAmmoAC20cmAoe_II High Explosive AC20cm Rounds II
+ComponentAmmoAC20cmAoe_III High Explosive AC20cm Rounds III
+ComponentAmmoAC20cmAoeDesc High Explosive AC20cm Rounds
+ComponentAmmoAC30cmAoe_I High Explosive AC30cm Rounds I
+ComponentAmmoAC30cmAoe_II High Explosive AC30cm Rounds II
+ComponentAmmoAC30cmAoe_III High Explosive AC30cm Rounds III
+ComponentAmmoAC30cmAoeDesc High Explosive AC30cm Rounds
 
 ComponentTwinParticleCannon Twin PC
 ComponentTwinParticleCannonDesc Twin Particle Cannon
