@@ -56,18 +56,8 @@
 	
 	<HeadSlotGroups>
 		<SlotGroup>
-			<SlotType>Electronics</SlotType>
-			<SlotCount>2</SlotCount>
-			<Hardpoint>-1</Hardpoint>
-		</SlotGroup>
-		<SlotGroup>
-			<SlotType>Electronics</SlotType>
-			<SlotCount>2</SlotCount>
-			<Hardpoint>-1</Hardpoint>
-		</SlotGroup>
-		<SlotGroup>
 			<SlotType>General</SlotType>
-			<SlotCount>1</SlotCount>
+			<SlotCount>5</SlotCount>
 			<Hardpoint>-1</Hardpoint>
 		</SlotGroup>
 	</HeadSlotGroups>
@@ -78,26 +68,6 @@
 			<Hardpoint>-1</Hardpoint>
 		</SlotGroup>
 		<SlotGroup>
-			<SlotType>WeaponBallistic</SlotType>
-			<SlotCount>1</SlotCount>
-			<Hardpoint>0</Hardpoint>
-		</SlotGroup>
-		<SlotGroup>
-			<SlotType>WeaponBallistic</SlotType>
-			<SlotCount>1</SlotCount>
-			<Hardpoint>1</Hardpoint>
-		</SlotGroup>
-		<SlotGroup>
-			<SlotType>WeaponEnergy</SlotType>
-			<SlotCount>1</SlotCount>
-			<Hardpoint>2</Hardpoint>
-		</SlotGroup>
-		<SlotGroup>
-			<SlotType>WeaponEnergy</SlotType>
-			<SlotCount>1</SlotCount>
-			<Hardpoint>3</Hardpoint>
-		</SlotGroup>
-		<SlotGroup>
 			<SlotType>General</SlotType>
 			<SlotCount>1</SlotCount>
 			<Hardpoint>-1</Hardpoint>
@@ -105,25 +75,25 @@
 	</TorsoCenterSlotGroups>
 	<TorsoLeftSlotGroups>
 		<SlotGroup>
-			<SlotType>WeaponMissile</SlotType>
-			<SlotCount>6</SlotCount>
+			<SlotType>WeaponBallistic</SlotType>
+			<SlotCount>4</SlotCount>
 			<Hardpoint>0</Hardpoint>
 		</SlotGroup>
 		<SlotGroup>
 			<SlotType>General</SlotType>
-			<SlotCount>5</SlotCount>
+			<SlotCount>7</SlotCount>
 			<Hardpoint>-1</Hardpoint>
 		</SlotGroup>
 	</TorsoLeftSlotGroups>
 	<TorsoRightSlotGroups>
 		<SlotGroup>
-			<SlotType>WeaponMissile</SlotType>
-			<SlotCount>6</SlotCount>
+			<SlotType>WeaponBallistic</SlotType>
+			<SlotCount>4</SlotCount>
 			<Hardpoint>0</Hardpoint>
 		</SlotGroup>
 		<SlotGroup>
 			<SlotType>General</SlotType>
-			<SlotCount>5</SlotCount>
+			<SlotCount>7</SlotCount>
 			<Hardpoint>-1</Hardpoint>
 		</SlotGroup>
 	</TorsoRightSlotGroups>
@@ -135,13 +105,8 @@
 		</SlotGroup>
 		<SlotGroup>
 			<SlotType>WeaponEnergy</SlotType>
-			<SlotCount>1</SlotCount>
+			<SlotCount>2</SlotCount>
 			<Hardpoint>1</Hardpoint>
-		</SlotGroup>
-		<SlotGroup>
-			<SlotType>WeaponEnergy</SlotType>
-			<SlotCount>1</SlotCount>
-			<Hardpoint>2</Hardpoint>
 		</SlotGroup>
 		<SlotGroup>
 			<SlotType>General</SlotType>
@@ -157,13 +122,8 @@
 		</SlotGroup>
 		<SlotGroup>
 			<SlotType>WeaponEnergy</SlotType>
-			<SlotCount>1</SlotCount>
+			<SlotCount>2</SlotCount>
 			<Hardpoint>1</Hardpoint>
-		</SlotGroup>
-		<SlotGroup>
-			<SlotType>WeaponEnergy</SlotType>
-			<SlotCount>1</SlotCount>
-			<Hardpoint>2</Hardpoint>
 		</SlotGroup>
 		<SlotGroup>
 			<SlotType>General</SlotType>

@@ -1,2 +1,2 @@
-MechPontif Pontif
-MechPontifDesc Description Required!
+MechPontiff Pontiff
+MechPontiffDesc Description Required!
