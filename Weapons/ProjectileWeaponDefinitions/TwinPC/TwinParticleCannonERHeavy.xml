@@ -6,9 +6,9 @@
 		<y>1.0</y>
 		<z>0.6</z>
 	</ModelScale>
-	<SalvoCount>2</SalvoCount>
-	<SalvoDelay>0.1</SalvoDelay>
 	<ProjectileDefinitions>
 		<string>TwinParticleCannonERHeavy</string>
 	</ProjectileDefinitions>
+	<SalvoCount>2</SalvoCount>
+	<SalvoDelay>0.1</SalvoDelay>
 </ProjectileWeaponDefinition>

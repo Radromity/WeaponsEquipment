@@ -16,9 +16,9 @@
 	</DefaultWeaponGrouping>
 	<MuzzleEffectPrefab>MuzzleFlashParticleCannon</MuzzleEffectPrefab>
 	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
-	<SalvoCount>2</SalvoCount>
-	<SalvoDelay>0.1</SalvoDelay>
 	<ProjectileDefinitions>
 		<string>TwinParticleCannonLight</string>
 	</ProjectileDefinitions>
+	<SalvoCount>2</SalvoCount>
+	<SalvoDelay>0.1</SalvoDelay>
 </ProjectileWeaponDefinition>
