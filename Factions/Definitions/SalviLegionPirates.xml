@@ -214,6 +214,10 @@
 			<RandomWeight>1.0</RandomWeight>
 		</GroundVehicleSpawnDefinition>
 		<GroundVehicleSpawnDefinition>
+			<Definition>ShredderRG</Definition>
+			<RandomWeight>0.2</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
 			<Definition>Thor</Definition>
 			<RandomWeight>1.0</RandomWeight>
 		</GroundVehicleSpawnDefinition>	

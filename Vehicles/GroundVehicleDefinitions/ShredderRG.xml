@@ -1,0 +1,34 @@
+<GroundVehicleDefinition>
+	<Prefab>Shredder</Prefab>
+	<DisplayName>VehicleShredderRG</DisplayName>
+	<GroundVehicleMovement>Tracked</GroundVehicleMovement>
+	<PhysicsMass>1000.0</PhysicsMass>
+	<PhysicsFriction>0.18</PhysicsFriction>
+	<EngineForce>140000</EngineForce>
+	<EngineTurnForce>55000</EngineTurnForce>
+	<MaxSpeed>1.22</MaxSpeed>
+	
+	<FrontArmor>44</FrontArmor>
+	<RearArmor>10</RearArmor>
+	<LeftArmor>23</LeftArmor>
+	<RightArmor>23</RightArmor>
+	<ArmorTypeAllSides>standard</ArmorTypeAllSides>
+	<InternalHealth>18</InternalHealth>
+
+	<TurretRotationSpeed>16</TurretRotationSpeed>
+	<BarrelRotationSpeed>20</BarrelRotationSpeed>
+	<BarrelLimitUp>15</BarrelLimitUp>
+	<BarrelLimitDown>5</BarrelLimitDown>
+	
+	<MechLegDamage>7.0</MechLegDamage>
+	
+	<Components>
+		<string>GaussRifleMicroRapid</string>
+		<string>GaussRifleMicroRapid</string>
+		<string>AmmoSlug1cm_I</string>
+		<string>AmmoSlug1cm_I</string>
+		<string>AmmoSlug1cm_I</string>
+		<string>AmmoSlug1cm_I</string>
+	</Components>
+	
+</GroundVehicleDefinition>
