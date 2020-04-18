@@ -1,0 +1,16 @@
+Patch 0.0.6:
+  Added Shredder Variant with twin Rapid Fire Gauss.
+Patch 0.0.5:
+  Added new Mech the Pontiff. A moddification of the Priest.
+  Removed HE Autocannons.
+  Added HE Autocannon Ammo.
+Patch 0.0.4:
+  Added Twin Particle Cannons.
+  Organized the XML files into their own folders to make it easier to find items in the future.
+Patch 0.0.3:
+  Added HE Autocannons.
+  Added Cannister Gauss.
+Patch 0.0.2:
+  Added Rapidfire Normal, Light, Heavy Gauss.
+Patch 0.0.1:
+  Added in a Burst fire micro gauss called a Rapidfire Micro Gauss

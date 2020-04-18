@@ -6,6 +6,9 @@ Additions:
   HE Autocannon Ammo: High Explosive Autocannon ammo that does Aoe Damage.
   Canister Gauss: Shotgun Gauss, nuff said.
   Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
+  New Shredder Variant: Shredder - Rapid Gauss with twin Rapid Fire Gauss.
+Patch 0.0.6:
+  Added Shredder Variant with twin Rapid Fire Gauss.
 Patch 0.0.5:
   Added new Mech the Pontiff. A moddification of the Priest.
   Removed HE Autocannons.
