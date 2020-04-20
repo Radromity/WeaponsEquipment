@@ -7,8 +7,13 @@ Additions:
   Canister Gauss: Shotgun Gauss, nuff said.
   Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
   New Shredder Variant: Shredder - Rapid Gauss with twin Rapid Fire Gauss.
+  New Anvil Variants, A, B, C, and D.
+  New Barrage Variants, A, B, C, D, and M. Additional 3 subvariants of the C for different ammo configurations, CG, CR and CS.
 Patch 0.0.6:
   Added Shredder Variant with twin Rapid Fire Gauss.
+  Added four new Anvil variants. The A, B, C, and D
+  Added 5 new variants of the Barrage, A, B, C, D, and M.
+  Added 3 Subvariants of the Barrage CG, CR, CS. Small ammo changes to vary the C up and offer different types of ammo as salvage.
 Patch 0.0.5:
   Added new Mech the Pontiff. A moddification of the Priest.
   Removed HE Autocannons.
