@@ -34,6 +34,38 @@
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
+			<MechChassis>Anvil</MechChassis>
+			<MechDesign>Anvil A</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.75</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Anvil</MechChassis>
+			<MechDesign>Anvil B</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Anvil</MechChassis>
+			<MechDesign>Anvil C</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Anvil</MechChassis>
+			<MechDesign>Anvil D</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
 			<MechChassis>Hammer</MechChassis>
 			<MechDesign>Hammer Prime</MechDesign>
 			<MechPaintSchemes>
@@ -126,6 +158,38 @@
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
+			<MechChassis>Falcon</MechChassis>
+			<MechDesign>Falcon A</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Falcon</MechChassis>
+			<MechDesign>Falcon B</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Falcon</MechChassis>
+			<MechDesign>Falcon C</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.75</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Falcon</MechChassis>
+			<MechDesign>Falcon D</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
 			<MechChassis>Hellfire</MechChassis>
 			<MechDesign>Hellfire Prime</MechDesign>
 			<MechPaintSchemes>
@@ -168,12 +232,124 @@
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
+			<MechChassis>Barrage</MechChassis>
+			<MechDesign>Barrage A</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.40</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Barrage</MechChassis>
+			<MechDesign>Barrage B</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Barrage</MechChassis>
+			<MechDesign>Barrage C</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Barrage</MechChassis>
+			<MechDesign>Barrage CG</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.50</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Barrage</MechChassis>
+			<MechDesign>Barrage CR</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.25</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Barrage</MechChassis>
+			<MechDesign>Barrage CS</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.25</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Barrage</MechChassis>
+			<MechDesign>Barrage D</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.75</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Barrage</MechChassis>
+			<MechDesign>Barrage M</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.1</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
 			<MechChassis>Dreadnought</MechChassis>
 			<MechDesign>Dreadnought Prime</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Dreadnought</MechChassis>
+			<MechDesign>Dreadnought A</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.75</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Dreadnought</MechChassis>
+			<MechDesign>Dreadnought B</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Dreadnought</MechChassis>
+			<MechDesign>Dreadnought C</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Dreadnought</MechChassis>
+			<MechDesign>Dreadnought D</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.5</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Dreadnought</MechChassis>
+			<MechDesign>Dreadnought M</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.1</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Dreadnought</MechChassis>
+			<MechDesign>Dreadnought RAC</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>0.25</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Fury</MechChassis>
@@ -228,6 +404,10 @@
 		<GroundVehicleSpawnDefinition>
 			<Definition>Shredder</Definition>
 			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>ShredderRG</Definition>
+			<RandomWeight>0.8</RandomWeight>
 		</GroundVehicleSpawnDefinition>
 		<GroundVehicleSpawnDefinition>
 			<Definition>Thor</Definition>

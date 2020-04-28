@@ -7,23 +7,11 @@ Additions:
   HE Autocannon Ammo: High Explosive Autocannon ammo that does Aoe Damage.
   Canister Gauss: Shotgun Gauss, nuff said.
   Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
-Patch 0.0.5:
-  Added new Mech the Pontiff. A moddification of the Priest.
-  Removed HE Autocannons.
-  Added HE Autocannon Ammo.
-Patch 0.0.4:
-  Added Twin Particle Cannons.
-  Organized the XML files into their own folders to make it easier to find items in the future.
-Patch 0.0.3:
-  Added HE Autocannons.
-  Added Cannister Gauss.
-Patch 0.0.2:
-  Added Rapidfire Normal, Light, Heavy Gauss.
-Patch 0.0.1:
-  Added in a Burst fire micro gauss called a Rapidfire Micro Gauss</Description>
+  1 New Tank Variants, 22 New Mech Variants!
+</Description>
   <Author>Katrina Kerensky</Author>
-  <ModVersion>0.0.4 Alpha</ModVersion>
-  <BaseGameVersion>0.13.9</BaseGameVersion>
+  <ModVersion>0.0.6 Alpha</ModVersion>
+  <BaseGameVersion>0.14.0</BaseGameVersion>
   <PreviewImagePath>PreviewImage.png</PreviewImagePath>
   <SteamPublishedID>2063486516</SteamPublishedID>
 </ModInfo>
