@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MechDesign xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DesignName>Fury A</DesignName>
+  <MechChassisDefinition>Fury</MechChassisDefinition>
+  <ArmorTypeHead>standard</ArmorTypeHead>
+  <ArmorPointsHead>10</ArmorPointsHead>
+  <ArmorTypeTorsoCenter>standard</ArmorTypeTorsoCenter>
+  <ArmorPointsTorsoCenter>90</ArmorPointsTorsoCenter>
+  <ArmorPointsTorsoCenterRear>14</ArmorPointsTorsoCenterRear>
+  <ArmorTypeTorsoLeft>standard</ArmorTypeTorsoLeft>
+  <ArmorPointsTorsoLeft>56</ArmorPointsTorsoLeft>
+  <ArmorPointsTorsoLeftRear>10</ArmorPointsTorsoLeftRear>
+  <ArmorTypeTorsoRight>standard</ArmorTypeTorsoRight>
+  <ArmorPointsTorsoRight>56</ArmorPointsTorsoRight>
+  <ArmorPointsTorsoRightRear>10</ArmorPointsTorsoRightRear>
+  <ArmorTypeArmLeft>standard</ArmorTypeArmLeft>
+  <ArmorPointsArmLeft>48</ArmorPointsArmLeft>
+  <ArmorTypeArmRight>standard</ArmorTypeArmRight>
+  <ArmorPointsArmRight>48</ArmorPointsArmRight>
+  <ArmorTypeLegLeft>standard</ArmorTypeLegLeft>
+  <ArmorPointsLegLeft>64</ArmorPointsLegLeft>
+  <ArmorTypeLegRight>standard</ArmorTypeLegRight>
+  <ArmorPointsLegRight>64</ArmorPointsLegRight>
+  <ComponentGroupsHead>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsHead>
+  <ComponentGroupsTorsoCenter>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>EngineUltraLight350</ComponentDefinition>
+        </ComponentSaved>
+        <ComponentSaved>
+          <ComponentDefinition>ReactorShieldingIV</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsTorsoCenter>
+  <ComponentGroupsTorsoLeft>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>LaserLight_Medium</ComponentDefinition>
+          <WeaponGrouping>
+            <WeaponGroup1>true</WeaponGroup1>
+            <WeaponGroup2>false</WeaponGroup2>
+            <WeaponGroup3>false</WeaponGroup3>
+            <WeaponGroup4>false</WeaponGroup4>
+            <WeaponGroup5>false</WeaponGroup5>
+            <WeaponGroup6>false</WeaponGroup6>
+          </WeaponGrouping>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>LaserLight_Medium</ComponentDefinition>
+          <WeaponGrouping>
+            <WeaponGroup1>true</WeaponGroup1>
+            <WeaponGroup2>false</WeaponGroup2>
+            <WeaponGroup3>false</WeaponGroup3>
+            <WeaponGroup4>false</WeaponGroup4>
+            <WeaponGroup5>false</WeaponGroup5>
+            <WeaponGroup6>false</WeaponGroup6>
+          </WeaponGrouping>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>HVAC2cm</ComponentDefinition>
+          <WeaponGrouping>
+            <WeaponGroup1>false</WeaponGroup1>
+            <WeaponGroup2>true</WeaponGroup2>
+            <WeaponGroup3>false</WeaponGroup3>
+            <WeaponGroup4>false</WeaponGroup4>
+            <WeaponGroup5>false</WeaponGroup5>
+            <WeaponGroup6>false</WeaponGroup6>
+          </WeaponGrouping>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoHVAC2cm_III</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsTorsoLeft>
+  <ComponentGroupsTorsoRight>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>LaserLight_Medium</ComponentDefinition>
+          <WeaponGrouping>
+            <WeaponGroup1>true</WeaponGroup1>
+            <WeaponGroup2>false</WeaponGroup2>
+            <WeaponGroup3>false</WeaponGroup3>
+            <WeaponGroup4>false</WeaponGroup4>
+            <WeaponGroup5>false</WeaponGroup5>
+            <WeaponGroup6>false</WeaponGroup6>
+          </WeaponGrouping>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>LaserLight_Medium</ComponentDefinition>
+          <WeaponGrouping>
+            <WeaponGroup1>true</WeaponGroup1>
+            <WeaponGroup2>false</WeaponGroup2>
+            <WeaponGroup3>false</WeaponGroup3>
+            <WeaponGroup4>false</WeaponGroup4>
+            <WeaponGroup5>false</WeaponGroup5>
+            <WeaponGroup6>false</WeaponGroup6>
+          </WeaponGrouping>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>HVAC2cm</ComponentDefinition>
+          <WeaponGrouping>
+            <WeaponGroup1>false</WeaponGroup1>
+            <WeaponGroup2>true</WeaponGroup2>
+            <WeaponGroup3>false</WeaponGroup3>
+            <WeaponGroup4>false</WeaponGroup4>
+            <WeaponGroup5>false</WeaponGroup5>
+            <WeaponGroup6>false</WeaponGroup6>
+          </WeaponGrouping>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoHVAC2cm_III</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsTorsoRight>
+  <ComponentGroupsArmLeft>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>HVAC5cm</ComponentDefinition>
+          <WeaponGrouping>
+            <WeaponGroup1>false</WeaponGroup1>
+            <WeaponGroup2>true</WeaponGroup2>
+            <WeaponGroup3>false</WeaponGroup3>
+            <WeaponGroup4>false</WeaponGroup4>
+            <WeaponGroup5>false</WeaponGroup5>
+            <WeaponGroup6>false</WeaponGroup6>
+          </WeaponGrouping>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoHVAC5cm_III</ComponentDefinition>
+        </ComponentSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoHVAC5cm_II</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsArmLeft>
+  <ComponentGroupsArmRight>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>HVAC5cm</ComponentDefinition>
+          <WeaponGrouping>
+            <WeaponGroup1>false</WeaponGroup1>
+            <WeaponGroup2>true</WeaponGroup2>
+            <WeaponGroup3>false</WeaponGroup3>
+            <WeaponGroup4>false</WeaponGroup4>
+            <WeaponGroup5>false</WeaponGroup5>
+            <WeaponGroup6>false</WeaponGroup6>
+          </WeaponGrouping>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoHVAC5cm_III</ComponentDefinition>
+        </ComponentSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoHVAC5cm_II</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsArmRight>
+  <ComponentGroupsLegLeft>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsLegLeft>
+  <ComponentGroupsLegRight>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>HeatSinkVI</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+  </ComponentGroupsLegRight>
+</MechDesign>
