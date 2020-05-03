@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MechDesign xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DesignName>Hammer J</DesignName>
+  <MechChassisDefinition>Hammer</MechChassisDefinition>
+  <ArmorTypeHead>standard</ArmorTypeHead>
+  <ArmorPointsHead>18</ArmorPointsHead>
+  <ArmorTypeTorsoCenter>standard</ArmorTypeTorsoCenter>
+  <ArmorPointsTorsoCenter>38</ArmorPointsTorsoCenter>
+  <ArmorPointsTorsoCenterRear>12</ArmorPointsTorsoCenterRear>
+  <ArmorTypeTorsoLeft>standard</ArmorTypeTorsoLeft>
+  <ArmorPointsTorsoLeft>20</ArmorPointsTorsoLeft>
+  <ArmorPointsTorsoLeftRear>8</ArmorPointsTorsoLeftRear>
+  <ArmorTypeTorsoRight>standard</ArmorTypeTorsoRight>
+  <ArmorPointsTorsoRight>26</ArmorPointsTorsoRight>
+  <ArmorPointsTorsoRightRear>10</ArmorPointsTorsoRightRear>
+  <ArmorTypeArmLeft>standard</ArmorTypeArmLeft>
+  <ArmorPointsArmLeft>18</ArmorPointsArmLeft>
+  <ArmorTypeArmRight>standard</ArmorTypeArmRight>
+  <ArmorPointsArmRight>18</ArmorPointsArmRight>
+  <ArmorTypeLegLeft>standard</ArmorTypeLegLeft>
+  <ArmorPointsLegLeft>31</ArmorPointsLegLeft>
+  <ArmorTypeLegRight>standard</ArmorTypeLegRight>
+  <ArmorPointsLegRight>31</ArmorPointsLegRight>
+  <ComponentGroupsHead>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>RadarBoosterI</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsHead>
+  <ComponentGroupsTorsoCenter>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>EngineUltraLight200</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsTorsoCenter>
+  <ComponentGroupsTorsoLeft>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsTorsoLeft>
+  <ComponentGroupsTorsoRight>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>GaussRifleRapid</ComponentDefinition>
+          <WeaponGrouping>
+            <WeaponGroup1>false</WeaponGroup1>
+            <WeaponGroup2>true</WeaponGroup2>
+            <WeaponGroup3>false</WeaponGroup3>
+            <WeaponGroup4>false</WeaponGroup4>
+            <WeaponGroup5>false</WeaponGroup5>
+            <WeaponGroup6>false</WeaponGroup6>
+          </WeaponGrouping>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoSlug4cm_III</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
+    </ComponentGroup>
+  </ComponentGroupsTorsoRight>
+  <ComponentGroupsArmLeft>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsArmLeft>
+  <ComponentGroupsArmRight>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsArmRight>
+  <ComponentGroupsLegLeft>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsLegLeft>
+  <ComponentGroupsLegRight>
+    <ComponentGroup>
+      <ComponentsSaved />
+    </ComponentGroup>
+  </ComponentGroupsLegRight>
+</MechDesign>

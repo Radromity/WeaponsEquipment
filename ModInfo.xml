@@ -7,11 +7,12 @@ Additions:
   HE Autocannon Ammo: High Explosive Autocannon ammo that does Aoe Damage.
   Canister Gauss: Shotgun Gauss, nuff said.
   Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
-  1 New Tank Variants, 22 New Mech Variants!
+  1 New Tank Variants, 44 New Mech Variants, 1 New Mech Chassis!
+  These additions appear in Career and Instant Action.
 </Description>
   <Author>Katrina Kerensky</Author>
-  <ModVersion>0.0.6 Alpha</ModVersion>
-  <BaseGameVersion>0.14.0</BaseGameVersion>
+  <ModVersion>0.0.7 Alpha</ModVersion>
+  <BaseGameVersion>1.0.2</BaseGameVersion>
   <PreviewImagePath>PreviewImage.png</PreviewImagePath>
   <SteamPublishedID>2063486516</SteamPublishedID>
 </ModInfo>
