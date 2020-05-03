@@ -1,9 +1,11 @@
+Patch 0.0.7:
+  Added more new Variants.
 Patch 0.0.6:
   Added Shredder Variant with twin Rapid Fire Gauss.
   Added four new Anvil variants. The A, B, C, and D
   Added 8 new variants of the Barrage, A, B, C, CG, CR, CS, D, and M.
   Added 6 new variants of the Dreadnought, A, B, C, D, M, RAC.
-  Added   new variants of the Falcon, A, B, C, and D.
+  Added 4 new variants of the Falcon, A, B, C, and D.
 Patch 0.0.5:
   Added new Mech the Pontiff. A moddification of the Priest.
   Removed HE Autocannons.
