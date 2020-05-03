@@ -74,6 +74,86 @@
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer A</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer B</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer C</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer D</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer E</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer F</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer G</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer H</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer I</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Hammer</MechChassis>
+			<MechDesign>Hammer J</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
 			<MechChassis>Inferno</MechChassis>
 			<MechDesign>Inferno Prime</MechDesign>
 			<MechPaintSchemes>
@@ -108,8 +188,72 @@
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
+			<MechChassis>GhostWolf</MechChassis>
+			<MechDesign>Ghost Wolf A</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>GhostWolf</MechChassis>
+			<MechDesign>Ghost Wolf B</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>GhostWolf</MechChassis>
+			<MechDesign>Ghost Wolf C</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>GhostWolf</MechChassis>
+			<MechDesign>Ghost Wolf D</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
 			<MechChassis>Gunstar</MechChassis>
 			<MechDesign>Gunstar Prime</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Gunstar</MechChassis>
+			<MechDesign>Gunstar A</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Gunstar</MechChassis>
+			<MechDesign>Gunstar B</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Gunstar</MechChassis>
+			<MechDesign>Gunstar C</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Gunstar</MechChassis>
+			<MechDesign>Gunstar D</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
@@ -354,6 +498,38 @@
 		<MechSpawnDefinition>
 			<MechChassis>Fury</MechChassis>
 			<MechDesign>Fury Prime</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Fury</MechChassis>
+			<MechDesign>Fury A</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Fury</MechChassis>
+			<MechDesign>Fury B</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Fury</MechChassis>
+			<MechDesign>Fury C</MechDesign>
+			<MechPaintSchemes>
+				<string>WhiteLionCompany</string>
+			</MechPaintSchemes>
+			<RandomWeight>1.0</RandomWeight>
+		</MechSpawnDefinition>
+		<MechSpawnDefinition>
+			<MechChassis>Fury</MechChassis>
+			<MechDesign>Fury D</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
