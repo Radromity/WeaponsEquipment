@@ -1,5 +1,5 @@
 Patch 0.0.7:
-  Added more new Variants.
+  Added more new Variants. 4 for the Fury, 4 for the Ghost Wolf, 4 for the Gunstar, and 10 for the Hammer. Will probably be reworked next version.
 Patch 0.0.6:
   Added Shredder Variant with twin Rapid Fire Gauss.
   Added four new Anvil variants. The A, B, C, and D
