@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <DisplayName>Weapons, Equipment and more</DisplayName>
-  <Description>Adds in new weapons, equipment, and everything else i decide i might want. Early Alpha.
+  <Description>Adds in new weapons, equipment, and everything else i decide i might want. Feel free to pitch your ideas for new weapons, mechs, factions, etc... Early Beta.
 Additions:
   Rapidfire Gauss: 3 Shot gauss rifles that function identically to burst autocannons.
   HE Autocannon Ammo: High Explosive Autocannon ammo that does Aoe Damage.
@@ -9,9 +9,14 @@ Additions:
   Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
   1 New Tank Variants, 44 New Mech Variants, 1 New Mech Chassis!
   These additions appear in Career and Instant Action.
+
+  Credits:
+  Rumia - Main Developer
+  AK Night Hawk - Continous Laser Arrays
+  Tuprewm - MG Arrays, Cannon Arrays
 </Description>
   <Author>Katrina Kerensky</Author>
-  <ModVersion>0.0.7 Alpha</ModVersion>
+  <ModVersion>0.1.0 Beta</ModVersion>
   <BaseGameVersion>1.0.2</BaseGameVersion>
   <PreviewImagePath>PreviewImage.png</PreviewImagePath>
   <SteamPublishedID>2063486516</SteamPublishedID>
