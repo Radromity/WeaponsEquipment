@@ -245,6 +245,10 @@ WeaponGaussRifleHeavyCan Cannister Heavy Gauss Rifle
 WeaponGaussRifleLightCan Cannister Light Gauss Rifle
 WeaponGaussRifleMicroCan Cannister Micro Gauss Rifle
 
+WeaponContinuousLaserLargeArray2 Continuous Large Laser Array x2
+WeaponContinuousLaserMediumArray4 Continuous Medium Laser Array x2
+WeaponContinuousLaserSmallArray6 Continuous Small Laser Array x2
+
 WeaponDDITwinPC Twin PC
 WeaponDDITwinPCH Twin H-PC
 WeaponDDITwinPCL Twin L-PC
@@ -263,3 +267,11 @@ WeaponDDIGaussRifleCan Cannister Gauss Rifle
 WeaponDDIGaussRifleHeavyCan Cannister Heavy Gauss Rifle
 WeaponDDIGaussRifleLightCan Cannister Light Gauss Rifle
 WeaponDDIGaussRifleMicroCan Cannister Micro Gauss Rifle
+
+WeaponHMGA7 Heavy Machine Gun Array x7
+WeaponMGA7 Machine Gun Array x7
+WeaponLMGA7 Light Machine Gun Array x7
+
+WeaponAC2cmA2 Autocannon 2cm Array x2
+WeaponAC2cmA3 Autocannon 2cm Array x3
+WeaponAC2cmA4 Autocannon 2cm Array x4

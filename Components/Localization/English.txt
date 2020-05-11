@@ -6,6 +6,8 @@ ComponentSetTwinPC Twin Particle Cannons
 
 ComponentSetAmmoSlugCan Canister Slug Mags
 
+ComponentSetContinuousLaserArray Continuous Laser Arrays
+
 ComponentAmmoSlug4cmCan_I Slug 4cm Canister Mag I
 ComponentAmmoSlug4cmCan_II Slug 4cm Canister Mag II
 ComponentAmmoSlug4cmCan_III Slug 4cm Canister Mag III
@@ -84,3 +86,23 @@ ComponentGaussRifleLightCan Canister Light GaussRifle
 ComponentGaussRifleLightCanDesc Canister Light GaussRifle
 ComponentGaussRifleMicroCan Canister Micro Gauss Rifle
 ComponentGaussRifleMicroCanDesc Canister Micro Gauss Rifle
+
+ComponentLaserContinuousLargeArray2 Large Continuous Laser Array x2
+ComponentLaserContinuousMediumArray4 Medium Continuous Laser Array x4
+ComponentLaserContinuousSmallArray6 Small Continuous Laser Array x6
+
+ComponentLaserContinuousLargeArray2Desc Large Continuous Laser Array x2
+ComponentLaserContinuousMediumArray4Desc Medium Continuous Laser Array x4
+ComponentLaserContinuousSmallArray6Desc Small Continuous Laser Array x6
+
+ComponentHMGA7 Heavy Machine Gun Array x7
+ComponentHMGA7Desc Heavy Machine Gun Array x7
+ComponentMGA7 Machine Gun Array x7
+ComponentMGA7Desc Machine Gun Array x7
+ComponentLMGA7 Light Machine Gun Array x7
+ComponentLMGA7Desc Light Machine Gun Array x7
+
+ComponentSetAutocannonArray Autocannon Arrays
+ComponentAC2A2 Autocannon 2cm Array x2
+ComponentAC2A3 Autocannon 2cm Array x3
+ComponentAC2A4 Autocannon 2cm Array x4

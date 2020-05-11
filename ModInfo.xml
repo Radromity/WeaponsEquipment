@@ -7,17 +7,18 @@ Additions:
   HE Autocannon Ammo: High Explosive Autocannon ammo that does Aoe Damage.
   Canister Gauss: Shotgun Gauss, nuff said.
   Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
+  More MG Arrays, Cannon Arrays, Continuous Laser Arrays, More pew pew and dakka for your slots at the cost of tonnage and heat.
   1 New Tank Variants, 44 New Mech Variants, 1 New Mech Chassis!
   These additions appear in Career and Instant Action.
 
   Credits:
   Rumia - Main Developer
-  AK Night Hawk - Continous Laser Arrays
+  AK Night Hawk - Continuous Laser Arrays
   Tuprewm - MG Arrays, Cannon Arrays
 </Description>
   <Author>Katrina Kerensky</Author>
   <ModVersion>0.1.0 Beta</ModVersion>
-  <BaseGameVersion>1.0.2</BaseGameVersion>
+  <BaseGameVersion>1.0.7</BaseGameVersion>
   <PreviewImagePath>PreviewImage.png</PreviewImagePath>
   <SteamPublishedID>2063486516</SteamPublishedID>
 </ModInfo>
