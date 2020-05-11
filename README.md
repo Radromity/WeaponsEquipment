@@ -6,9 +6,24 @@ Additions:
   HE Autocannon Ammo: High Explosive Autocannon ammo that does Aoe Damage.
   Canister Gauss: Shotgun Gauss, nuff said.
   Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
-  New Shredder Variant: Shredder - Rapid Gauss with twin Rapid Fire Gauss.
-  New Anvil Variants, A, B, C, and D.
-  New Barrage Variants, A, B, C, D, and M. Additional 3 subvariants of the C for different ammo configurations, CG, CR and CS.
+  x7 x9 MG Arrays, Cannon Arrays, Continuous Laser Arrays, More pew pew and dakka for your slots at the cost of tonnage and heat.
+  1 New Tank Variants, 44 New Mech Variants, 1 New Mech Chassis!
+  These additions appear in Career and Instant Action.
+
+  Credits:
+  Rumia - Main Developer
+  AK Night Hawk - Continuous Laser Arrays
+  Tuprewm - MG Arrays, Cannon Arrays
+
+Patch 0.1.0:
+  Entered Beta.
+  Added more MG arrays.
+  Added Continuous Laser Arrays
+  Added Cannon Arrays.
+  Started work on faction weapon variants, not finished yet.
+  Fixed Pontiff Prime being shown as "Ultra Light"
+Patch 0.0.7:
+  Added more new Variants. 4 for the Fury, 4 for the Ghost Wolf, 4 for the Gunstar, and 10 for the Hammer. Will probably be reworked next version.
 Patch 0.0.6:
   Added Shredder Variant with twin Rapid Fire Gauss.
   Added four new Anvil variants. The A, B, C, and D

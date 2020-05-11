@@ -1,0 +1,7 @@
+<ProjectileWeaponDefinition>
+	<BaseDefinition>MG</BaseDefinition>
+	<DisplayName>WeaponMGA7</DisplayName>
+	<ModelPrefab>MachineGunArrayx5</ModelPrefab>
+	<RecycleTime>0.13</RecycleTime>
+	<ShotsPerSalvo>7</ShotsPerSalvo>
+</ProjectileWeaponDefinition>

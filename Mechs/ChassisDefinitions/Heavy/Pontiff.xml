@@ -11,7 +11,7 @@
 	<DefaultDesign>Pontiff Prime</DefaultDesign>
 	<MechPrefab>PriestPrefab</MechPrefab>
 	<CockpitPrefab>Cockpit1</CockpitPrefab>
-	<MechClass>heavy</MechClass>
+	<UnitClass>MechHeavy</UnitClass>
 	<Tonnage>65</Tonnage>
 	<BaseWeight>6.5</BaseWeight>
 	

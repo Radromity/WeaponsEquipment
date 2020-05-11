@@ -1,0 +1,7 @@
+<ProjectileWeaponDefinition>
+	<BaseDefinition>AC2cm</BaseDefinition>
+	<DisplayName>WeaponAC2cmA2</DisplayName>
+	<ModelPrefab>AutoCannon2cm</ModelPrefab>
+	<RecycleTime>0.76</RecycleTime>
+	<SalvoCount>2</SalvoCount>
+</ProjectileWeaponDefinition>
