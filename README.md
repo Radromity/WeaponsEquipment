@@ -3,7 +3,7 @@
 
 Additions:
   Rapidfire Gauss: 3 Shot gauss rifles that function identically to burst autocannons.
-  HE Autocannon Ammo: High Explosive Autocannon ammo that does Aoe Damage.
+  HE, AP, Flak, Magnum, Caseless, Incendiary, Precision AC Ammo
   Canister Gauss: Shotgun Gauss, nuff said.
   Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
   x7 x9 MG Arrays, Cannon Arrays, Continuous Laser Arrays, More pew pew and dakka for your slots at the cost of tonnage and heat.
@@ -17,7 +17,7 @@ Additions:
 Patch 0.2.0:
   Adjusted filestructure so all equipment and weapons are organized for implementation of faction variant weapons.
   Made HE AC rounds create a explosion effect to emphasise the aoe damage.
-  Added AP AC rounds.
+  Added AP, Flak AC rounds.
 Patch 0.1.0:
   Entered Beta.
   Added more MG arrays.
