@@ -25,7 +25,7 @@ ComponentAmmoSlug1cmCan_II Slug 1cm Canister Mag II
 ComponentAmmoSlug1cmCan_III Slug 1cm Canister Mag III
 ComponentAmmoSlug1cmCanDesc Description Required!
 
-ComponentSetAmmoACAoe High Explosive Autocannon Rounds
+ComponentSetAmmoACAlt Alternative Autocannon Munitions
 
 ComponentAmmoAC2cmAoe_I High Explosive AC2cm Rounds I
 ComponentAmmoAC2cmAoe_II High Explosive AC2cm Rounds II
@@ -51,6 +51,31 @@ ComponentAmmoAC30cmAoe_I High Explosive AC30cm Rounds I
 ComponentAmmoAC30cmAoe_II High Explosive AC30cm Rounds II
 ComponentAmmoAC30cmAoe_III High Explosive AC30cm Rounds III
 ComponentAmmoAC30cmAoeDesc High Explosive AC30cm Rounds
+
+ComponentAmmoAC2cmAP_I Armor Piercing AC2cm Rounds I
+ComponentAmmoAC2cmAP_II Armor Piercing AC2cm Rounds II
+ComponentAmmoAC2cmAP_III Armor Piercing AC2cm Rounds III
+ComponentAmmoAC2cmAPDesc Armor Piercing AC2cm Rounds
+ComponentAmmoAC5cmAP_I Armor Piercing AC5cm Rounds I
+ComponentAmmoAC5cmAP_II Armor Piercing AC5cm Rounds II
+ComponentAmmoAC5cmAP_III Armor Piercing AC5cm Rounds III
+ComponentAmmoAC5cmAPDesc Armor Piercing AC5cm Rounds
+ComponentAmmoAC10cmAP_I Armor Piercing AC10cm Rounds I
+ComponentAmmoAC10cmAP_II Armor Piercing AC10cm Rounds II
+ComponentAmmoAC10cmAP_III Armor Piercing AC10cm Rounds III
+ComponentAmmoAC10cmAPDesc Armor Piercing AC10cm Rounds
+ComponentAmmoAC15cmAP_I Armor Piercing AC15cm Rounds I
+ComponentAmmoAC15cmAP_II Armor Piercing AC15cm Rounds II
+ComponentAmmoAC15cmAP_III Armor Piercing AC15cm Rounds III
+ComponentAmmoAC15cmAPDesc Armor Piercing AC15cm Rounds
+ComponentAmmoAC20cmAP_I Armor Piercing AC20cm Rounds I
+ComponentAmmoAC20cmAP_II Armor Piercing AC20cm Rounds II
+ComponentAmmoAC20cmAP_III Armor Piercing AC20cm Rounds III
+ComponentAmmoAC20cmAPDesc Armor Piercing AC20cm Rounds
+ComponentAmmoAC30cmAP_I Armor Piercing AC30cm Rounds I
+ComponentAmmoAC30cmAP_II Armor Piercing AC30cm Rounds II
+ComponentAmmoAC30cmAP_III Armor Piercing AC30cm Rounds III
+ComponentAmmoAC30cmAPDesc Armor Piercing AC30cm Rounds
 
 ComponentTwinParticleCannon Twin PC
 ComponentTwinParticleCannonDesc Twin Particle Cannon

@@ -20,7 +20,7 @@
 	<ProjectileScale>0.4</ProjectileScale>
 	<TrailPrefab>BallisticTrail</TrailPrefab>
 	<TrailScale>0.3</TrailScale>
-	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
+	<ImpactEffectPrefab>Explosion5</ImpactEffectPrefab>
 	<ImpactEffectScale>0.25</ImpactEffectScale>
 	<CollisionDetection>ContinuousDynamic</CollisionDetection>	
 	<ImpactSounds>

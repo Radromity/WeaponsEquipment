@@ -1,27 +1,27 @@
 <ProjectileDefinition>
-	<AmmoType>AC20cmAoe</AmmoType>
-	<Heat>1580.0</Heat>
+	<AmmoType>AC2cmAoe</AmmoType>
+	<Heat>168.0</Heat>
 	<DamageType>Ballistic</DamageType>
-	<DamageEffective>12.0</DamageEffective>
-	<DamageMin>6.0</DamageMin>
-	<RangeDamageMin>54.0</RangeDamageMin>
-	<RangeEffective>27.0</RangeEffective>
+	<DamageEffective>1.2</DamageEffective>
+	<DamageMin>0.6</DamageMin>
+	<RangeDamageMin>144.0</RangeDamageMin>
+	<RangeEffective>72.0</RangeEffective>
 	<HasSplashDamage>true</HasSplashDamage>
 	<SplashDamageRange>3.0</SplashDamageRange>
-	<Velocity>54.0</Velocity>
-	<Spread>0.6</Spread>
-	<ProjectileLifeTime>1.2</ProjectileLifeTime>
+	<Velocity>120.0</Velocity>	
+	<Spread>0.07</Spread>
+	<ProjectileLifeTime>1.44</ProjectileLifeTime>
 	<TrailLifeTime>1.0</TrailLifeTime>
 	<ExplodeOnLifeTime>true</ExplodeOnLifeTime>
 	<UseGravity>true</UseGravity>
-	<Recoil>4.0</Recoil>
-	<FiringSound>FireCannonHeavy</FiringSound>
+	<Recoil>0.4</Recoil>
+	<FiringSound>FireCannonLight</FiringSound>
 	<ProjectilePrefab>CannonProjectile</ProjectilePrefab>
-	<ProjectileScale>0.8</ProjectileScale>
+	<ProjectileScale>0.3</ProjectileScale>
 	<TrailPrefab>BallisticTrail</TrailPrefab>
-	<TrailScale>0.6</TrailScale>
-	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
-	<ImpactEffectScale>0.25</ImpactEffectScale>
+	<TrailScale>0.3</TrailScale>
+	<ImpactEffectPrefab>Explosion5</ImpactEffectPrefab>
+	<ImpactEffectScale>0.20</ImpactEffectScale>
 	<CollisionDetection>ContinuousDynamic</CollisionDetection>	
 	<ImpactSounds>
 		<string>ImpactAutoCannonHeavy</string>

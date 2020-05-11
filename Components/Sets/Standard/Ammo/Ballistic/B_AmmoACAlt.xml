@@ -1,5 +1,5 @@
 <ComponentSet>
-	<DisplayName>ComponentSetAmmoACAoe</DisplayName>
+	<DisplayName>ComponentSetAmmoACAlt</DisplayName>
 	<ComponentType>Ammo</ComponentType>
 	<Color>
 		<r>1.0</r>
@@ -32,5 +32,23 @@
 		<string>AmmoAC30cmAoe_I</string>
 		<string>AmmoAC30cmAoe_II</string>
 		<string>AmmoAC30cmAoe_III</string>
+		<string>AmmoAC2cmAP_I</string>
+		<string>AmmoAC2cmAP_II</string>
+		<string>AmmoAC2cmAP_III</string>
+		<string>AmmoAC5cmAP_I</string>
+		<string>AmmoAC5cmAP_II</string>
+		<string>AmmoAC5cmAP_III</string>
+		<string>AmmoAC10cmAP_I</string>
+		<string>AmmoAC10cmAP_II</string>
+		<string>AmmoAC10cmAP_III</string>
+		<string>AmmoAC15cmAP_I</string>
+		<string>AmmoAC15cmAP_II</string>
+		<string>AmmoAC15cmAP_III</string>
+		<string>AmmoAC20cmAP_I</string>
+		<string>AmmoAC20cmAP_II</string>
+		<string>AmmoAC20cmAP_III</string>
+		<string>AmmoAC30cmAP_I</string>
+		<string>AmmoAC30cmAP_II</string>
+		<string>AmmoAC30cmAP_III</string>
 	</Components>
 </ComponentSet>

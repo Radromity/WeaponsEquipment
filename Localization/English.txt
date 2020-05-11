@@ -10,6 +10,13 @@ AmmoSlug6cmCan Slug 6cm Cannister
 AmmoSlug2cmCan Slug 2cm Cannister
 AmmoSlug1cmCan Slug 1cm Cannister
 
+AmmoAC2cmAP AC2cm AP Ammo
+AmmoAC5cmAP AC5cm AP Ammo
+AmmoAC10cmAP AC10cm AP Ammo
+AmmoAC15cmAP AC15cm AP Ammo
+AmmoAC20cmAP AC20cm AP Ammo
+AmmoAC30cmAP AC30cm AP Ammo
+
 hint1 Shooting out the cockpit of a mech will make it easier to salvage.
 hint2 Destroying both legs of a mech will disable it.
 hint3 A mech's reactor will explode if it gets too hot.
