@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetLaserHeavyER</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.78</r>
+		<g>0.11</g>
+		<b>0.0</b>
+		<a>.88</a>
+	</Color>
+	<Components>
+		<string>LaserERHeavy_Micro</string>
+		<string>LaserERHeavy_Small</string>
+		<string>LaserERHeavy_Medium</string>
+		<string>LaserERHeavy_Large</string>
+	</Components>
+</ComponentSet>

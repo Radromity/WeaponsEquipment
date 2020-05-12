@@ -1,0 +1,15 @@
+<ComponentSet>
+	<DisplayName>ComponentSetHeatBank</DisplayName>
+	<ComponentType>Equipment</ComponentType>
+	<Color>
+		<r>0.2</r>
+		<g>0.2</g>
+		<b>1.0</b>
+		<a>0.88</a>
+	</Color>
+	<Components>
+		<string>HeatBankI</string>
+		<string>HeatBankII</string>
+		<string>HeatBankIII</string>
+	</Components>
+</ComponentSet>

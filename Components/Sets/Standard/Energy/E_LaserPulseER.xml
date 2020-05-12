@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetLaserPulseER</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.78</r>
+		<g>0.11</g>
+		<b>0.0</b>
+		<a>.88</a>
+	</Color>
+	<Components>
+		<string>LaserERPulse_Micro</string>
+		<string>LaserERPulse_Small</string>
+		<string>LaserERPulse_Medium</string>
+		<string>LaserERPulse_Large</string>
+	</Components>
+</ComponentSet>

@@ -1,0 +1,15 @@
+<ComponentSet>
+	<DisplayName>ComponentSetPC</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.78</r>
+		<g>0.11</g>
+		<b>0.0</b>
+		<a>.88</a>
+	</Color>
+	<Components>
+		<string>ParticleCannonLight</string>
+		<string>ParticleCannon</string>
+		<string>ParticleCannonHeavy</string>
+	</Components>
+</ComponentSet>

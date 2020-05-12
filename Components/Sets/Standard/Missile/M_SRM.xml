@@ -1,0 +1,18 @@
+<ComponentSet>
+	<DisplayName>ComponentSetSRM</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.0</r>
+		<g>0.78</g>
+		<b>0.04</b>
+		<a>0.88</a>
+	</Color>
+	<Components>
+		<string>SRM2</string>
+		<string>SRM4</string>
+		<string>SRM6</string>
+		<string>SRM12</string>
+		<string>SRM18</string>
+		<string>SRM24</string>
+	</Components>
+</ComponentSet>

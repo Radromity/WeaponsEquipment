@@ -1,0 +1,13 @@
+<ComponentSet>
+	<DisplayName>ComponentSetTM</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.0</r>
+		<g>0.78</g>
+		<b>0.04</b>
+		<a>0.88</a>
+	</Color>
+	<Components>
+		<string>TAML</string>
+	</Components>
+</ComponentSet>

@@ -4,7 +4,7 @@
 	<DamageType>Ballistic</DamageType>
 	<DamageEffective>5.0</DamageEffective>
 	<DamageMin>2.5</DamageMin>
-	<DamageHeat>370</DamageMin>
+	<DamageHeat>370</DamageHeat>
 	<RangeDamageMin>124.0</RangeDamageMin>
 	<RangeEffective>62.0</RangeEffective>
 	<Velocity>90.0</Velocity>	

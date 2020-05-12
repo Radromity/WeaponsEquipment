@@ -1,0 +1,36 @@
+<ComponentSet>
+	<DisplayName>ComponentSetAmmoHVAC</DisplayName>
+	<ComponentType>Ammo</ComponentType>
+	<Color>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>0.2</b>
+		<a>0.88</a>
+	</Color>
+	<TextColor>
+		<r>0.0</r>
+		<g>0.0</g>
+		<b>0.0</b>
+		<a>0.88</a>
+	</TextColor>
+	<Components>
+		<string>AmmoHVAC2cm_I</string>
+		<string>AmmoHVAC2cm_II</string>
+		<string>AmmoHVAC2cm_III</string>
+		<string>AmmoHVAC5cm_I</string>
+		<string>AmmoHVAC5cm_II</string>
+		<string>AmmoHVAC5cm_III</string>
+		<string>AmmoHVAC10cm_I</string>
+		<string>AmmoHVAC10cm_II</string>
+		<string>AmmoHVAC10cm_III</string>
+		<string>AmmoHVAC15cm_I</string>
+		<string>AmmoHVAC15cm_II</string>
+		<string>AmmoHVAC15cm_III</string>
+		<string>AmmoHVAC20cm_I</string>
+		<string>AmmoHVAC20cm_II</string>
+		<string>AmmoHVAC20cm_III</string>
+		<string>AmmoHVAC30cm_I</string>
+		<string>AmmoHVAC30cm_II</string>
+		<string>AmmoHVAC30cm_III</string>
+	</Components>
+</ComponentSet>

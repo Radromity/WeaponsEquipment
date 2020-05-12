@@ -1,0 +1,18 @@
+<ComponentSet>
+	<DisplayName>ComponentSetHeatSink</DisplayName>
+	<ComponentType>Equipment</ComponentType>
+	<Color>
+		<r>0.2</r>
+		<g>0.2</g>
+		<b>1.0</b>
+		<a>0.88</a>
+	</Color>
+	<Components>
+		<string>HeatSinkI</string>
+		<string>HeatSinkII</string>
+		<string>HeatSinkIII</string>
+		<string>HeatSinkIV</string>
+		<string>HeatSinkV</string>
+		<string>HeatSinkVI</string>
+	</Components>
+</ComponentSet>

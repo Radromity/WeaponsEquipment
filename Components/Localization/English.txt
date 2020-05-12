@@ -25,8 +25,13 @@ ComponentAmmoSlug1cmCan_II Slug 1cm Canister Mag II
 ComponentAmmoSlug1cmCan_III Slug 1cm Canister Mag III
 ComponentAmmoSlug1cmCanDesc Description Required!
 
-ComponentSetAmmoACAlt Alternative Autocannon Munitions
-ComponentSetAmmoACAlt2 Advanced Alternative Autocannon Munitions
+ComponentSetAmmoACAoe High Explosive Autocannon Ammo
+ComponentSetAmmoACAP Armor Piercing Autocannon Ammo
+ComponentSetAmmoACC Caseless Autocannon Ammo
+ComponentSetAmmoACI Incendiary Autocannon Ammo
+ComponentSetAmmoACM Magnum Autocannon Ammo
+ComponentSetAmmoACP Precision Autocannon Ammo
+ComponentSetAmmoFAC Flak Autocannon Ammo
 
 ComponentAmmoAC2cmAoe_I High Explosive AC2cm Rounds I
 ComponentAmmoAC2cmAoe_II High Explosive AC2cm Rounds II

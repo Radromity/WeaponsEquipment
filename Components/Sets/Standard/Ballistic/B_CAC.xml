@@ -1,0 +1,24 @@
+<ComponentSet>
+	<DisplayName>ComponentSetCAC</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>0.2</b>
+		<a>0.88</a>
+	</Color>
+	<TextColor>
+		<r>0.0</r>
+		<g>0.0</g>
+		<b>0.0</b>
+		<a>0.88</a>
+	</TextColor>
+	<Components>
+		<string>CAC2cm</string>
+		<string>CAC5cm</string>
+		<string>CAC10cm</string>
+		<string>CAC15cm</string>
+		<string>CAC20cm</string>
+		<string>CAC30cm</string>
+	</Components>
+</ComponentSet>

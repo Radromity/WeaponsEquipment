@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetLaserContinuous</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.78</r>
+		<g>0.11</g>
+		<b>0.0</b>
+		<a>.88</a>
+	</Color>
+	<Components>
+		<string>LaserContinuous_Micro</string>
+		<string>LaserContinuous_Small</string>
+		<string>LaserContinuous_Medium</string>
+		<string>LaserContinuous_Large</string>
+	</Components>
+</ComponentSet>
