@@ -1,4 +1,5 @@
 <ProjectileDefinition>
+	<AmmoType>FAC2cm</AmmoType>
 	<Heat>140.0</Heat>
 	<DamageType>Ballistic</DamageType>
 	<DamageEffective>0.40</DamageEffective>
@@ -19,5 +20,12 @@
 	<ProjectileScale>0.05</ProjectileScale>
 	<TrailPrefab>BallisticTrail</TrailPrefab>
 	<TrailScale>0.15</TrailScale>
+	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
+	<ImpactEffectScale>0.25</ImpactEffectScale>
+	<CollisionDetection>ContinuousDynamic</CollisionDetection>
+	<ImpactSounds>
+		<string>ImpactAutoCannonHeavy</string>
+	</ImpactSounds>
+	<ImpactSoundVolume>0.8</ImpactSoundVolume>
 	<AirCraftDamageMulti>5.0</AirCraftDamageMulti>
 </ProjectileDefinition>

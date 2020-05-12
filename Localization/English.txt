@@ -17,6 +17,13 @@ AmmoAC15cmAP AC15cm AP Ammo
 AmmoAC20cmAP AC20cm AP Ammo
 AmmoAC30cmAP AC30cm AP Ammo
 
+AmmoFAC2cm Flak AC2cm Ammo
+AmmoFAC5cm Flak AC5cm Ammo
+AmmoFAC10cm Flak AC10cm Ammo
+AmmoFAC15cm Flak AC15cm Ammo
+AmmoFAC20cm Flak AC20cm Ammo
+AmmoFAC30cm Flak AC30cm Ammo
+
 hint1 Shooting out the cockpit of a mech will make it easier to salvage.
 hint2 Destroying both legs of a mech will disable it.
 hint3 A mech's reactor will explode if it gets too hot.

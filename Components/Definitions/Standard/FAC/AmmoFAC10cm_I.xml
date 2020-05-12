@@ -1,0 +1,25 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoFAC10cm_I</DisplayName>
+	<Description>ComponentAmmoFAC10cmDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>0.2</b>
+		<a>0.88</a>
+	</Color>
+	<TextColor>
+		<r>0.0</r>
+		<g>0.0</g>
+		<b>0.0</b>
+		<a>0.88</a>
+	</TextColor>
+	<SlotSize>1</SlotSize>
+	<Weight>0.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>2.5</AmmoExplosionDamage>
+	<MarketValue>2000</MarketValue>
+	<AmmoType>FAC10cm</AmmoType>
+	<AmmoCount>12</AmmoCount>
+</ComponentDefinition>

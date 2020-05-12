@@ -1,21 +1,23 @@
 <ProjectileDefinition>
-	<AmmoType>FAC2cm</AmmoType>
-	<Heat>122.0</Heat>
+	<AmmoType>FAC30cm</AmmoType>
+	<Heat>1900.0</Heat>
 	<DamageType>Ballistic</DamageType>
-	<DamageEffective>0.5</DamageEffective>
-	<DamageMin>0.25</DamageMin>
-	<RangeDamageMin>160.0</RangeDamageMin>
-	<RangeEffective>80.0</RangeEffective>
-	<AirCraftDamageMulti>10.0</AirCraftDamageMulti>
-	<Velocity>133.0</Velocity>
-	<Spread>0.02</Spread>
-	<ProjectileLifeTime>1.444</ProjectileLifeTime>
-	<TrailLifeTime>1.0</TrailLifeTime>
+	<DamageEffective>3.0</DamageEffective>
+	<DamageMin>1.5</DamageMin>
+	<RangeDamageMin>26.0</RangeDamageMin>
+	<RangeEffective>13.0</RangeEffective>
+	<CriticalChance>0.4</CriticalChance>
+	<CriticalDamageMulti>2.0</CriticalDamageMulti>
+	<Velocity>38.0</Velocity>
+	<ProjectileCount>10</ProjectileCount>
+	<Spread>1.5</Spread>
+	<ProjectileLifeTime>0.821</ProjectileLifeTime>
+	<TrailLifeTime>2.0</TrailLifeTime>
 	<UseGravity>true</UseGravity>
-	<Recoil>0.33</Recoil>
-	<FiringSound>FireCannonLight</FiringSound>
-	<ProjectilePrefab>CannonProjectile</ProjectilePrefab>
-	<ProjectileScale>0.3</ProjectileScale>
+	<Recoil>6.0</Recoil>
+	<FiringSound>FireCanisterHeavy</FiringSound>
+	<ProjectilePrefab>CanisterProjectile</ProjectilePrefab>
+	<ProjectileScale>0.15</ProjectileScale>
 	<TrailPrefab>BallisticTrail</TrailPrefab>
 	<TrailScale>0.3</TrailScale>
 	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>

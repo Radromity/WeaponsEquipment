@@ -77,6 +77,31 @@ ComponentAmmoAC30cmAP_II Armor Piercing AC30cm Rounds II
 ComponentAmmoAC30cmAP_III Armor Piercing AC30cm Rounds III
 ComponentAmmoAC30cmAPDesc Armor Piercing AC30cm Rounds
 
+ComponentAmmoFAC2cm_I Flak AC2cm Rounds I
+ComponentAmmoFAC2cm_II Flak AC2cm Rounds II
+ComponentAmmoFAC2cm_III Flak AC2cm Rounds III
+ComponentAmmoFAC2cmDesc Flak AC2cm Rounds
+ComponentAmmoFAC5cm_I Flak AC5cm Rounds I
+ComponentAmmoFAC5cm_II Flak AC5cm Rounds II
+ComponentAmmoFAC5cm_III Flak AC5cm Rounds III
+ComponentAmmoFAC5cmDesc Flak AC5cm Rounds
+ComponentAmmoFAC10cm_I Flak AC10cm Rounds I
+ComponentAmmoFAC10cm_II Flak AC10cm Rounds II
+ComponentAmmoFAC10cm_III Flak AC10cm Rounds III
+ComponentAmmoFAC10cmDesc Flak AC10cm Rounds
+ComponentAmmoFAC15cm_I Flak AC15cm Rounds I
+ComponentAmmoFAC15cm_II Flak AC15cm Rounds II
+ComponentAmmoFAC15cm_III Flak AC15cm Rounds III
+ComponentAmmoFAC15cmDesc Flak AC15cm Rounds
+ComponentAmmoFAC20cm_I Flak AC20cm Rounds I
+ComponentAmmoFAC20cm_II Flak AC20cm Rounds II
+ComponentAmmoFAC20cm_III Flak AC20cm Rounds III
+ComponentAmmoFAC20cmDesc Flak AC20cm Rounds
+ComponentAmmoFAC30cm_I Flak AC30cm Rounds I
+ComponentAmmoFAC30cm_II Flak AC30cm Rounds II
+ComponentAmmoFAC30cm_III Flak AC30cm Rounds III
+ComponentAmmoFAC30cmDesc Flak AC30cm Rounds
+
 ComponentTwinParticleCannon Twin PC
 ComponentTwinParticleCannonDesc Twin Particle Cannon
 ComponentTwinParticleCannonHeavy Twin H-PC

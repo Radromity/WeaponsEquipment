@@ -17,5 +17,6 @@
 		<string>AC2cm</string>
 		<string>AC2cmAoe</string>
 		<string>AC2cmAP</string>
+		<string>FAC2cm</string>
 	</ProjectileDefinitions>
 </ProjectileWeaponDefinition>
