@@ -1,0 +1,25 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoHVAC20cm_II</DisplayName>
+	<Description>ComponentAmmoHVAC20cmDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.27450</r>
+		<g>0.52156</g>
+		<b>0.47058</b>
+		<a>0.88</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<SlotSize>1</SlotSize>
+	<Weight>1.0</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>5.0</AmmoExplosionDamage>
+	<MarketValue>5000</MarketValue>
+	<AmmoType>HVAC20cm</AmmoType>
+	<AmmoCount>8</AmmoCount>
+</ComponentDefinition>

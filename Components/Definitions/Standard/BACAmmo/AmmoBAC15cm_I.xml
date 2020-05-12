@@ -1,0 +1,25 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoBAC15cm_I</DisplayName>
+	<Description>ComponentAmmoBAC15cmDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.02745</r>
+		<g>0.25098</g>
+		<b>0.31372</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.00</a>
+	</TextColor>
+	<SlotSize>1</SlotSize>
+	<Weight>0.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>1.25</AmmoExplosionDamage>
+	<MarketValue>2000</MarketValue>
+	<AmmoType>BAC15cm</AmmoType>
+	<AmmoCount>30</AmmoCount>
+</ComponentDefinition>

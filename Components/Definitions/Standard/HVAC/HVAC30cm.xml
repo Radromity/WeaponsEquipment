@@ -1,0 +1,23 @@
+<ComponentDefinition>
+	<DisplayName>ComponentHVAC30</DisplayName>
+	<Description>ComponentHVAC30Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponBallistic</RequiredSlotType>
+	<Color>
+		<r>0.27450</r>
+		<g>0.52156</g>
+		<b>0.47058</b>
+		<a>0.88</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<SlotSize>5</SlotSize>
+	<Weight>23.0</Weight>
+	<Health>30.0</Health>
+	<MarketValue>565000</MarketValue>
+	<Weapon>HVAC30cm</Weapon>
+</ComponentDefinition>

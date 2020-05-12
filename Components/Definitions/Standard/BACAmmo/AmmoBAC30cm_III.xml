@@ -1,0 +1,25 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoBAC30cm_III</DisplayName>
+	<Description>ComponentAmmoBAC30cmDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.02745</r>
+		<g>0.25098</g>
+		<b>0.31372</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.00</a>
+	</TextColor>
+	<SlotSize>2</SlotSize>
+	<Weight>2.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>2.5</AmmoExplosionDamage>
+	<MarketValue>13000</MarketValue>
+	<AmmoType>BAC30cm</AmmoType>
+	<AmmoCount>45</AmmoCount>
+</ComponentDefinition>

@@ -15,6 +15,6 @@
 	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
 	<RequiresAmmo>true</RequiresAmmo>
 	<ProjectileDefinitions>
-		<string>FAC2cm</string>
+		<string>LAC2cm</string>
 	</ProjectileDefinitions>
 </ProjectileWeaponDefinition>

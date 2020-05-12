@@ -1,0 +1,23 @@
+<ComponentDefinition>
+	<DisplayName>ComponentBAC20</DisplayName>
+	<Description>ComponentBAC20Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponBallistic</RequiredSlotType>
+	<Color>
+		<r>0.02745</r>
+		<g>0.25098</g>
+		<b>0.31372</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.00</a>
+	</TextColor>
+	<SlotSize>4</SlotSize>
+	<Weight>17.0</Weight>
+	<Health>25.0</Health>
+	<MarketValue>390000</MarketValue>
+	<Weapon>BAC20cm</Weapon>
+</ComponentDefinition>
