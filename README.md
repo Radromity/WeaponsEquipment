@@ -18,12 +18,13 @@ Additions:
     AK Night Hawk - Continuous Laser Arrays idea.
     Tuprewm - MG Arrays, Cannon Arrays idea.
     Groxglitch - Magnum ammo type idea.
+    Denadan - For letting me take their weapon color scheme from Roguetech.
     
 Patch 0.2.0:
   Adjusted filestructure so all equipment and weapons are organized for implementation of faction variant weapons.
   Made HE AC rounds create a explosion effect to emphasise the aoe damage.
   Added AP, Flak, Magnum, Incendiary, Caseless Precision AC rounds.
-  Gave each weapon and its ammo a unique color to make differentiating them easier.
+  Gave each weapon and its ammo a unique color to make differentiating them easier. Stolen from Roguetech.
   Rebalanced HE rounds to have 80% normal ammo, all new ac ammos also have 80% except for magnum which has 60%
 Patch 0.1.0:
   Entered Beta.
