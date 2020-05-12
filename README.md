@@ -17,7 +17,7 @@ Additions:
 Patch 0.2.0:
   Adjusted filestructure so all equipment and weapons are organized for implementation of faction variant weapons.
   Made HE AC rounds create a explosion effect to emphasise the aoe damage.
-  Added AP, Flak AC rounds.
+  Added AP, Flak, Magnum, Incendiary, Caseless Precision AC rounds.
 Patch 0.1.0:
   Entered Beta.
   Added more MG arrays.

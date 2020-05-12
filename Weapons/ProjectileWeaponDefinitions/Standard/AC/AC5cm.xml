@@ -18,5 +18,9 @@
 		<string>AC5cmAoe</string>
 		<string>AC5cmAP</string>
 		<string>FAC5cm</string>
+		<string>AC5cmC</string>
+		<string>AC5cmI</string>
+		<string>AC5cmM</string>
+		<string>AC5cmP</string>
 	</ProjectileDefinitions>
 </ProjectileWeaponDefinition>

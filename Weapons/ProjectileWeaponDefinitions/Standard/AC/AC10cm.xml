@@ -18,5 +18,9 @@
 		<string>AC10cmAoe</string>
 		<string>AC10cmAP</string>
 		<string>FAC10cm</string>
+		<string>AC10cmC</string>
+		<string>AC10cmI</string>
+		<string>AC10cmM</string>
+		<string>AC10cmP</string>
 	</ProjectileDefinitions>
 </ProjectileWeaponDefinition>

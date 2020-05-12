@@ -24,6 +24,34 @@ AmmoFAC15cm Flak AC15cm Ammo
 AmmoFAC20cm Flak AC20cm Ammo
 AmmoFAC30cm Flak AC30cm Ammo
 
+AmmoAC2cmC Caseless AC2cm Ammo
+AmmoAC5cmC Caseless AC5cm Ammo
+AmmoAC10cmC Caseless AC10cm Ammo
+AmmoAC15cmC Caseless AC15cm Ammo
+AmmoAC20cmC Caseless AC20cm Ammo
+AmmoAC30cmC Caseless AC30cm Ammo
+
+AmmoAC2cmI AC2cm Incendiary Ammo
+AmmoAC5cmI AC5cm Incendiary Ammo
+AmmoAC10cmI AC10cm Incendiary Ammo
+AmmoAC15cmI AC15cm Incendiary Ammo
+AmmoAC20cmI AC20cm Incendiary Ammo
+AmmoAC30cmI AC30cm Incendiary Ammo
+
+AmmoAC2cmM AC2cm Magnum Ammo
+AmmoAC5cmM AC5cm Magnum Ammo
+AmmoAC10cmM AC10cm Magnum Ammo
+AmmoAC15cmM AC15cm Magnum Ammo
+AmmoAC20cmM AC20cm Magnum Ammo
+AmmoAC30cmM AC30cm Magnum Ammo
+
+AmmoAC2cmP AC2cm Precision Ammo
+AmmoAC5cmP AC5cm Precision Ammo
+AmmoAC10cmP AC10cm Precision Ammo
+AmmoAC15cmP AC15cm Precision Ammo
+AmmoAC20cmP AC20cm Precision Ammo
+AmmoAC30cmP AC30cm Precision Ammo
+
 hint1 Shooting out the cockpit of a mech will make it easier to salvage.
 hint2 Destroying both legs of a mech will disable it.
 hint3 A mech's reactor will explode if it gets too hot.

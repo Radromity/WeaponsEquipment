@@ -26,6 +26,7 @@ ComponentAmmoSlug1cmCan_III Slug 1cm Canister Mag III
 ComponentAmmoSlug1cmCanDesc Description Required!
 
 ComponentSetAmmoACAlt Alternative Autocannon Munitions
+ComponentSetAmmoACAlt2 Advanced Alternative Autocannon Munitions
 
 ComponentAmmoAC2cmAoe_I High Explosive AC2cm Rounds I
 ComponentAmmoAC2cmAoe_II High Explosive AC2cm Rounds II
@@ -101,6 +102,106 @@ ComponentAmmoFAC30cm_I Flak AC30cm Rounds I
 ComponentAmmoFAC30cm_II Flak AC30cm Rounds II
 ComponentAmmoFAC30cm_III Flak AC30cm Rounds III
 ComponentAmmoFAC30cmDesc Flak AC30cm Rounds
+
+ComponentAmmoAC2cmC_I Caseless AC2cm Rounds I
+ComponentAmmoAC2cmC_II Caseless AC2cm Rounds II
+ComponentAmmoAC2cmC_III Caseless AC2cm Rounds III
+ComponentAmmoAC2cmCDesc Caseless AC2cm Rounds
+ComponentAmmoAC5cmC_I Caseless AC5cm Rounds I
+ComponentAmmoAC5cmC_II Caseless AC5cm Rounds II
+ComponentAmmoAC5cmC_III Caseless AC5cm Rounds III
+ComponentAmmoAC5cmCDesc Caseless AC5cm Rounds
+ComponentAmmoAC10cmC_I Caseless AC10cm Rounds I
+ComponentAmmoAC10cmC_II Caseless AC10cm Rounds II
+ComponentAmmoAC10cmC_III Caseless AC10cm Rounds III
+ComponentAmmoAC10cmCDesc Caseless AC10cm Rounds
+ComponentAmmoAC15cmC_I Caseless AC15cm Rounds I
+ComponentAmmoAC15cmC_II Caseless AC15cm Rounds II
+ComponentAmmoAC15cmC_III Caseless AC15cm Rounds III
+ComponentAmmoAC15cmCDesc Caseless AC15cm Rounds
+ComponentAmmoAC20cmC_I Caseless AC20cm Rounds I
+ComponentAmmoAC20cmC_II Caseless AC20cm Rounds II
+ComponentAmmoAC20cmC_III Caseless AC20cm Rounds III
+ComponentAmmoAC20cmCDesc Caseless AC20cm Rounds
+ComponentAmmoAC30cmC_I Caseless AC30cm Rounds I
+ComponentAmmoAC30cmC_II Caseless AC30cm Rounds II
+ComponentAmmoAC30cmC_III Caseless AC30cm Rounds III
+ComponentAmmoAC30cmCDesc Caseless AC30cm Rounds
+
+ComponentAmmoAC2cmI_I Incendiary AC2cm Rounds I
+ComponentAmmoAC2cmI_II Incendiary AC2cm Rounds II
+ComponentAmmoAC2cmI_III Incendiary AC2cm Rounds III
+ComponentAmmoAC2cmIDesc Incendiary AC2cm Rounds
+ComponentAmmoAC5cmI_I Incendiary AC5cm Rounds I
+ComponentAmmoAC5cmI_II Incendiary AC5cm Rounds II
+ComponentAmmoAC5cmI_III Incendiary AC5cm Rounds III
+ComponentAmmoAC5cmIDesc Incendiary AC5cm Rounds
+ComponentAmmoAC10cmI_I Incendiary AC10cm Rounds I
+ComponentAmmoAC10cmI_II Incendiary AC10cm Rounds II
+ComponentAmmoAC10cmI_III Incendiary AC10cm Rounds III
+ComponentAmmoAC10cmIDesc Incendiary AC10cm Rounds
+ComponentAmmoAC15cmI_I Incendiary AC15cm Rounds I
+ComponentAmmoAC15cmI_II Incendiary AC15cm Rounds II
+ComponentAmmoAC15cmI_III Incendiary AC15cm Rounds III
+ComponentAmmoAC15cmIDesc Incendiary AC15cm Rounds
+ComponentAmmoAC20cmI_I Incendiary AC20cm Rounds I
+ComponentAmmoAC20cmI_II Incendiary AC20cm Rounds II
+ComponentAmmoAC20cmI_III Incendiary AC20cm Rounds III
+ComponentAmmoAC20cmIDesc Incendiary AC20cm Rounds
+ComponentAmmoAC30cmI_I Incendiary AC30cm Rounds I
+ComponentAmmoAC30cmI_II Incendiary AC30cm Rounds II
+ComponentAmmoAC30cmI_III Incendiary AC30cm Rounds III
+ComponentAmmoAC30cmIDesc Incendiary AC30cm Rounds
+
+ComponentAmmoAC2cmM_I Magnum AC2cm Rounds I
+ComponentAmmoAC2cmM_II Magnum AC2cm Rounds II
+ComponentAmmoAC2cmM_III Magnum AC2cm Rounds III
+ComponentAmmoAC2cmMDesc Magnum AC2cm Rounds
+ComponentAmmoAC5cmM_I Magnum AC5cm Rounds I
+ComponentAmmoAC5cmM_II Magnum AC5cm Rounds II
+ComponentAmmoAC5cmM_III Magnum AC5cm Rounds III
+ComponentAmmoAC5cmMDesc Magnum AC5cm Rounds
+ComponentAmmoAC10cmM_I Magnum AC10cm Rounds I
+ComponentAmmoAC10cmM_II Magnum AC10cm Rounds II
+ComponentAmmoAC10cmM_III Magnum AC10cm Rounds III
+ComponentAmmoAC10cmMDesc Magnum AC10cm Rounds
+ComponentAmmoAC15cmM_I Magnum AC15cm Rounds I
+ComponentAmmoAC15cmM_II Magnum AC15cm Rounds II
+ComponentAmmoAC15cmM_III Magnum AC15cm Rounds III
+ComponentAmmoAC15cmMDesc Magnum AC15cm Rounds
+ComponentAmmoAC20cmM_I Magnum AC20cm Rounds I
+ComponentAmmoAC20cmM_II Magnum AC20cm Rounds II
+ComponentAmmoAC20cmM_III Magnum AC20cm Rounds III
+ComponentAmmoAC20cmMDesc Magnum AC20cm Rounds
+ComponentAmmoAC30cmM_I Magnum AC30cm Rounds I
+ComponentAmmoAC30cmM_II Magnum AC30cm Rounds II
+ComponentAmmoAC30cmM_III Magnum AC30cm Rounds III
+ComponentAmmoAC30cmMDesc Magnum AC30cm Rounds
+
+ComponentAmmoAC2cmP_I Precision AC2cm Rounds I
+ComponentAmmoAC2cmP_II Precision AC2cm Rounds II
+ComponentAmmoAC2cmP_III Precision AC2cm Rounds III
+ComponentAmmoAC2cmPDesc Precision AC2cm Rounds
+ComponentAmmoAC5cmP_I Precision AC5cm Rounds I
+ComponentAmmoAC5cmP_II Precision AC5cm Rounds II
+ComponentAmmoAC5cmP_III Precision AC5cm Rounds III
+ComponentAmmoAC5cmPDesc Precision AC5cm Rounds
+ComponentAmmoAC10cmP_I Precision AC10cm Rounds I
+ComponentAmmoAC10cmP_II Precision AC10cm Rounds II
+ComponentAmmoAC10cmP_III Precision AC10cm Rounds III
+ComponentAmmoAC10cmPDesc Precision AC10cm Rounds
+ComponentAmmoAC15cmP_I Precision AC15cm Rounds I
+ComponentAmmoAC15cmP_II Precision AC15cm Rounds II
+ComponentAmmoAC15cmP_III Precision AC15cm Rounds III
+ComponentAmmoAC15cmPDesc Precision AC15cm Rounds
+ComponentAmmoAC20cmP_I Precision AC20cm Rounds I
+ComponentAmmoAC20cmP_II Precision AC20cm Rounds II
+ComponentAmmoAC20cmP_III Precision AC20cm Rounds III
+ComponentAmmoAC20cmPDesc Precision AC20cm Rounds
+ComponentAmmoAC30cmP_I Precision AC30cm Rounds I
+ComponentAmmoAC30cmP_II Precision AC30cm Rounds II
+ComponentAmmoAC30cmP_III Precision AC30cm Rounds III
+ComponentAmmoAC30cmPDesc Precision AC30cm Rounds
 
 ComponentTwinParticleCannon Twin PC
 ComponentTwinParticleCannonDesc Twin Particle Cannon
