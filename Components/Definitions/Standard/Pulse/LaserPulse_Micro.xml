@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLaserPulseMicro</DisplayName>
+	<Description>ComponentLaserPulseMicroDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.29803</r>
+		<g>0.57647</g>
+		<b>0.24313</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>0.5</Weight>
+	
+	<MarketValue>36000</MarketValue>
+	<Weapon>LaserPulseMicro</Weapon>
+</ComponentDefinition>

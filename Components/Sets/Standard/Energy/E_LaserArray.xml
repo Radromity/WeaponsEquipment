@@ -2,10 +2,10 @@
 	<DisplayName>ComponentSetLaserArray</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.78</r>
-		<g>0.11</g>
-		<b>0.0</b>
-		<a>.88</a>
+		<r>0.29803</r>
+		<g>0.46274</g>
+		<b>0.24313</b>
+		<a>0.92</a>
 	</Color>
 	<Components>
 		<string>Laser_SmallArray6</string>

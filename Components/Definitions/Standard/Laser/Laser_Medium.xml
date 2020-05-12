@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLaserMedium</DisplayName>
+	<Description>ComponentLaserMediumDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.29803</r>
+		<g>0.46274</g>
+		<b>0.24313</b>
+		<a>0.92</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>1.0</Weight>
+	
+	<MarketValue>100000</MarketValue>
+	<Weapon>LaserMedium</Weapon>
+</ComponentDefinition>

@@ -1,0 +1,18 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLaserMediumArray4</DisplayName>
+	<Description>ComponentLaserMediumArray4Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.29803</r>
+		<g>0.46274</g>
+		<b>0.24313</b>
+		<a>0.92</a>
+	</Color>
+	<SlotSize>4</SlotSize>
+	<Weight>3.5</Weight>
+	<Health>3.0</Health>
+	
+	<MarketValue>500000</MarketValue>
+	<Weapon>LaserMediumArray4</Weapon>
+</ComponentDefinition>

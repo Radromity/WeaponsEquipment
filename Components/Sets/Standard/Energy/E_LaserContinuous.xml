@@ -2,10 +2,10 @@
 	<DisplayName>ComponentSetLaserContinuous</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.78</r>
-		<g>0.11</g>
-		<b>0.0</b>
-		<a>.88</a>
+		<r>0.23529</r>
+		<g>0.36862</g>
+		<b>0.19215</b>
+		<a>.94</a>
 	</Color>
 	<Components>
 		<string>LaserContinuous_Micro</string>

@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentHSRM6</DisplayName>
+	<Description>ComponentHSRM6Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.0</r>
+		<g>0.78</g>
+		<b>0.04</b>
+		<a>0.88</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>3.0</Weight>
+	
+	<MarketValue>90000</MarketValue>
+	<Weapon>HSRM6</Weapon>
+</ComponentDefinition>

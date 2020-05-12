@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentSRM18</DisplayName>
+	<Description>ComponentSRM6Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.0</r>
+		<g>0.78</g>
+		<b>0.04</b>
+		<a>0.88</a>
+	</Color>
+	<SlotSize>4</SlotSize>
+	<Weight>6.5</Weight>
+	
+	<MarketValue>210000</MarketValue>
+	<Weapon>SRM18</Weapon>
+</ComponentDefinition>

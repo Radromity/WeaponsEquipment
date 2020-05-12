@@ -2,10 +2,10 @@
 	<DisplayName>ComponentSetLaserPulse</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.78</r>
-		<g>0.11</g>
-		<b>0.0</b>
-		<a>.88</a>
+		<r>0.29803</r>
+		<g>0.57647</g>
+		<b>0.24313</b>
+		<a>0.94</a>
 	</Color>
 	<Components>
 		<string>LaserPulse_Micro</string>

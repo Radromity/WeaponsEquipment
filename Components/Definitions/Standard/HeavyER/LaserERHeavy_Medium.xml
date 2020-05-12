@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLaserERHeavyMedium</DisplayName>
+	<Description>ComponentLaserERHeavyMediumDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.23529</r>
+		<g>0.36862</g>
+		<b>0.19215</b>
+		<a>.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>1.0</Weight>
+	
+	<MarketValue>220000</MarketValue>
+	<Weapon>LaserERHeavyMedium</Weapon>
+</ComponentDefinition>

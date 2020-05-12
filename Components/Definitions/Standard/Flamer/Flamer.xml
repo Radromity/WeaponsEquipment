@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentFlamer</DisplayName>
+	<Description>ComponentFlamerDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.49803</r>
+		<g>0.56078</g>
+		<b>0.02745</b>
+		<a>.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>1.0</Weight>
+	
+	<MarketValue>16000</MarketValue>
+	<Weapon>Flamer</Weapon>
+</ComponentDefinition>

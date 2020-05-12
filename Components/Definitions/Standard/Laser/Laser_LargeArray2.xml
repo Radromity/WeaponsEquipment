@@ -1,0 +1,18 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLaserLargeArray2</DisplayName>
+	<Description>ComponentLaserLargeArray2Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.29803</r>
+		<g>0.46274</g>
+		<b>0.24313</b>
+		<a>0.92</a>
+	</Color>
+	<SlotSize>4</SlotSize>
+	<Weight>8.0</Weight>
+	<Health>5.0</Health>
+	
+	<MarketValue>600000</MarketValue>
+	<Weapon>LaserLargeArray2</Weapon>
+</ComponentDefinition>
