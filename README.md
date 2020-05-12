@@ -11,13 +11,20 @@ Additions:
   These additions appear in Career and Instant Action.
 
   Credits:
-  Rumia - Main Developer
-  AK Night Hawk - Continuous Laser Arrays
-  Tuprewm - MG Arrays, Cannon Arrays
+    Rumia - Main Developer
+
+  Special Thanks:
+    McShooterz - Modding Assistance, explanations, being a cool dude, and working on this game.
+    AK Night Hawk - Continuous Laser Arrays idea.
+    Tuprewm - MG Arrays, Cannon Arrays idea.
+    Groxglitch - Magnum ammo type idea.
+    
 Patch 0.2.0:
   Adjusted filestructure so all equipment and weapons are organized for implementation of faction variant weapons.
   Made HE AC rounds create a explosion effect to emphasise the aoe damage.
   Added AP, Flak, Magnum, Incendiary, Caseless Precision AC rounds.
+  Gave each weapon and its ammo a unique color to make differentiating them easier.
+  Rebalanced HE rounds to have 80% normal ammo, all new ac ammos also have 80% except for magnum which has 60%
 Patch 0.1.0:
   Entered Beta.
   Added more MG arrays.

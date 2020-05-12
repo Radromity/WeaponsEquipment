@@ -1,0 +1,23 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAC5</DisplayName>
+	<Description>ComponentAC5Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponBallistic</RequiredSlotType>
+	<Color>
+		<r>0.31764</r>
+		<g>0.51372</g>
+		<b>0.54117</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<SlotSize>2</SlotSize>
+	<Weight>6.0</Weight>
+	
+	<MarketValue>150000</MarketValue>
+	<Weapon>AC5cm</Weapon>
+</ComponentDefinition>

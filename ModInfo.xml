@@ -12,13 +12,17 @@ Additions:
   These additions appear in Career and Instant Action.
 
   Credits:
-  Rumia - Main Developer
-  AK Night Hawk - Continuous Laser Arrays
-  Tuprewm - MG Arrays, Cannon Arrays
+    Rumia - Main Developer
+
+  Special Thanks:
+    McShooterz - Modding Assistance, explanations, being a cool dude, and working on this game.
+    AK Night Hawk - Continuous Laser Arrays idea.
+    Tuprewm - MG Arrays, Cannon Arrays idea.
+    Groxglitch - Magnum ammo type idea.
 </Description>
   <Author>Katrina Kerensky</Author>
   <ModVersion>0.2.0 Beta</ModVersion>
-  <BaseGameVersion>1.0.7</BaseGameVersion>
+  <BaseGameVersion>1.0.8</BaseGameVersion>
   <PreviewImagePath>PreviewImage.png</PreviewImagePath>
   <SteamPublishedID>2063486516</SteamPublishedID>
 </ModInfo>

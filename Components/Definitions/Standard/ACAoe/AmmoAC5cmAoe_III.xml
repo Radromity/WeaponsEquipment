@@ -4,16 +4,16 @@
 	<ComponentType>Ammo</ComponentType>
 	<RequiredSlotType>General</RequiredSlotType>
 	<Color>
-		<r>1.0</r>
-		<g>1.0</g>
-		<b>0.2</b>
-		<a>0.88</a>
+		<r>0.31764</r>
+		<g>0.51372</g>
+		<b>0.54117</b>
+		<a>0.94</a>
 	</Color>
 	<TextColor>
-		<r>0.0</r>
-		<g>0.0</g>
-		<b>0.0</b>
-		<a>0.88</a>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
 	</TextColor>
 	<SlotSize>2</SlotSize>
 	<Weight>2.5</Weight>
@@ -21,5 +21,5 @@
 	<AmmoExplosionDamage>1.25</AmmoExplosionDamage>
 	<MarketValue>13000</MarketValue>
 	<AmmoType>AC5cmAoe</AmmoType>
-	<AmmoCount>100</AmmoCount>
+	<AmmoCount>80</AmmoCount>
 </ComponentDefinition>
