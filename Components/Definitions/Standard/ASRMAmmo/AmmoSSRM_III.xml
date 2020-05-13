@@ -1,0 +1,19 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoSSRM_III</DisplayName>
+	<Description>ComponentAmmoSSRMDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.77254</r>
+		<g>0.33333</g>
+		<b>0.45882</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>2.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>0.28</AmmoExplosionDamage>
+	<MarketValue>13000</MarketValue>
+	<AmmoType>SSRM</AmmoType>
+	<AmmoCount>250</AmmoCount>
+</ComponentDefinition>

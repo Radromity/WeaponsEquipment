@@ -1,0 +1,19 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoTAM_III</DisplayName>
+	<Description>ComponentAmmoTAMDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.54509</r>
+		<g>0.11372</g>
+		<b>0.17254</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>2.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>5.0</AmmoExplosionDamage>
+	<MarketValue>13000</MarketValue>
+	<AmmoType>TAM</AmmoType>
+	<AmmoCount>15</AmmoCount>
+</ComponentDefinition>

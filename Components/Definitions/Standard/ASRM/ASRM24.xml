@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentASRM24</DisplayName>
+	<Description>ComponentASRM24Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.77254</r>
+		<g>0.33333</g>
+		<b>0.45882</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>5</SlotSize>
+	<Weight>8.0</Weight>
+	
+	<MarketValue>340000</MarketValue>
+	<Weapon>ASRM24</Weapon>
+</ComponentDefinition>

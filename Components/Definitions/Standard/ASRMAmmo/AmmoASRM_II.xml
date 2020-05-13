@@ -1,0 +1,19 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoASRM_II</DisplayName>
+	<Description>ComponentAmmoASRMDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.77254</r>
+		<g>0.33333</g>
+		<b>0.45882</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>1.0</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>0.28</AmmoExplosionDamage>
+	<MarketValue>5000</MarketValue>
+	<AmmoType>ASRM</AmmoType>
+	<AmmoCount>120</AmmoCount>
+</ComponentDefinition>

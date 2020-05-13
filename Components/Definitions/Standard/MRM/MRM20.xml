@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentMRM20</DisplayName>
+	<Description>ComponentMRM20Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.58431</r>
+		<g>0.33333</g>
+		<b>0.52156</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>3</SlotSize>
+	<Weight>6.0</Weight>
+	
+	<MarketValue>120000</MarketValue>
+	<Weapon>MRM20</Weapon>
+</ComponentDefinition>

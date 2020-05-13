@@ -1,0 +1,21 @@
+<ComponentDefinition>
+	<DisplayName>ComponentMRR10</DisplayName>
+	<Description>ComponentMRR10Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.46666</r>
+		<g>0.33333</g>
+		<b>0.45098</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>1.0</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>1.0</AmmoExplosionDamage>
+	<MarketValue>50000</MarketValue>
+	<AmmoType>MRR</AmmoType>
+	<AmmoCount>10</AmmoCount>
+	<AmmoInternal>true</AmmoInternal>
+	<Weapon>MRR10</Weapon>
+</ComponentDefinition>

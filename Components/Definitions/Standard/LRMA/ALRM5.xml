@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentALRM5</DisplayName>
+	<Description>ComponentALRM5Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.50196</r>
+		<g>0.32156</g>
+		<b>0.79215</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>2.0</Weight>
+	
+	<MarketValue>60000</MarketValue>
+	<Weapon>ALRM5</Weapon>
+</ComponentDefinition>

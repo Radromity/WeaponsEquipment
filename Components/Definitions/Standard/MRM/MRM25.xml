@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentMRM25</DisplayName>
+	<Description>ComponentMRM25Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.58431</r>
+		<g>0.33333</g>
+		<b>0.52156</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>4</SlotSize>
+	<Weight>7.5</Weight>
+	
+	<MarketValue>150000</MarketValue>
+	<Weapon>MRM25</Weapon>
+</ComponentDefinition>

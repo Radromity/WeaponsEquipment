@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentDRM12</DisplayName>
+	<Description>ComponentDRM12Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.20784</r>
+		<g>0.10980</g>
+		<b>0.45882</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>5</SlotSize>
+	<Weight>7.6</Weight>
+	
+	<MarketValue>380000</MarketValue>
+	<Weapon>DRM12</Weapon>
+</ComponentDefinition>

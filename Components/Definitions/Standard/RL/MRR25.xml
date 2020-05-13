@@ -1,0 +1,21 @@
+<ComponentDefinition>
+	<DisplayName>ComponentMRR25</DisplayName>
+	<Description>ComponentMRR25Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.46666</r>
+		<g>0.33333</g>
+		<b>0.45098</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>4</SlotSize>
+	<Weight>2.2</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>1.0</AmmoExplosionDamage>
+	<MarketValue>150000</MarketValue>
+	<AmmoType>MRR</AmmoType>
+	<AmmoCount>25</AmmoCount>
+	<AmmoInternal>true</AmmoInternal>
+	<Weapon>MRR25</Weapon>
+</ComponentDefinition>

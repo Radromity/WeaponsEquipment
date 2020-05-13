@@ -4,10 +4,10 @@
 	<ComponentType>Ammo</ComponentType>
 	<RequiredSlotType>General</RequiredSlotType>
 	<Color>
-		<r>0.48235</r>
-		<g>0.11372</g>
-		<b>0.23529</b>
-		<a>0.92</a>
+		<r>0.21568</r>
+		<g>0.36470</g>
+		<b>0.43137</b>
+		<a>0.94</a>
 	</Color>
 	<TextColor>
 		<r>1.0</r>

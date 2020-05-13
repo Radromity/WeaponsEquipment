@@ -2,10 +2,10 @@
 	<DisplayName>ComponentSetMRM</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.0</r>
-		<g>0.78</g>
-		<b>0.04</b>
-		<a>0.88</a>
+		<r>0.58431</r>
+		<g>0.33333</g>
+		<b>0.52156</b>
+		<a>0.94</a>
 	</Color>
 	<Components>
 		<string>MRM5</string>

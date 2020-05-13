@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentTAML</DisplayName>
+	<Description>ComponentTAMLDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.54509</r>
+		<g>0.11372</g>
+		<b>0.17254</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>5</SlotSize>
+	<Weight>15.0</Weight>
+	
+	<MarketValue>850000</MarketValue>
+	<Weapon>TAML</Weapon>
+</ComponentDefinition>

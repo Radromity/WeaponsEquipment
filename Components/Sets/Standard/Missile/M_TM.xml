@@ -2,10 +2,10 @@
 	<DisplayName>ComponentSetTM</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.0</r>
-		<g>0.78</g>
-		<b>0.04</b>
-		<a>0.88</a>
+		<r>0.54509</r>
+		<g>0.11372</g>
+		<b>0.17254</b>
+		<a>0.94</a>
 	</Color>
 	<Components>
 		<string>TAML</string>
