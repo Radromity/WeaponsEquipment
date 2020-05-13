@@ -1,0 +1,34 @@
+<ComponentDefinition>
+	<DisplayName>ComponentWeaponCapacitorII</DisplayName>
+	<Description>ComponentWeaponCapacitorDesc</Description>
+	<ComponentType>Equipment</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.23529</r>
+		<g>0.36862</g>
+		<b>0.19215</b>
+		<a>.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>2.0</Weight>
+	
+	<MarketValue>110000</MarketValue>
+	
+	<WeaponModifications>
+		<WeaponModification>
+			<WeaponModificationType>Damage</WeaponModificationType>
+			<WeaponClassification>ParticleCannon</WeaponClassification>
+			<Value>0.5</Value>
+		</WeaponModification>
+		<WeaponModification>
+			<WeaponModificationType>Heat</WeaponModificationType>
+			<WeaponClassification>ParticleCannon</WeaponClassification>
+			<Value>0.75</Value>
+		</WeaponModification>
+		<WeaponModification>
+			<WeaponModificationType>BeamDuration</WeaponModificationType>
+			<WeaponClassification>Laser</WeaponClassification>
+			<Value>1.0</Value>
+		</WeaponModification>
+	</WeaponModifications>
+</ComponentDefinition>

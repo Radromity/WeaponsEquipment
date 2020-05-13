@@ -2,10 +2,10 @@
 	<DisplayName>ComponentSetHeatSink</DisplayName>
 	<ComponentType>Equipment</ComponentType>
 	<Color>
-		<r>0.2</r>
-		<g>0.2</g>
-		<b>.7</b>
-		<a>0.88</a>
+		<r>0.0</r>
+		<g>0.005</g>
+		<b>0.5</b>
+		<a>0.94</a>
 	</Color>
 	<Components>
 		<string>HeatSinkI</string>
