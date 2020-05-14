@@ -1,0 +1,8 @@
+<ProjectileDefinition>
+	<BaseDefinition>AC15cm</BaseDefinition>
+	<AmmoType>AC15cmAP</AmmoType>
+	<DamageType>Ballistic</DamageType>
+	<DamageEffective>15.0</DamageEffective>
+	<DamageMin>7.5</DamageMin>
+	<ArmorPiercing>0.15</ArmorPiercing>
+</ProjectileDefinition>

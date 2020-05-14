@@ -2,11 +2,7 @@
  Adds new weapons and equipment for Mech Merc Company
 
 Additions:
-  Rapidfire Gauss: 3 Shot gauss rifles that function identically to burst autocannons.
-  HE, AP, Flak, Magnum, Caseless, Incendiary, Precision AC Ammo
-  Canister Gauss: Shotgun Gauss, nuff said.
-  Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
-  x7 x9 MG Arrays, Cannon Arrays, Continuous Laser Arrays, More pew pew and dakka for your slots at the cost of tonnage and heat.
+  New Weapons, New Alternate Ammo Types, Weapon Variants.
   1 New Tank Variants, 44 New Mech Variants, 1 New Mech Chassis!
   These additions appear in Career and Instant Action.
 
@@ -30,6 +26,7 @@ Patch 0.2.0:
   Gave each weapon and its ammo a unique color to make differentiating them easier and to help reduce eyestrain. Stolen from Roguetech.
   Most hardpoint colors changed.
   Rebalanced HE rounds to have 80% normal ammo, all new ac ammos also have 80% except for magnum which has 60%
+  Added Slug Ammo for CAC weapons.
 Patch 0.1.0:
   Entered Beta.
   Added more MG arrays.

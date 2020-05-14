@@ -1,0 +1,31 @@
+<ProjectileDefinition>
+	<AmmoType>FAC2cm</AmmoType>
+	<Heat>140.0</Heat>
+	<DamageType>Ballistic</DamageType>
+	<DamageEffective>0.40</DamageEffective>
+	<DamageMin>0.20</DamageMin>
+	<RangeDamageMin>126.0</RangeDamageMin>
+	<RangeEffective>63.0</RangeEffective>
+	<CriticalChance>0.4</CriticalChance>
+	<CriticalDamageMulti>2.0</CriticalDamageMulti>
+	<Velocity>96.0</Velocity>
+	<ProjectileCount>4</ProjectileCount>
+	<Spread>0.125</Spread>
+	<ProjectileLifeTime>1.575</ProjectileLifeTime>
+	<TrailLifeTime>1.0</TrailLifeTime>	
+	<UseGravity>true</UseGravity>
+	<Recoil>0.4</Recoil>
+	<FiringSound>FireCanisterLight</FiringSound>
+	<ProjectilePrefab>CanisterProjectile</ProjectilePrefab>
+	<ProjectileScale>0.05</ProjectileScale>
+	<TrailPrefab>BallisticTrail</TrailPrefab>
+	<TrailScale>0.15</TrailScale>
+	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
+	<ImpactEffectScale>0.25</ImpactEffectScale>
+	<CollisionDetection>ContinuousDynamic</CollisionDetection>
+	<ImpactSounds>
+		<string>ImpactAutoCannonHeavy</string>
+	</ImpactSounds>
+	<ImpactSoundVolume>0.8</ImpactSoundVolume>
+	<AirCraftDamageMulti>5.0</AirCraftDamageMulti>
+</ProjectileDefinition>
