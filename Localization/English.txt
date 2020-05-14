@@ -52,6 +52,13 @@ AmmoAC15cmP AC15cm Precision Ammo
 AmmoAC20cmP AC20cm Precision Ammo
 AmmoAC30cmP AC30cm Precision Ammo
 
+AmmoCAC2cmSlug CAC2cm Slug Ammo
+AmmoCAC5cmSlug CAC5cm Slug Ammo
+AmmoCAC10cmSlug CAC10cm Slug Ammo
+AmmoCAC15cmSlug CAC15cm Slug Ammo
+AmmoCAC20cmSlug CAC20cm Slug Ammo
+AmmoCAC30cmSlug CAC30cm Slug Ammo
+
 hint1 Shooting out the cockpit of a mech will make it easier to salvage.
 hint2 Destroying both legs of a mech will disable it.
 hint3 A mech's reactor will explode if it gets too hot.

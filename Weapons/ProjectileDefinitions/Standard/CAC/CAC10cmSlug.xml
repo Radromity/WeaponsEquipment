@@ -1,0 +1,27 @@
+<ProjectileDefinition>
+	<AmmoType>CAC10cmSlug</AmmoType>
+	<Heat>820.0</Heat>
+	<DamageType>Ballistic</DamageType>
+	<DamageEffective>10.0</DamageEffective>
+	<DamageMin>5.0</DamageMin>
+	<RangeDamageMin>90.0</RangeDamageMin>
+	<RangeEffective>45.0</RangeEffective>
+	<Velocity>70.0</Velocity>	
+	<Spread>0.3</Spread>
+	<ProjectileLifeTime>1.543</ProjectileLifeTime>
+	<TrailLifeTime>1.0</TrailLifeTime>
+	<UseGravity>true</UseGravity>
+	<Recoil>2.0</Recoil>
+	<FiringSound>FireCannonMedium</FiringSound>
+	<ProjectilePrefab>CannonProjectile</ProjectilePrefab>
+	<ProjectileScale>0.5</ProjectileScale>
+	<TrailPrefab>BallisticTrail</TrailPrefab>
+	<TrailScale>0.5</TrailScale>
+	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
+	<ImpactEffectScale>0.25</ImpactEffectScale>
+	<CollisionDetection>ContinuousDynamic</CollisionDetection>	
+	<ImpactSounds>
+		<string>ImpactAutoCannonHeavy</string>
+	</ImpactSounds>
+	<ImpactSoundVolume>0.8</ImpactSoundVolume>
+</ProjectileDefinition>

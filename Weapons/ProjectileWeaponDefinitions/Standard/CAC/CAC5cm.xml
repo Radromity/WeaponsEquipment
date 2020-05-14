@@ -1,0 +1,20 @@
+<ProjectileWeaponDefinition>
+	<DisplayName>WeaponCAC5cm</DisplayName>
+	<ModelPrefab>AutoCannon5cm</ModelPrefab>
+	<ModelScale>
+		<x>1.0</x>
+		<y>1.0</y>
+		<z>0.5</z>
+	</ModelScale>
+	<RecycleTime>1.66</RecycleTime>
+	<DefaultWeaponGrouping>
+		<WeaponGroup2>true</WeaponGroup2>
+	</DefaultWeaponGrouping>
+	<MuzzleEffectPrefab>MuzzleFlashAutoCannonLight</MuzzleEffectPrefab>
+	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
+	<RequiresAmmo>true</RequiresAmmo>
+	<ProjectileDefinitions>
+		<string>CAC5cm</string>
+		<string>CAC5cmSlug</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>
