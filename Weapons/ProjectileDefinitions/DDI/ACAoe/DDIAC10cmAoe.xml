@@ -1,15 +1,18 @@
 <ProjectileDefinition>
-	<AmmoType>AC10cm</AmmoType>
+	<AmmoType>AC10cmAoe</AmmoType>
 	<Heat>430.0</Heat>
 	<DamageType>Ballistic</DamageType>
-	<DamageEffective>5.625</DamageEffective>
-	<DamageMin>2.8125</DamageMin>
+	<DamageEffective>4.5</DamageEffective>
+	<DamageMin>2.25</DamageMin>
 	<RangeDamageMin>90.0</RangeDamageMin>
 	<RangeEffective>45.0</RangeEffective>
+	<HasSplashDamage>true</HasSplashDamage>
+	<SplashDamageRange>3.0</SplashDamageRange>
 	<Velocity>70.0</Velocity>	
 	<Spread>0.3</Spread>
 	<ProjectileLifeTime>1.543</ProjectileLifeTime>
 	<TrailLifeTime>1.0</TrailLifeTime>
+	<ExplodeOnLifeTime>true</ExplodeOnLifeTime>
 	<UseGravity>true</UseGravity>
 	<Recoil>1.0</Recoil>
 	<FiringSound>FireCannonMedium</FiringSound>
@@ -17,8 +20,8 @@
 	<ProjectileScale>0.5</ProjectileScale>
 	<TrailPrefab>BallisticTrail</TrailPrefab>
 	<TrailScale>0.5</TrailScale>
-	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
-	<ImpactEffectScale>0.25</ImpactEffectScale>
+	<ImpactEffectPrefab>Explosion5</ImpactEffectPrefab>
+	<ImpactEffectScale>0.30</ImpactEffectScale>
 	<CollisionDetection>ContinuousDynamic</CollisionDetection>	
 	<ImpactSounds>
 		<string>ImpactAutoCannonHeavy</string>

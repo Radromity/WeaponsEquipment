@@ -1,0 +1,31 @@
+<ProjectileDefinition>
+	<AmmoType>DDIFAC20cm</AmmoType>
+	<Heat>1080.0</Heat>
+	<DamageType>Ballistic</DamageType>
+	<DamageEffective>1.875</DamageEffective>
+	<DamageMin>0.9375</DamageMin>
+	<RangeDamageMin>45.0</RangeDamageMin>
+	<RangeEffective>22.5</RangeEffective>
+	<CriticalChance>0.4</CriticalChance>
+	<CriticalDamageMulti>2.0</CriticalDamageMulti>
+	<Velocity>43.0</Velocity>
+	<ProjectileCount>8</ProjectileCount>
+	<Spread>1.0</Spread>
+	<ProjectileLifeTime>1.256</ProjectileLifeTime>
+	<TrailLifeTime>1.0</TrailLifeTime>
+	<UseGravity>true</UseGravity>
+	<Recoil>2.0</Recoil>
+	<FiringSound>FireCanisterHeavy</FiringSound>
+	<ProjectilePrefab>CanisterProjectile</ProjectilePrefab>
+	<ProjectileScale>0.15</ProjectileScale>
+	<TrailPrefab>BallisticTrail</TrailPrefab>
+	<TrailScale>0.3</TrailScale>
+	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
+	<ImpactEffectScale>0.25</ImpactEffectScale>
+	<CollisionDetection>ContinuousDynamic</CollisionDetection>
+	<ImpactSounds>
+		<string>ImpactAutoCannonHeavy</string>
+	</ImpactSounds>
+	<ImpactSoundVolume>0.8</ImpactSoundVolume>
+	<AirCraftDamageMulti>5.0</AirCraftDamageMulti>
+</ProjectileDefinition>

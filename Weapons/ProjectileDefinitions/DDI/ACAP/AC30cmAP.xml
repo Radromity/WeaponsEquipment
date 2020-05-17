@@ -1,8 +1,0 @@
-<ProjectileDefinition>
-	<BaseDefinition>AC30cm</BaseDefinition>
-	<AmmoType>AC30cmAP</AmmoType>
-	<DamageType>Ballistic</DamageType>
-	<DamageEffective>30.0</DamageEffective>
-	<DamageMin>15.0</DamageMin>
-	<ArmorPiercing>0.15</ArmorPiercing>
-</ProjectileDefinition>

@@ -1,0 +1,7 @@
+<ProjectileDefinition>
+	<BaseDefinition>DDIAC30cm</BaseDefinition>
+	<AmmoType>AC30cmI</AmmoType>
+	<DamageEffective>21.0</DamageEffective>
+	<DamageMin>10.5</DamageMin>
+	<DamageHeat>2220</DamageHeat>
+</ProjectileDefinition>

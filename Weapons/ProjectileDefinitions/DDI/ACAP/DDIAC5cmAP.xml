@@ -1,0 +1,8 @@
+<ProjectileDefinition>
+	<BaseDefinition>DDIAC5cm</BaseDefinition>
+	<AmmoType>AC5cmAP</AmmoType>
+	<DamageType>Ballistic</DamageType>
+	<DamageEffective>3.75</DamageEffective>
+	<DamageMin>1.875</DamageMin>
+	<ArmorPiercing>0.15</ArmorPiercing>
+</ProjectileDefinition>

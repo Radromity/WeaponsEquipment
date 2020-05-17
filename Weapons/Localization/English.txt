@@ -1,6 +1,6 @@
 
 WeaponDDIAC2cm DDI 20mm Standard Cannon
-WeaponDDIAC5cm DDDI 50mm Standard Cannon
+WeaponDDIAC5cm DDI 50mm Standard Cannon
 WeaponDDIAC10cm DDI 100mm Standard Cannon
 WeaponDDIAC15cm DDI 150mm Standard Cannon
 WeaponDDIAC20cm DDI 200mm Standard Cannon 

@@ -1,9 +1,9 @@
 <ProjectileDefinition>
 	<AmmoType>AC5cm</AmmoType>
-	<Heat>412</Heat>
+	<Heat>290</Heat>
 	<DamageType>Ballistic</DamageType>
-	<DamageEffective>5.0</DamageEffective>
-	<DamageMin>2.5</DamageMin>
+	<DamageEffective>3.75</DamageEffective>
+	<DamageMin>1.875</DamageMin>
 	<RangeDamageMin>124.0</RangeDamageMin>
 	<RangeEffective>62.0</RangeEffective>
 	<Velocity>90.0</Velocity>	
@@ -11,7 +11,7 @@
 	<ProjectileLifeTime>1.6534</ProjectileLifeTime>
 	<TrailLifeTime>1.0</TrailLifeTime>
 	<UseGravity>true</UseGravity>
-	<Recoil>1.0</Recoil>
+	<Recoil>0.5</Recoil>
 	<FiringSound>FireCannonLight</FiringSound>
 	<ProjectilePrefab>CannonProjectile</ProjectilePrefab>
 	<ProjectileScale>0.4</ProjectileScale>

@@ -1,9 +1,0 @@
-<ProjectileDefinition>
-	<BaseDefinition>AC2cm</BaseDefinition>
-	<AmmoType>AC2cmP</AmmoType>
-	<RangeDamageMin>180.0</RangeDamageMin>
-	<RangeEffective>90.0</RangeEffective>
-	<Velocity>150.0</Velocity>	
-	<Spread>0.035</Spread>
-	<ProjectileLifeTime>1.8</ProjectileLifeTime>
-</ProjectileDefinition>

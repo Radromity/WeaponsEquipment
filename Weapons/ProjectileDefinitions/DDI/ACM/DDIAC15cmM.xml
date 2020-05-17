@@ -1,0 +1,12 @@
+<ProjectileDefinition>
+	<BaseDefinition>DDIAC15cm</BaseDefinition>
+	<AmmoType>AC15cmM</AmmoType>
+	<DamageEffective>14.0625</DamageEffective>
+	<DamageMin>7.03125</DamageMin>
+	<RangeDamageMin>86.4</RangeDamageMin>
+	<RangeEffective>43.2</RangeEffective>
+	<Velocity>77.5</Velocity>
+	<Recoil>2.25</Recoil>
+	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
+	<ImpactEffectScale>0.35</ImpactEffectScale>
+</ProjectileDefinition>

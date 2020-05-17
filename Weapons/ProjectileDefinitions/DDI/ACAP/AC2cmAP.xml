@@ -1,8 +1,0 @@
-<ProjectileDefinition>
-	<BaseDefinition>AC2cm</BaseDefinition>
-	<AmmoType>AC2cmAP</AmmoType>
-	<DamageType>Ballistic</DamageType>
-	<DamageEffective>2.0</DamageEffective>
-	<DamageMin>1.0</DamageMin>
-	<ArmorPiercing>0.15</ArmorPiercing>
-</ProjectileDefinition>

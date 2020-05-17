@@ -287,3 +287,18 @@ ComponentAmmoCAC30cmSlug_I Cannister AC30cm Slug Mag I
 ComponentAmmoCAC30cmSlug_II Cannister AC30cm Slug Mag II
 ComponentAmmoCAC30cmSlug_III Cannister AC30cm Slug Mag III
 ComponentAmmoCAC30cmSlugDesc Cannister AC30cm Slug Ammo
+
+ComponentDDIAC2 DDI 20mm Standard Cannon
+ComponentDDIAC2Desc DDI 20mm Standard Cannon
+ComponentDDIAC5 DDI 50mm Standard Cannon
+ComponentDDIAC5Desc DDI 50mm Standard Cannon
+ComponentDDIAC10 DDI 100mm Standard Cannon
+ComponentDDIAC10Desc DDI 100mm Standard Cannon
+ComponentDDIAC15 DDI 150mm Standard Cannon
+ComponentDDIAC15Desc DDI 150mm Standard Cannon
+ComponentDDIAC20 DDI 200mm Standard Cannon
+ComponentDDIAC20Desc DDI 200mm Standard Cannon
+ComponentDDIAC30 DDI 300mm Standard Cannon
+ComponentDDIAC30Desc DDI 300mm Standard Cannon
+
+ComponentSetDDIAC Darcova Dynamic Industries - AC - Ballistic

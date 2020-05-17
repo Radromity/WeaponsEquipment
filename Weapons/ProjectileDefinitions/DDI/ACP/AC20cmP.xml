@@ -1,9 +1,0 @@
-<ProjectileDefinition>
-	<BaseDefinition>AC20cm</BaseDefinition>
-	<AmmoType>AC20cmP</AmmoType>
-	<RangeDamageMin>67.5</RangeDamageMin>
-	<RangeEffective>33.75</RangeEffective>
-	<Velocity>67.5</Velocity>
-	<Spread>0.3</Spread>
-	<ProjectileLifeTime>1.3</ProjectileLifeTime>
-</ProjectileDefinition>
