@@ -314,7 +314,7 @@ ComponentSetAmmoGH GH Ammo - GH - Ballistic
 
 ComponentSetAmmoHVAC HVAC Ammo - HVAC - Ballistic
 
-ComponentSetAmmoMG MG Ammo - MG - Ballistic
+ComponentSetAmmoMG MG Ammo - MG/LMG/HMG - Ballistic
 
 ComponentSetAmmoRAC RAC Ammo - RAC - Ballistic
 
@@ -342,12 +342,67 @@ ComponentSetAmmoCIWS CIWS Ammo - CIWS - Missile Defence
 
 #Component Sets
 
-ComponentSetGaussRifleRapid Rapidfire Gauss Rifle
-ComponentSetGaussRifleCan Canister Gauss Rifles
-ComponentSetTwinPC Twin Particle Cannons
+ComponentSetAC Autocannons - AC - Ballistic
+ComponentSetBAC Burst Autocannons - BAC - Ballistic
+ComponentSetCAC Canister Autocannons - CAC - Ballistic
+ComponentSetHVAC High Velocity Autocannons - HVAC - Ballistic
+ComponentSetLAC Light Autocannons - LAC - Ballistic
+ComponentSetRAC Rotary Autocannons - RAC - Ballistic
+ComponentSetAutocannonArray Autocannon Arrays - AC - Ballistic
 
-ComponentSetContinuousLaserArray Continuous Laser Arrays
-ComponentSetAutocannonArray Autocannon Arrays
+ComponentSetGaussRifle Gauss Rifles - Slug - Ballistic
+ComponentSetGaussRifleRapid Rapidfire Gauss Rifles - Slug - Ballistic
+ComponentSetGaussRifleCan Canister Gauss Rifles - Canister Slug - Ballistic
+ComponentSetRailgun Railguns - Slug - Ballistic
+
+ComponentSetGH Gun Howitzers - GH - Ballistic
+
+ComponentSetHMG Heavy Machine Guns - HMG - Ballistic
+ComponentSetMG Machine Guns - MG - Ballistic
+ComponentSetLMG Light Machine Guns - LMG - Ballistic
+
+ComponentSetFlamer Flamers - Energy
+
+ComponentSetLaser Lasers - Energy
+ComponentSetLaserArray Laser Arrays - Energy
+ComponentSetLaserContinuous Continuous Lasers - Energy
+ComponentSetContinuousLaserArray Continuous Laser Arrays - Energy
+ComponentSetLaserER Extended Range Lasers - Energy
+ComponentSetLaserHeavy Heavy Lasers - Energy
+ComponentSetLaserHeavyER Extended Range Heavy Lasers - Energy
+ComponentSetLaserHyperPulse Hyper Pulse Lasers - Energy
+ComponentSetLaserLight Light Lasers - Energy
+ComponentSetLaserPulse Pulse Lasers - Energy
+ComponentSetLaserPulseER  Extended Range Pulse Lasers - Energy
+
+ComponentSetPC Particle Cannons - Energy
+ComponentSetPCER Extended Range Particle Cannons - Energy
+ComponentSetPCSN Snub Nose Particle Cannons - Energy
+ComponentSetTwinPC Twin Particle Cannons - Energy
+
+ComponentSetDRM Dynamic Range Missiles - DRM - Missile
+ComponentSetLRM Long Range Missiles - LRM - Missile
+ComponentSetLRMA Advanced Long Range Missiles - LRMA - Missile
+ComponentSetMRM Medium Range Missiles - MRM - Missile
+ComponentSetMRR Medium Range Rockets - Missile
+ComponentSetSRM Short Range Missiles - SRM - Missile
+ComponentSetSRMA Advanced Short Range Missiles - SRMA - Missile
+ComponentSetSRMH Heavy Short Range Missiles - SRMH - Missile
+ComponentSetTM Tactical Missile Launcher - TAML - Missile
+
+ComponentSetCoolantTank CoolantTanks - Equipment
+ComponentSetElectrionics Electronics - Equipment
+ComponentSetEngine Standard Engines - Reactor
+ComponentSetEngineLight Light Engines - Reactor
+ComponentSetEngineUltraLight Ultra Light Engines - Reactor
+ComponentSetHeatBank Heat Banks - Equipment
+ComponentSetHeatSink Heat Sinks - Equipment
+ComponentSetHeatSinkReactor Reactor Heat Sinks - Equipment
+ComponentSetInternalReinforcement Internal Reinforcement - Equipment
+ComponentSetJumpJet Jump Jets - Equipment
+ComponentSetMissileDefense Missile Defense - Equipment
+ComponentSetReactorShielding Reactor Shielding - Equipment
+ComponentSetWeaponModsEnergy Energy Weapon Mods - Equipment
 
 #Component Sets DDI
 

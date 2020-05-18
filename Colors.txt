@@ -1,8 +1,8 @@
-Red 1 r - 0.97647‬    g - 0.66274‬ b - 0.686274 Flamers
-Red 2 r - 0.81568‬    g - 0.41960 b - 0.447058 Lasers, Laser Arrays, Continuous Lasers, Light Lasers
-Red 3 r - 0.65490‬    g - 0.22745‬ b - 0.227450 Heavy Lasers, Heavy ER Lasers
-Red 4 r - 0.50196    g - 0.09411‬ b - 0.125490 ER Lasers, Pulse Lasers, Er Pulse, Hyper Pulse
-Red 5 r - 0.33333‬    g - 0.00784‬ b - 0.031372 PC, ER PC, SN PC, TPC
+Red 1 r - 0.97647‬    g - 0.66274‬ b - 0.68627 Flamers
+Red 2 r - 0.81568‬    g - 0.41960 b - 0.44705 Lasers, Laser Arrays, Continuous Lasers, Light Lasers
+Red 3 r - 0.65490‬    g - 0.22745‬ b - 0.22745 Heavy Lasers, Heavy ER Lasers
+Red 4 r - 0.50196    g - 0.09411‬ b - 0.12549 ER Lasers, Pulse Lasers, Er Pulse, Hyper Pulse
+Red 5 r - 0.33333‬    g - 0.00784‬ b - 0.03137 PC, ER PC, SN PC, TPC
 
 Orange 1 r - 1       g - 0.83921‬ b - 0.67843 
 Orange 2 r - 0.83921 g - 0.63137 b - 0.43137 

@@ -4,9 +4,9 @@
 	<ComponentType>Weapon</ComponentType>
 	<RequiredSlotType>WeaponMissile</RequiredSlotType>
 	<Color>
-		<r>0.64705</r>
-		<g>0.33333</g>
-		<b>0.45882</b>
+		<r>0.6</r>
+		<g>0.83137</g>
+		<b>0.56470</b>
 		<a>0.94</a>
 	</Color>
 	<SlotSize>3</SlotSize>

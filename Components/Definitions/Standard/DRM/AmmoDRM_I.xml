@@ -4,9 +4,9 @@
 	<ComponentType>Ammo</ComponentType>
 	<RequiredSlotType>General</RequiredSlotType>
 	<Color>
-		<r>0.20784</r>
-		<g>0.10980</g>
-		<b>0.45882</b>
+		<r>0.12549</r>
+		<g>0.42352</g>
+		<b>0.07843</b>
 		<a>0.94</a>
 	</Color>
 	<SlotSize>1</SlotSize>
