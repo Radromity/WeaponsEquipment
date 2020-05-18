@@ -2,11 +2,11 @@
 	<DisplayName>ComponentSetTwinPC</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.02352</r>
-		<g>0.51372</g>
-		<b>0.0</b>
-		<a>1.0</a>
-	</Color>>
+		<r>0.33333</r>
+		<g>0.00784</g>
+		<b>0.031372</b>
+		<a>0.94</a>
+	</Color>
 	<Components>
 		<string>TwinParticleCannonLight</string>
 		<string>TwinParticleCannon</string>

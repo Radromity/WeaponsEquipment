@@ -1,12 +1,4 @@
-ComponentSetGaussRifleRapid Rapidfire Gauss Rifle
-
-ComponentSetGaussRifleCan Canister Gauss Rifles
-
-ComponentSetTwinPC Twin Particle Cannons
-
-ComponentSetAmmoSlugCan Canister Slug Mags
-
-ComponentSetContinuousLaserArray Continuous Laser Arrays
+#Component Ammo
 
 ComponentAmmoSlug4cmCan_I Slug 4cm Canister Mag I
 ComponentAmmoSlug4cmCan_II Slug 4cm Canister Mag II
@@ -24,14 +16,6 @@ ComponentAmmoSlug1cmCan_I Slug 1cm Canister Mag I
 ComponentAmmoSlug1cmCan_II Slug 1cm Canister Mag II
 ComponentAmmoSlug1cmCan_III Slug 1cm Canister Mag III
 ComponentAmmoSlug1cmCanDesc Description Required!
-
-ComponentSetAmmoACAoe High Explosive Autocannon Ammo
-ComponentSetAmmoACAP Armor Piercing Autocannon Ammo
-ComponentSetAmmoACC Caseless Autocannon Ammo
-ComponentSetAmmoACI Incendiary Autocannon Ammo
-ComponentSetAmmoACM Magnum Autocannon Ammo
-ComponentSetAmmoACP Precision Autocannon Ammo
-ComponentSetAmmoFAC Flak Autocannon Ammo
 
 ComponentAmmoAC2cmAoe_I High Explosive AC2cm Rounds I
 ComponentAmmoAC2cmAoe_II High Explosive AC2cm Rounds II
@@ -208,6 +192,33 @@ ComponentAmmoAC30cmP_II Precision AC30cm Rounds II
 ComponentAmmoAC30cmP_III Precision AC30cm Rounds III
 ComponentAmmoAC30cmPDesc Precision AC30cm Rounds
 
+ComponentAmmoCAC2cmSlug_I Cannister AC2cm Slug Mag I
+ComponentAmmoCAC2cmSlug_II Cannister AC2cm Slug Mag II
+ComponentAmmoCAC2cmSlug_III Cannister AC2cm Slug Mag III
+ComponentAmmoCAC2cmSlugDesc Cannister AC2cm Slug Ammo
+ComponentAmmoCAC5cmSlug_I Cannister AC5cm Slug Mag I
+ComponentAmmoCAC5cmSlug_II Cannister AC5cm Slug Mag II
+ComponentAmmoCAC5cmSlug_III Cannister AC5cm Slug Mag III
+ComponentAmmoCAC5cmSlugDesc Cannister AC5cm Slug Ammo
+ComponentAmmoCAC10cmSlug_I Cannister AC10cm Slug Mag I
+ComponentAmmoCAC10cmSlug_II Cannister AC10cm Slug Mag II
+ComponentAmmoCAC10cmSlug_III Cannister AC10cm Slug Mag III
+ComponentAmmoCAC10cmSlugDesc Cannister AC10cm Slug Ammo
+ComponentAmmoCAC15cmSlug_I Cannister AC15cm Slug Mag I
+ComponentAmmoCAC15cmSlug_II Cannister AC15cm Slug Mag II
+ComponentAmmoCAC15cmSlug_III Cannister AC15cm Slug Mag III
+ComponentAmmoCAC15cmSlugDesc Cannister AC15cm Slug Ammo
+ComponentAmmoCAC20cmSlug_I Cannister AC20cm Slug Mag I
+ComponentAmmoCAC20cmSlug_II Cannister AC20cm Slug Mag II
+ComponentAmmoCAC20cmSlug_III Cannister AC20cm Slug Mag III
+ComponentAmmoCAC20cmSlugDesc Cannister AC20cm Slug Ammo
+ComponentAmmoCAC30cmSlug_I Cannister AC30cm Slug Mag I
+ComponentAmmoCAC30cmSlug_II Cannister AC30cm Slug Mag II
+ComponentAmmoCAC30cmSlug_III Cannister AC30cm Slug Mag III
+ComponentAmmoCAC30cmSlugDesc Cannister AC30cm Slug Ammo
+
+#Component
+
 ComponentTwinParticleCannon Twin PC
 ComponentTwinParticleCannonDesc Twin Particle Cannon
 ComponentTwinParticleCannonHeavy Twin H-PC
@@ -258,35 +269,11 @@ ComponentMGA7Desc Machine Gun Array x7
 ComponentLMGA7 Light Machine Gun Array x7
 ComponentLMGA7Desc Light Machine Gun Array x7
 
-ComponentSetAutocannonArray Autocannon Arrays
 ComponentAC2A2 Autocannon 2cm Array x2
 ComponentAC2A3 Autocannon 2cm Array x3
 ComponentAC2A4 Autocannon 2cm Array x4
 
-ComponentAmmoCAC2cmSlug_I Cannister AC2cm Slug Mag I
-ComponentAmmoCAC2cmSlug_II Cannister AC2cm Slug Mag II
-ComponentAmmoCAC2cmSlug_III Cannister AC2cm Slug Mag III
-ComponentAmmoCAC2cmSlugDesc Cannister AC2cm Slug Ammo
-ComponentAmmoCAC5cmSlug_I Cannister AC5cm Slug Mag I
-ComponentAmmoCAC5cmSlug_II Cannister AC5cm Slug Mag II
-ComponentAmmoCAC5cmSlug_III Cannister AC5cm Slug Mag III
-ComponentAmmoCAC5cmSlugDesc Cannister AC5cm Slug Ammo
-ComponentAmmoCAC10cmSlug_I Cannister AC10cm Slug Mag I
-ComponentAmmoCAC10cmSlug_II Cannister AC10cm Slug Mag II
-ComponentAmmoCAC10cmSlug_III Cannister AC10cm Slug Mag III
-ComponentAmmoCAC10cmSlugDesc Cannister AC10cm Slug Ammo
-ComponentAmmoCAC15cmSlug_I Cannister AC15cm Slug Mag I
-ComponentAmmoCAC15cmSlug_II Cannister AC15cm Slug Mag II
-ComponentAmmoCAC15cmSlug_III Cannister AC15cm Slug Mag III
-ComponentAmmoCAC15cmSlugDesc Cannister AC15cm Slug Ammo
-ComponentAmmoCAC20cmSlug_I Cannister AC20cm Slug Mag I
-ComponentAmmoCAC20cmSlug_II Cannister AC20cm Slug Mag II
-ComponentAmmoCAC20cmSlug_III Cannister AC20cm Slug Mag III
-ComponentAmmoCAC20cmSlugDesc Cannister AC20cm Slug Ammo
-ComponentAmmoCAC30cmSlug_I Cannister AC30cm Slug Mag I
-ComponentAmmoCAC30cmSlug_II Cannister AC30cm Slug Mag II
-ComponentAmmoCAC30cmSlug_III Cannister AC30cm Slug Mag III
-ComponentAmmoCAC30cmSlugDesc Cannister AC30cm Slug Ammo
+#Component DDI
 
 ComponentDDIAC2 DDI 20mm Standard Cannon
 ComponentDDIAC2Desc DDI 20mm Standard Cannon
@@ -301,4 +288,68 @@ ComponentDDIAC20Desc DDI 200mm Standard Cannon
 ComponentDDIAC30 DDI 300mm Standard Cannon
 ComponentDDIAC30Desc DDI 300mm Standard Cannon
 
-ComponentSetDDIAC Darcova Dynamic Industries - AC - Ballistic
+ComponentDDIBAC2 DDI 20mm Burstfire Cannon
+ComponentDDIBAC5 DDI 20mm Burstfire Cannon
+ComponentDDIBAC10 DDI 100mm Burstfire Cannon
+ComponentDDIBAC15 DDI 150mm Burstfire Cannon
+ComponentDDIBAC20 DDI 200mm Burstfire Cannon
+ComponentDDIBAC30 DDI 300mm Burstfire Cannon
+
+#Component Ammo Sets
+
+ComponentSetAmmoAC AC Ammo - AC - Ballistic
+ComponentSetAmmoACAoe HE AC Ammo - AC - Ballistic
+ComponentSetAmmoACAP AP AC Ammo - AC - Ballistic
+ComponentSetAmmoACC C AC Ammo - AC - Ballistic
+ComponentSetAmmoACI I AC Ammo - AC - Ballistic
+ComponentSetAmmoACM M AC Ammo - AC - Ballistic
+ComponentSetAmmoACP P AC Ammo - AC - Ballistic
+ComponentSetAmmoFAC F AC Ammo - AC - Ballistic
+
+ComponentSetAmmoBAC BAC Ammo - BAC - Ballistic
+
+ComponentSetAmmoCAC CAC Ammo - CAC - Ballistic
+
+ComponentSetAmmoGH GH Ammo - GH - Ballistic
+
+ComponentSetAmmoHVAC HVAC Ammo - HVAC - Ballistic
+
+ComponentSetAmmoMG MG Ammo - MG - Ballistic
+
+ComponentSetAmmoRAC RAC Ammo - RAC - Ballistic
+
+ComponentSetAmmoSlug Slug Ammo - GR/Rail - Ballistic
+
+ComponentSetAmmoSlugCan CSlug Ammo - CGR - Ballistic
+
+ComponentSetAmmoDRM DRM Ammo - DRM - Missile
+
+ComponentSetAmmoLRM LRM Ammo - LRM - Missile
+
+ComponentSetAmmoLRMA LRMA Ammo - LRMA - Missile
+
+ComponentSetAmmoMRM MRM Ammo - MRM - Missile
+
+ComponentSetAmmoSRM SRM Ammo - SRM - Missile
+
+ComponentSetAmmoSRMA SRMA Ammo - SRM - Missile
+
+ComponentSetAmmoSRMH SRMH Ammo - SRMH - Missle
+
+ComponentSetAmmoTAM TAM Ammo - TAM - Missile
+
+ComponentSetAmmoCIWS CIWS Ammo - CIWS - Missile Defence
+
+#Component Sets
+
+ComponentSetGaussRifleRapid Rapidfire Gauss Rifle
+ComponentSetGaussRifleCan Canister Gauss Rifles
+ComponentSetTwinPC Twin Particle Cannons
+
+ComponentSetContinuousLaserArray Continuous Laser Arrays
+ComponentSetAutocannonArray Autocannon Arrays
+
+#Component Sets DDI
+
+ComponentSetDDIAC DDI - AC - Ballistic
+ComponentSetDDIBAC DDI - BAC - Ballistic

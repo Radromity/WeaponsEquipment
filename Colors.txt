@@ -1,0 +1,41 @@
+Red 1 r - 0.97647‬    g - 0.66274‬ b - 0.686274 Flamers
+Red 2 r - 0.81568‬    g - 0.41960 b - 0.447058 Lasers, Laser Arrays, Continuous Lasers, Light Lasers
+Red 3 r - 0.65490‬    g - 0.22745‬ b - 0.227450 Heavy Lasers, Heavy ER Lasers
+Red 4 r - 0.50196    g - 0.09411‬ b - 0.125490 ER Lasers, Pulse Lasers, Er Pulse, Hyper Pulse
+Red 5 r - 0.33333‬    g - 0.00784‬ b - 0.031372 PC, ER PC, SN PC, TPC
+
+Orange 1 r - 1       g - 0.83921‬ b - 0.67843 
+Orange 2 r - 0.83921 g - 0.63137 b - 0.43137 
+Orange 3 r - 0.67450 g - 0.45098 b - 0.23529
+Orange 4 r - 0.51372‬ g - 0.30588 b - 0.09803
+Orange 5 r - 0.34509 g - 0.17647 b - 0.00784
+
+Blue 1 r - 0.43137   g - 0.58823 b - 0.62352
+Blue 2 r - 0.27450‬   g - 0.47058 b - 0.51764
+Blue 3 r - 0.15294‬   g - 0.36862 b -‬ 0.41568 Missile Defence
+Blue 4 r - 0.06666‬   g - 0.27058‬ b - 0.31764
+Blue 5 r - 0.01176   g - 0.17647 b - 0.21568
+
+Green 1 r - 0.6‬      g - 0.83137 b - 0.56470 SRM SRMA SRMH
+Green 2 r - 0.40392‬  g - 0.69411 b - 0.35686 MRM MRRL
+Green 3 r - 0.24313  g - 0.55686 b - 0.19607 LRM LRMA
+Green 4 r - 0.12549  g - 0.42352‬ b - 0.07843 DRM
+Green 5 r - 0.04313  g - 0.28627‬ b - 0.00392 TAM
+
+Yellow 1 r - 0.59607 g - 0.54509 b - 0 MG
+Yellow 2 r - 0.70980 g - 0.65490 b - 0 BAC, CAC, RAC, HVAC
+Yellow 3 r - 0.83921 g - 0.74901‬ b - 0 AC, ACA, LAC
+Yellow 4 r - 0.86549 g - 0.78882 b - 0 Gauss, Railguns
+Yellow 5 r - 0.89607 g - 0.80333 b - 0 GH
+
+Red = Energy
+Yellow = Ballistic
+Blue = Equipment
+Green = Missile
+
+<Color>
+    <r></r>
+    <g></g>
+    <b></b>
+    <a></a>
+</Color>

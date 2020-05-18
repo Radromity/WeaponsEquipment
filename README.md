@@ -6,8 +6,7 @@ Additions:
   1 New Tank Variants, 44 New Mech Variants, 1 New Mech Chassis!
   These additions appear in Career and Instant Action.
 
-  Colors toned down in the mechlab to reduce eyestrain, Ballistics are Blue to Teal, Energy is Green to Yellow, Missiles are Red to Purple.
-  Hardpoints are Dark Blue - Ballistic, Dark Green - Energy, Purple - Missile, Teal - Missile Defences.
+  Colors toned down in the mechlab to reduce eyestrain,
 
   Credits:
     Rumia - Main Developer
@@ -17,13 +16,11 @@ Additions:
     AK Night Hawk - Continuous Laser Arrays idea.
     Tuprewm - MG Arrays, Cannon Arrays idea.
     Groxglitch - Magnum ammo type idea.
-    Denadan - For letting me take their weapon color scheme from Roguetech.
-    
 Patch 0.2.0:
   Adjusted filestructure so all equipment and weapons are organized for implementation of faction variant weapons.
   Made HE AC rounds create a explosion effect to emphasise the aoe damage.
   Added AP, Flak, Magnum, Incendiary, Caseless Precision AC rounds.
-  Gave each weapon and its ammo a unique color to make differentiating them easier and to help reduce eyestrain. Stolen from Roguetech.
+  Adjusted Colors of weapons and ammo.
   Most hardpoint colors changed.
   Rebalanced HE rounds to have 80% normal ammo, all new ac ammos also have 80% except for magnum which has 60%
   Added Slug Ammo for CAC weapons.

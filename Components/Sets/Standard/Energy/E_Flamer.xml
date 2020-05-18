@@ -2,10 +2,10 @@
 	<DisplayName>ComponentSetFlamer</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.49803</r>
-		<g>0.56078</g>
-		<b>0.02745</b>
-		<a>.94</a>
+		<r>0.97647</r>
+		<g>0.66274</g>
+		<b>0.68627</b>
+		<a>0.94</a>
 	</Color>
 	<Components>
 		<string>FlamerLight</string>

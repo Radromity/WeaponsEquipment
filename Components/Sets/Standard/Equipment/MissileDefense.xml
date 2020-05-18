@@ -2,9 +2,9 @@
 	<DisplayName>ComponentSetMissileDefense</DisplayName>
 	<ComponentType>Equipment</ComponentType>
 	<Color>
-		<r>0</r>
-		<g>0.72156</g>
-		<b>0.72156</b>
+		<r>0.15294</r>
+		<g>0.36862</g>
+		<b>0.41568</b>
 		<a>0.94</a>
 	</Color>
 	<Components>

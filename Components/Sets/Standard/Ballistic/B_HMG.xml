@@ -2,10 +2,10 @@
 	<DisplayName>ComponentSetHMG</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.0</r>
-		<g>0.57647</g>
-		<b>0.57647</b>
-		<a>0.92</a>
+		<r>0.59607</r>
+		<g>0.54509</g>
+		<b>0</b>
+		<a>0.94</a>
 	</Color>
 	<TextColor>
 		<r>1.0</r>

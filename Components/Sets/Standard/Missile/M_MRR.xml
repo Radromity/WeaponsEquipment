@@ -2,9 +2,9 @@
 	<DisplayName>ComponentSetMRR</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.46666</r>
-		<g>0.33333</g>
-		<b>0.45098</b>
+		<r>0.40392</r>
+		<g>0.69411</g>
+		<b>0.35686</b>
 		<a>0.94</a>
 	</Color>
 	<Components>

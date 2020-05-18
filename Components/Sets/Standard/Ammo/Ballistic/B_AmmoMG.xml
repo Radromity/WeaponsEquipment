@@ -2,9 +2,9 @@
 	<DisplayName>ComponentSetAmmoMG</DisplayName>
 	<ComponentType>Ammo</ComponentType>
 	<Color>
-		<r>0.0</r>
-		<g>0.57647</g>
-		<b>0.57647</b>
+		<r>0.59607</r>
+		<g>0.54509</g>
+		<b>0</b>
 		<a>0.92</a>
 	</Color>
 	<TextColor>

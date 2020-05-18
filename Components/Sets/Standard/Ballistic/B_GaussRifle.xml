@@ -2,9 +2,9 @@
 	<DisplayName>ComponentSetGaussRifle</DisplayName>
 	<ComponentType>Weapon</ComponentType>
 	<Color>
-		<r>0.10980</r>
-		<g>0.27058</g>
-		<b>0.59215</b>
+		<r>0.86549</r>
+		<g>0.78882</g>
+		<b>0</b>
 		<a>0.92</a>
 	</Color>
 	<TextColor>
