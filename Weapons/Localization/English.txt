@@ -275,3 +275,7 @@ WeaponLMGA7 Light Machine Gun Array x7
 WeaponAC2cmA2 Autocannon 2cm Array x2
 WeaponAC2cmA3 Autocannon 2cm Array x3
 WeaponAC2cmA4 Autocannon 2cm Array x4
+
+WeaponLPA Light Plasma Accelerator
+WeaponPA Plasma Accelerator
+WeaponHPA Heavy Plasma Accelerator
