@@ -1,6 +1,6 @@
 <ComponentDefinition>
-	<DisplayName>ComponentAmmoDRM_II</DisplayName>
-	<Description>ComponentAmmoDRMDesc</Description>
+	<DisplayName>ComponentAmmoSRDM_I</DisplayName>
+	<Description>ComponentAmmoSRDMDesc</Description>
 	<ComponentType>Ammo</ComponentType>
 	<RequiredSlotType>General</RequiredSlotType>
 	<Color>
@@ -10,10 +10,10 @@
 		<a>0.94</a>
 	</Color>
 	<SlotSize>1</SlotSize>
-	<Weight>1.0</Weight>
+	<Weight>0.5</Weight>
 	<ExplosionChance>0.1</ExplosionChance>
 	<AmmoExplosionDamage>0.12</AmmoExplosionDamage>
-	<MarketValue>5000</MarketValue>
-	<AmmoType>DRM</AmmoType>
-	<AmmoCount>200</AmmoCount>
+	<MarketValue>2000</MarketValue>
+	<AmmoType>SRDM</AmmoType>
+	<AmmoCount>60</AmmoCount>
 </ComponentDefinition>

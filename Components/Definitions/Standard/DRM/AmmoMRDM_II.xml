@@ -1,0 +1,19 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoMRDM_II</DisplayName>
+	<Description>ComponentAmmoMRDMDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.12549</r>
+		<g>0.42352</g>
+		<b>0.07843</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>1.0</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>0.12</AmmoExplosionDamage>
+	<MarketValue>5000</MarketValue>
+	<AmmoType>MRDM</AmmoType>
+	<AmmoCount>260</AmmoCount>
+</ComponentDefinition>

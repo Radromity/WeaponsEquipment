@@ -6,6 +6,7 @@ Patch 0.2.0:
   Most hardpoint colors changed.
   Rebalanced HE rounds to have 80% normal ammo, all new ac ammos also have 80% except for magnum which has 60%
   Added Slug Ammo for CAC weapons.
+  Added Plasma Accelerators, rapid fire low damage energy weapons.
 Patch 0.1.0:
   Entered Beta.
   Added more MG arrays.

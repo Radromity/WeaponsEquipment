@@ -80,7 +80,7 @@
 	<HeatDamageMajor>5.0</HeatDamageMajor>
 	<HeatDamageExtreme>15.0</HeatDamageExtreme>
 	<CoolantHeatReduction>5000.0</CoolantHeatReduction>
-	<JumpJetHeatMultiplier>180.0</JumpJetHeatMultiplier>
+	<JumpJetHeatMultiplier>160.0</JumpJetHeatMultiplier>
 	
 	<StealthArmorSignatureReductionHead>2.0</StealthArmorSignatureReductionHead>
 	<StealthArmorSignatureReductionTorsoCenter>9.0</StealthArmorSignatureReductionTorsoCenter>
@@ -221,7 +221,19 @@
 	<ObjectiveColorActive>ffffffff</ObjectiveColorActive>
 	<ObjectiveColorCompleted>00ff00ff</ObjectiveColorCompleted>
 	<ObjectiveColorFailed>ff0000ff</ObjectiveColorFailed>
-	<ObjectiveColorOptional>ffff00ff</ObjectiveColorOptional>
+	<ObjectiveColorDisabled>808080ff</ObjectiveColorDisabled>
+	
+	<KillExperienceMechUltraLight>0.001</KillExperienceMechUltraLight>
+	<KillExperienceMechLight>0.0025</KillExperienceMechLight>
+	<KillExperienceMechMedium>0.005</KillExperienceMechMedium>
+	<KillExperienceMechHeavy>0.009</KillExperienceMechHeavy>
+	<KillExperienceMechAssault>0.014</KillExperienceMechAssault>
+	
+	<KillExperienceVehicleUltraLight>0.0005</KillExperienceVehicleUltraLight>
+	<KillExperienceVehicleLight>0.00125</KillExperienceVehicleLight>
+	<KillExperienceVehicleMedium>0.0025</KillExperienceVehicleMedium>
+	<KillExperienceVehicleHeavy>0.0045</KillExperienceVehicleHeavy>
+	<KillExperienceVehicleAssault>0.007</KillExperienceVehicleAssault>
 	
 	<LockingOnValueMin>0.16</LockingOnValueMin>
 	

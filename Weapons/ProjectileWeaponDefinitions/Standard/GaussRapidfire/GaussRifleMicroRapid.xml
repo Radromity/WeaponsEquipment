@@ -6,7 +6,7 @@
 		<y>0.4</y>
 		<z>0.4</z>
 	</ModelScale>
-	<RecycleTime>0.66</RecycleTime>
+	<RecycleTime>0.792</RecycleTime>
 	<DefaultWeaponGrouping>
 		<WeaponGroup2>true</WeaponGroup2>
 	</DefaultWeaponGrouping>

@@ -2,15 +2,15 @@
 	<AmmoType>Slug2cm</AmmoType>
 	<Heat>83.3</Heat>
 	<DamageType>Ballistic</DamageType>
-	<DamageEffective>2.6</DamageEffective>
-	<DamageMin>1.3</DamageMin>
+	<DamageEffective>2.0</DamageEffective>
+	<DamageMin>1.0</DamageMin>
 	<RangeDamageMin>162.0</RangeDamageMin>
 	<RangeEffective>81.0</RangeEffective>
 	<Velocity>140.0</Velocity>
 	<ProjectileLifeTime>1.389</ProjectileLifeTime>
 	<TrailLifeTime>2.0</TrailLifeTime>	
 	<UseGravity>true</UseGravity>
-	<Recoil>0.6</Recoil>
+	<Recoil>0.5</Recoil>
 	<FiringSound>FireGaussRifle</FiringSound>
 	<ProjectilePrefab>GaussRifleProjectile</ProjectilePrefab>
 	<ProjectileScale>0.2</ProjectileScale>

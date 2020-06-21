@@ -8,8 +8,14 @@
 		<a>0.94</a>
 	</Color>
 	<Components>
-		<string>AmmoDRM_I</string>
-		<string>AmmoDRM_II</string>
-		<string>AmmoDRM_III</string>
+		<string>AmmoLRDM_I</string>
+		<string>AmmoLRDM_II</string>
+		<string>AmmoLRDM_III</string>		
+		<string>AmmoMRDM_I</string>
+		<string>AmmoMRDM_II</string>
+		<string>AmmoMRDM_III</string>	
+		<string>AmmoSRDM_I</string>
+		<string>AmmoSRDM_II</string>
+		<string>AmmoSRDM_III</string>
 	</Components>
 </ComponentSet>

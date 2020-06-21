@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetGyros</DisplayName>
+	<ComponentType>Equipment</ComponentType>
+	<Color>
+		<r>0.0</r>
+		<g>0.7</g>
+		<b>0.5</b>
+		<a>0.88</a>
+	</Color>
+	<Components>
+		<string>GyroUpgradeI</string>
+		<string>GyroUpgradeII</string>
+		<string>GyroLightI</string>
+		<string>GyroLightII</string>
+	</Components>
+</ComponentSet>

@@ -327,6 +327,23 @@ ComponentAC2A2 Autocannon 2cm Array x2
 ComponentAC2A3 Autocannon 2cm Array x3
 ComponentAC2A4 Autocannon 2cm Array x4
 
+ComponentGyroLightI Light Gyro Mk1
+ComponentGyroLightII Light Gyro Mk2
+ComponentGyroLightDesc Upgraded Gyro with weight saving materials but not as effective as a regular or heavy gyro
+
+ComponentGyroUpgradeI Heavy Gyro Mk1
+ComponentGyroUpgradeII Heavy Gyro Mk2
+ComponentGyroUpgradeDesc Upgraded Gyro that is heavier and more powerful which makes it more capable of withstanding recoil than a regular gyro
+
+ComponentLightenedStructureI Lightened Structure Mk1
+ComponentLightenedStructureII Lightened Structure Mk2
+ComponentLightenedStructureIII Lightened Structure Mk3
+ComponentLightenedStructureDesc Structure Replacement that lightens the structure but is weaker.
+
+ComponentInternalReinforcementI Internal Structure Reinforcement Mk1
+ComponentInternalReinforcementII Internal Structure Reinforcement Mk2
+ComponentInternalReinforcementIII Internal Structure Reinforcement Mk3
+ComponentInternalReinforcementDesc Structure Replacement that is heavier but more durable.
 #Component DDI
 
 ComponentDDIAC2 DDI 20mm Standard Cannon
@@ -343,7 +360,7 @@ ComponentDDIAC30 DDI 300mm Standard Cannon
 ComponentDDIAC30Desc DDI 300mm Standard Cannon
 
 ComponentDDIBAC2 DDI 20mm Burstfire Cannon
-ComponentDDIBAC5 DDI 20mm Burstfire Cannon
+ComponentDDIBAC5 DDI 50mm Burstfire Cannon
 ComponentDDIBAC10 DDI 100mm Burstfire Cannon
 ComponentDDIBAC15 DDI 150mm Burstfire Cannon
 ComponentDDIBAC20 DDI 200mm Burstfire Cannon
@@ -440,7 +457,7 @@ ComponentSetPCER Extended Range Particle Cannons - Energy
 ComponentSetPCSN Snub Nose Particle Cannons - Energy
 ComponentSetTwinPC Twin Particle Cannons - Energy
 
-ComponentSetPA Plasma Accelerator
+ComponentSetPA Plasma Accelerator - Energy
 
 ComponentSetDRM Dynamic Range Missiles - DRM - Missile
 ComponentSetLRM Long Range Missiles - LRM - Missile
@@ -460,7 +477,8 @@ ComponentSetEngineUltraLight Ultra Light Engines - Reactor
 ComponentSetHeatBank Heat Banks - Equipment
 ComponentSetHeatSink Heat Sinks - Equipment
 ComponentSetHeatSinkReactor Reactor Heat Sinks - Equipment
-ComponentSetInternalReinforcement Internal Reinforcement - Equipment
+ComponentSetInternalReinforcement Structure Upgrades - Equipment
+ComponentSetGyros Gyro Upgrades - Equipment
 ComponentSetJumpJet Jump Jets - Equipment
 ComponentSetMissileDefense Missile Defense - Equipment
 ComponentSetReactorShielding Reactor Shielding - Equipment

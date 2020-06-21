@@ -14,13 +14,13 @@
   <ArmorPointsTorsoRight>52</ArmorPointsTorsoRight>
   <ArmorPointsTorsoRightRear>12</ArmorPointsTorsoRightRear>
   <ArmorTypeArmLeft>standard</ArmorTypeArmLeft>
-  <ArmorPointsArmLeft>60</ArmorPointsArmLeft>
+  <ArmorPointsArmLeft>59</ArmorPointsArmLeft>
   <ArmorTypeArmRight>standard</ArmorTypeArmRight>
-  <ArmorPointsArmRight>60</ArmorPointsArmRight>
+  <ArmorPointsArmRight>59</ArmorPointsArmRight>
   <ArmorTypeLegLeft>standard</ArmorTypeLegLeft>
-  <ArmorPointsLegLeft>64</ArmorPointsLegLeft>
+  <ArmorPointsLegLeft>60</ArmorPointsLegLeft>
   <ArmorTypeLegRight>standard</ArmorTypeLegRight>
-  <ArmorPointsLegRight>64</ArmorPointsLegRight>
+  <ArmorPointsLegRight>60</ArmorPointsLegRight>
   <ComponentGroupsHead>
     <ComponentGroup>
       <ComponentsSaved>
@@ -112,7 +112,7 @@
           </WeaponGrouping>
         </ComponentSaved>
         <ComponentSaved>
-          <ComponentDefinition>InternalReinforcementI</ComponentDefinition>
+          <ComponentDefinition>AmmoLRDM_II</ComponentDefinition>
         </ComponentSaved>
       </ComponentsSaved>
     </ComponentGroup>
@@ -130,7 +130,7 @@
           </WeaponGrouping>
         </ComponentSaved>
         <ComponentSaved>
-          <ComponentDefinition>InternalReinforcementI</ComponentDefinition>
+          <ComponentDefinition>AmmoMRDM_II</ComponentDefinition>
         </ComponentSaved>
       </ComponentsSaved>
     </ComponentGroup>
@@ -148,7 +148,7 @@
           </WeaponGrouping>
         </ComponentSaved>
         <ComponentSaved>
-          <ComponentDefinition>InternalReinforcementI</ComponentDefinition>
+          <ComponentDefinition>AmmoSRDM_II</ComponentDefinition>
         </ComponentSaved>
       </ComponentsSaved>
     </ComponentGroup>
@@ -165,17 +165,10 @@
             <WeaponGroup6>false</WeaponGroup6>
           </WeaponGrouping>
         </ComponentSaved>
-        <ComponentSaved>
-          <ComponentDefinition>InternalReinforcementI</ComponentDefinition>
-        </ComponentSaved>
       </ComponentsSaved>
     </ComponentGroup>
     <ComponentGroup>
-      <ComponentsSaved>
-        <ComponentSaved>
-          <ComponentDefinition>AmmoDRM_III</ComponentDefinition>
-        </ComponentSaved>
-      </ComponentsSaved>
+      <ComponentsSaved />
     </ComponentGroup>
   </ComponentGroupsTorsoLeft>
   <ComponentGroupsTorsoRight>
@@ -193,7 +186,7 @@
           </WeaponGrouping>
         </ComponentSaved>
         <ComponentSaved>
-          <ComponentDefinition>InternalReinforcementI</ComponentDefinition>
+          <ComponentDefinition>AmmoLRDM_II</ComponentDefinition>
         </ComponentSaved>
       </ComponentsSaved>
     </ComponentGroup>
@@ -211,7 +204,7 @@
           </WeaponGrouping>
         </ComponentSaved>
         <ComponentSaved>
-          <ComponentDefinition>InternalReinforcementI</ComponentDefinition>
+          <ComponentDefinition>AmmoMRDM_II</ComponentDefinition>
         </ComponentSaved>
       </ComponentsSaved>
     </ComponentGroup>
@@ -229,7 +222,7 @@
           </WeaponGrouping>
         </ComponentSaved>
         <ComponentSaved>
-          <ComponentDefinition>InternalReinforcementI</ComponentDefinition>
+          <ComponentDefinition>AmmoSRDM_II</ComponentDefinition>
         </ComponentSaved>
       </ComponentsSaved>
     </ComponentGroup>
@@ -246,17 +239,10 @@
             <WeaponGroup6>false</WeaponGroup6>
           </WeaponGrouping>
         </ComponentSaved>
-        <ComponentSaved>
-          <ComponentDefinition>InternalReinforcementI</ComponentDefinition>
-        </ComponentSaved>
       </ComponentsSaved>
     </ComponentGroup>
     <ComponentGroup>
-      <ComponentsSaved>
-        <ComponentSaved>
-          <ComponentDefinition>AmmoDRM_III</ComponentDefinition>
-        </ComponentSaved>
-      </ComponentsSaved>
+      <ComponentsSaved />
     </ComponentGroup>
   </ComponentGroupsTorsoRight>
   <ComponentGroupsArmLeft>

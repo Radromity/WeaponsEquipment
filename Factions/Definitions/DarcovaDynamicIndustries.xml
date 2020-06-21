@@ -567,6 +567,10 @@
 			<Definition>Predator</Definition>
 			<RandomWeight>1.0</RandomWeight>
 		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Dragoon</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
 	</GroundVehiclesLight>
 	<GroundVehiclesMedium>
 		<GroundVehicleSpawnDefinition>
@@ -600,11 +604,27 @@
 		<GroundVehicleSpawnDefinition>
 			<Definition>CatapultSRMC</Definition>
 			<RandomWeight>1.0</RandomWeight>
-		</GroundVehicleSpawnDefinition>		
+		</GroundVehicleSpawnDefinition>	
+		<GroundVehicleSpawnDefinition>
+			<Definition>Pitbull</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Ghost</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>	
 	</GroundVehiclesMedium>
 	<GroundVehiclesHeavy>
 		<GroundVehicleSpawnDefinition>
 			<Definition>Tiger</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Golem</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Scorpion</Definition>
 			<RandomWeight>1.0</RandomWeight>
 		</GroundVehicleSpawnDefinition>
 	</GroundVehiclesHeavy>	
@@ -623,6 +643,10 @@
 		</GroundVehicleSpawnDefinition>
 		<GroundVehicleSpawnDefinition>
 			<Definition>Trebuchet</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Titan</Definition>
 			<RandomWeight>1.0</RandomWeight>
 		</GroundVehicleSpawnDefinition>
 	</GroundVehiclesAssault>

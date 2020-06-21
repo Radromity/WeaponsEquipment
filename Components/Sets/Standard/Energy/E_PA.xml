@@ -9,5 +9,7 @@
 	</Color>
 	<Components>
 		<string>LPA</string>
+		<string>PA</string>
+		<string>HPA</string>
 	</Components>
 </ComponentSet>
