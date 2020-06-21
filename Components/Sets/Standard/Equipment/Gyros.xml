@@ -10,7 +10,5 @@
 	<Components>
 		<string>GyroUpgradeI</string>
 		<string>GyroUpgradeII</string>
-		<string>GyroLightI</string>
-		<string>GyroLightII</string>
 	</Components>
 </ComponentSet>
