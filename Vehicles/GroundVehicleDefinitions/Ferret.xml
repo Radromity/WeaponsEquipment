@@ -1,0 +1,44 @@
+<GroundVehicleDefinition>
+	<Prefab>Shredder</Prefab>
+	<DisplayName>VehicleFerret</DisplayName>
+	<UnitClass>GroundVehicleMedium</UnitClass>
+	<GroundVehicleMovement>Tracked</GroundVehicleMovement>
+	<PhysicsMass>1000.0</PhysicsMass>
+	<PhysicsFriction>0.18</PhysicsFriction>
+	<EngineForce>140000</EngineForce>
+	<EngineTurnForce>55000</EngineTurnForce>
+	<MaxSpeed>1.22</MaxSpeed>
+	
+	<FrontArmor>39</FrontArmor>
+	<RearArmor>32</RearArmor>
+	<LeftArmor>32</LeftArmor>
+	<RightArmor>25</RightArmor>
+	<ArmorTypeAllSides>standard</ArmorTypeAllSides>
+	<InternalHealth>25</InternalHealth>
+
+	<TurretRotationSpeed>0</TurretRotationSpeed>
+	<BarrelRotationSpeed>0</BarrelRotationSpeed>
+	<BarrelLimitUp>10</BarrelLimitUp>
+	<BarrelLimitDown>5</BarrelLimitDown>
+	
+	<MechLegDamage>12.0</MechLegDamage>
+	
+	<TurretSettings>
+		<TurretSetting>
+			<HorizontalLimit>0</HorizontalLimit>
+			<VerticalLimitUp>0</VerticalLimitUp>
+			<VerticalLimitDown>0</VerticalLimitDown>
+			<HorizontalSpeed>0</HorizontalSpeed>
+			<VerticalSpeed>0</VerticalSpeed>
+		</TurretSetting>
+	</TurretSettings>
+
+	<Components>
+		<string>LaserPulse_MediumArray2</string>
+		<string>Laser_SmallArray2</string>
+		<string>LCIWS</string>
+		<string>ECM</string>
+		<string>RadarBoosterIII</string>
+	</Components>
+	
+</GroundVehicleDefinition>

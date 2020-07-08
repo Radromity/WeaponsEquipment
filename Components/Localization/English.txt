@@ -327,6 +327,13 @@ ComponentAC2A2 Autocannon 2cm Array x2
 ComponentAC2A3 Autocannon 2cm Array x3
 ComponentAC2A4 Autocannon 2cm Array x4
 
+ComponentASRM8 Advanced SRM 8
+ComponentASRM8Desc 
+ComponentLaserSmallArray2 Small Laser Array x2
+ComponentLaserSmallArray2Desc 
+ComponentLaserPulseMediumArray2 Medium Pulse Laser Array x2
+ComponentLaserPulseMediumArrayDesc 
+
 ComponentGyroLightI Light Gyro Mk1
 ComponentGyroLightII Light Gyro Mk2
 ComponentGyroLightDesc Upgraded Gyro with weight saving materials but not as effective as a regular or heavy gyro

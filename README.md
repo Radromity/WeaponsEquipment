@@ -25,6 +25,9 @@ Patch 0.2.0:
   Rebalanced HE rounds to have 80% normal ammo, all new ac ammos also have 80% except for magnum which has 60%
   Added Slug Ammo for CAC weapons.
   Added Plasma Accelerators, rapid fire low damage energy weapons.
+  Added lightweight structure as a way to gain weight at the cost of structure hp.
+  Split up the gyro upgrade into a mk1 and mk2
+  Added 8 new tanks!
 Patch 0.1.0:
   Entered Beta.
   Added more MG arrays.

@@ -279,3 +279,7 @@ WeaponAC2cmA4 Autocannon 2cm Array x4
 WeaponLPA Light Plasma Accelerator
 WeaponPA Plasma Accelerator
 WeaponHPA Heavy Plasma Accelerator
+
+WeaponASRM8 ASRM8
+WeaponLaserSmallArray2 Small Laser Array x2
+WeaponLaserMediumPulseArray2 Medium Pulse Laser Array x2

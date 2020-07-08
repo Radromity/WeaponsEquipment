@@ -1,0 +1,6 @@
+<ProjectileWeaponDefinition>
+	<BaseDefinition>ASRM2</BaseDefinition>
+	<DisplayName>WeaponASRM8</DisplayName>
+	<ModelPrefab>SRMRack4</ModelPrefab>
+	<ShotsPerSalvo>8</ShotsPerSalvo>
+</ProjectileWeaponDefinition>

@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentASRM8</DisplayName>
+	<Description>ComponentASRM8Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.6</r>
+		<g>0.83137</g>
+		<b>0.56470</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>3</SlotSize>
+	<Weight>3.6</Weight>
+	
+	<MarketValue>80000</MarketValue>
+	<Weapon>ASRM8</Weapon>
+</ComponentDefinition>
