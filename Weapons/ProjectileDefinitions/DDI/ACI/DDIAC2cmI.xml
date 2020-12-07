@@ -1,0 +1,7 @@
+<ProjectileDefinition>
+	<BaseDefinition>DDIAC2cm</BaseDefinition>
+	<AmmoType>AC2cmI</AmmoType>
+	<DamageEffective>1.5</DamageEffective>
+	<DamageMin>0.75</DamageMin>
+	<DamageHeat>148</DamageHeat>
+</ProjectileDefinition>

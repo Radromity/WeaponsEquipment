@@ -7,11 +7,11 @@
 	<AlliedFactions>
 	</AlliedFactions>
 	<FactionLogo>
-		<Logo1>Logo_42</Logo1>
+		<Logo1>Unique_Corp_DDI</Logo1>
 		<Logo2></Logo2>
 		<Color1>
-			<r>0.0</r>
-			<g>0.8</g>
+			<r>1.0</r>
+			<g>1.0</g>
 			<b>1.0</b>
 			<a>1.0</a>
 		</Color1>
@@ -567,6 +567,10 @@
 			<Definition>Predator</Definition>
 			<RandomWeight>1.0</RandomWeight>
 		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Dragoon</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
 	</GroundVehiclesLight>
 	<GroundVehiclesMedium>
 		<GroundVehicleSpawnDefinition>
@@ -600,11 +604,27 @@
 		<GroundVehicleSpawnDefinition>
 			<Definition>CatapultSRMC</Definition>
 			<RandomWeight>1.0</RandomWeight>
-		</GroundVehicleSpawnDefinition>		
+		</GroundVehicleSpawnDefinition>	
+		<GroundVehicleSpawnDefinition>
+			<Definition>Pitbull</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Ghost</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>	
 	</GroundVehiclesMedium>
 	<GroundVehiclesHeavy>
 		<GroundVehicleSpawnDefinition>
 			<Definition>Tiger</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Golem</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Scorpion</Definition>
 			<RandomWeight>1.0</RandomWeight>
 		</GroundVehicleSpawnDefinition>
 	</GroundVehiclesHeavy>	
@@ -623,6 +643,10 @@
 		</GroundVehicleSpawnDefinition>
 		<GroundVehicleSpawnDefinition>
 			<Definition>Trebuchet</Definition>
+			<RandomWeight>1.0</RandomWeight>
+		</GroundVehicleSpawnDefinition>
+		<GroundVehicleSpawnDefinition>
+			<Definition>Titan</Definition>
 			<RandomWeight>1.0</RandomWeight>
 		</GroundVehicleSpawnDefinition>
 	</GroundVehiclesAssault>
@@ -653,7 +677,6 @@
 		</GroundVehicleSpawnDefinition>
 	</ConvoyVehicles>
 	<AssassinationTargetNames>
-		<string>Squad Leader</string>
-		<string>Commpany Commander</string>
+		<string>Security Chief</string>
 	</AssassinationTargetNames>
 </FactionDefinition>

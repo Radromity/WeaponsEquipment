@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentInternalReinforcementI</DisplayName>
+	<Description>ComponentInternalReinforcementDesc</Description>
+	<ComponentType>Equipment</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.7</r>
+		<g>0.4</g>
+		<b>0.4</b>
+		<a>0.95</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>0.1</Weight>
+	
+	<MarketValue>5000</MarketValue>
+	<InternalBonus>1.0</InternalBonus>
+</ComponentDefinition>

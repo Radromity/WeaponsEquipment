@@ -1,0 +1,20 @@
+<ComponentSet>
+	<DisplayName>ComponentSetMRR</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.40392</r>
+		<g>0.69411</g>
+		<b>0.35686</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>MRR5</string>
+		<string>MRR10</string>
+		<string>MRR15</string>
+		<string>MRR20</string>
+		<string>MRR25</string>
+		<string>MRR30</string>
+		<string>MRR35</string>
+		<string>MRR40</string>
+	</Components>
+</ComponentSet>

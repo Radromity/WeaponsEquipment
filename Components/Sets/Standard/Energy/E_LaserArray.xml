@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetLaserArray</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.81568</r>
+		<g>0.41960</g>
+		<b>0.447058</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>Laser_SmallArray2</string>
+		<string>Laser_SmallArray6</string>
+		<string>Laser_MediumArray4</string>
+		<string>Laser_LargeArray2</string>
+	</Components>
+</ComponentSet>

@@ -1,0 +1,27 @@
+<ProjectileDefinition>
+	<AmmoType>Slug6cm</AmmoType>
+	<Heat>183.3</Heat>
+	<DamageType>Ballistic</DamageType>
+	<DamageEffective>6</DamageEffective>
+	<DamageMin>3</DamageMin>
+	<RangeDamageMin>90.0</RangeDamageMin>
+	<RangeEffective>45.0</RangeEffective>
+	<Velocity>90.0</Velocity>
+	<ProjectileLifeTime>1.2</ProjectileLifeTime>
+	<TrailLifeTime>2.0</TrailLifeTime>
+	<UseGravity>true</UseGravity>
+	<Recoil>1.0</Recoil>
+	<FiringSound>FireGaussRifle</FiringSound>
+	<ProjectilePrefab>GaussRifleProjectile</ProjectilePrefab>
+	<ProjectileScale>0.2</ProjectileScale>
+	<TrailPrefab>GaussRifleTrail</TrailPrefab>
+	<TrailScale>0.14</TrailScale>
+	<ImpactEffectPrefab>ImpactGaussRifle</ImpactEffectPrefab>
+	<ImpactEffectScale>0.6</ImpactEffectScale>
+	<CollisionDetection>ContinuousDynamic</CollisionDetection>
+	<RigidbodyInterpolation>Interpolate</RigidbodyInterpolation>
+	<ImpactSounds>
+		<string>ImpactRailGun</string>
+	</ImpactSounds>
+	<ImpactSoundVolume>0.8</ImpactSoundVolume>
+</ProjectileDefinition>

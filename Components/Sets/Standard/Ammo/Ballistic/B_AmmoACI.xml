@@ -1,0 +1,36 @@
+<ComponentSet>
+	<DisplayName>ComponentSetAmmoACI</DisplayName>
+	<ComponentType>Ammo</ComponentType>
+	<Color>
+		<r>0.83921</r>
+		<g>0.74901</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<Components>
+		<string>AmmoAC2cmI_I</string>
+		<string>AmmoAC2cmI_II</string>
+		<string>AmmoAC2cmI_III</string>
+		<string>AmmoAC5cmI_I</string>
+		<string>AmmoAC5cmI_II</string>
+		<string>AmmoAC5cmI_III</string>
+		<string>AmmoAC10cmI_I</string>
+		<string>AmmoAC10cmI_II</string>
+		<string>AmmoAC10cmI_III</string>
+		<string>AmmoAC15cmI_I</string>
+		<string>AmmoAC15cmI_II</string>
+		<string>AmmoAC15cmI_III</string>
+		<string>AmmoAC20cmI_I</string>
+		<string>AmmoAC20cmI_II</string>
+		<string>AmmoAC20cmI_III</string>
+		<string>AmmoAC30cmI_I</string>
+		<string>AmmoAC30cmI_II</string>
+		<string>AmmoAC30cmI_III</string>
+	</Components>
+</ComponentSet>

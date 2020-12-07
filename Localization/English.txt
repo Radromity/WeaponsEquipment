@@ -10,6 +10,58 @@ AmmoSlug6cmCan Slug 6cm Cannister
 AmmoSlug2cmCan Slug 2cm Cannister
 AmmoSlug1cmCan Slug 1cm Cannister
 
+AmmoAC2cmAP AC2cm AP Ammo
+AmmoAC5cmAP AC5cm AP Ammo
+AmmoAC10cmAP AC10cm AP Ammo
+AmmoAC15cmAP AC15cm AP Ammo
+AmmoAC20cmAP AC20cm AP Ammo
+AmmoAC30cmAP AC30cm AP Ammo
+
+AmmoFAC2cm Flak AC2cm Ammo
+AmmoFAC5cm Flak AC5cm Ammo
+AmmoFAC10cm Flak AC10cm Ammo
+AmmoFAC15cm Flak AC15cm Ammo
+AmmoFAC20cm Flak AC20cm Ammo
+AmmoFAC30cm Flak AC30cm Ammo
+
+AmmoAC2cmC Caseless AC2cm Ammo
+AmmoAC5cmC Caseless AC5cm Ammo
+AmmoAC10cmC Caseless AC10cm Ammo
+AmmoAC15cmC Caseless AC15cm Ammo
+AmmoAC20cmC Caseless AC20cm Ammo
+AmmoAC30cmC Caseless AC30cm Ammo
+
+AmmoAC2cmI AC2cm Incendiary Ammo
+AmmoAC5cmI AC5cm Incendiary Ammo
+AmmoAC10cmI AC10cm Incendiary Ammo
+AmmoAC15cmI AC15cm Incendiary Ammo
+AmmoAC20cmI AC20cm Incendiary Ammo
+AmmoAC30cmI AC30cm Incendiary Ammo
+
+AmmoAC2cmM AC2cm Magnum Ammo
+AmmoAC5cmM AC5cm Magnum Ammo
+AmmoAC10cmM AC10cm Magnum Ammo
+AmmoAC15cmM AC15cm Magnum Ammo
+AmmoAC20cmM AC20cm Magnum Ammo
+AmmoAC30cmM AC30cm Magnum Ammo
+
+AmmoAC2cmP AC2cm Precision Ammo
+AmmoAC5cmP AC5cm Precision Ammo
+AmmoAC10cmP AC10cm Precision Ammo
+AmmoAC15cmP AC15cm Precision Ammo
+AmmoAC20cmP AC20cm Precision Ammo
+AmmoAC30cmP AC30cm Precision Ammo
+
+AmmoCAC2cmSlug CAC2cm Slug Ammo
+AmmoCAC5cmSlug CAC5cm Slug Ammo
+AmmoCAC10cmSlug CAC10cm Slug Ammo
+AmmoCAC15cmSlug CAC15cm Slug Ammo
+AmmoCAC20cmSlug CAC20cm Slug Ammo
+AmmoCAC30cmSlug CAC30cm Slug Ammo
+
+AmmoSWLRM Swarm LRM Ammo
+AmmoSWLRMDesc Splits up into multiple smaller explosive projectiles saturating a area in damage.
+
 hint1 Shooting out the cockpit of a mech will make it easier to salvage.
 hint2 Destroying both legs of a mech will disable it.
 hint3 A mech's reactor will explode if it gets too hot.

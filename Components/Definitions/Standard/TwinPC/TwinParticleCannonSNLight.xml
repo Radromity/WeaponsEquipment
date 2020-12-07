@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentTwinParticleCannonSNLight</DisplayName>
+	<Description>ComponentTwinParticleCannonSNLightDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.33333</r>
+		<g>0.00784</g>
+		<b>0.03137</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>4.5</Weight>
+	
+	<MarketValue>350000</MarketValue>
+	<Weapon>TwinParticleCannonSNLight</Weapon>
+</ComponentDefinition>

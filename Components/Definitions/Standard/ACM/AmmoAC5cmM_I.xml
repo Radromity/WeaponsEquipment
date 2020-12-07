@@ -1,0 +1,25 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoAC5cmM_I</DisplayName>
+	<Description>ComponentAmmoAC5cmMDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.83921</r>
+		<g>0.74901</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<SlotSize>1</SlotSize>
+	<Weight>0.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>1.25</AmmoExplosionDamage>
+	<MarketValue>2000</MarketValue>
+	<AmmoType>AC5cmM</AmmoType>
+	<AmmoCount>12</AmmoCount>
+</ComponentDefinition>

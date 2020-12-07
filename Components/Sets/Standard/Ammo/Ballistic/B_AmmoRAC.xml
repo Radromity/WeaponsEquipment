@@ -1,0 +1,27 @@
+<ComponentSet>
+	<DisplayName>ComponentSetAmmoRAC</DisplayName>
+	<ComponentType>Ammo</ComponentType>
+	<Color>
+		<r>0.70980</r>
+		<g>0.65490</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<Components>
+		<string>AmmoRAC2cm_I</string>
+		<string>AmmoRAC2cm_II</string>
+		<string>AmmoRAC2cm_III</string>
+		<string>AmmoRAC5cm_I</string>
+		<string>AmmoRAC5cm_II</string>
+		<string>AmmoRAC5cm_III</string>
+		<string>AmmoRAC10cm_I</string>
+		<string>AmmoRAC10cm_II</string>
+		<string>AmmoRAC10cm_III</string>
+	</Components>
+</ComponentSet>

@@ -2,19 +2,34 @@
  Adds new weapons and equipment for Mech Merc Company
 
 Additions:
-  Rapidfire Gauss: 3 Shot gauss rifles that function identically to burst autocannons.
-  HE Autocannon Ammo: High Explosive Autocannon ammo that does Aoe Damage.
-  Canister Gauss: Shotgun Gauss, nuff said.
-  Twin Particle Cannons: Partical Cannons that fire two shots, Produce lots of heat.
-  x7 x9 MG Arrays, Cannon Arrays, Continuous Laser Arrays, More pew pew and dakka for your slots at the cost of tonnage and heat.
+  New Weapons, New Alternate Ammo Types, Weapon Variants.
   1 New Tank Variants, 44 New Mech Variants, 1 New Mech Chassis!
   These additions appear in Career and Instant Action.
 
-  Credits:
-  Rumia - Main Developer
-  AK Night Hawk - Continuous Laser Arrays
-  Tuprewm - MG Arrays, Cannon Arrays
+  Colors toned down in the mechlab to reduce eyestrain,
 
+  Credits:
+    Rumia - Main Developer
+  Special Thanks:
+    McShooterz - Modding Assistance, explanations, being a cool dude, and working on this game.
+    AK Night Hawk - Continuous Laser Arrays idea.
+    Tuprewm - MG Arrays, Cannon Arrays idea.
+    Groxglitch - Magnum ammo type idea.
+Patch 0.2.0:
+  Adjusted filestructure so all equipment and weapons are organized for implementation of faction variant weapons.
+  Made HE AC rounds create a explosion effect to emphasise the aoe damage.
+  Added AP, Flak, Magnum, Incendiary, Caseless Precision AC rounds.
+  Adjusted Colors of weapons and ammo.
+  Most hardpoint colors changed.
+  Rebalanced HE rounds to have 80% normal ammo, all new ac ammos also have 80% except for magnum which has 60%
+  Added Slug Ammo for CAC weapons.
+  Added Plasma Accelerators, rapid fire low damage energy weapons.
+  Added lightweight structure as a way to gain weight at the cost of structure hp.
+  Split up the gyro upgrade into a mk1 and mk2.
+  Added 8 new Tanks.
+  Added Swarm LRM ammo.
+  Added Aoe, Incendiary, and Swarm MRM ammo.
+  Added Advanced SRM 8, 2x Small Laser Array, and 2x Medium Laser array mostly to fit the reduced hardpoint count of mechs.
 Patch 0.1.0:
   Entered Beta.
   Added more MG arrays.

@@ -1,0 +1,19 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoCIWS_I</DisplayName>
+	<Description>ComponentAmmoCIWSDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.15294</r>
+		<g>0.36862</g>
+		<b>0.41568</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>0.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>0.025</AmmoExplosionDamage>
+	<MarketValue>2000</MarketValue>
+	<AmmoType>CIWS</AmmoType>
+	<AmmoCount>1400</AmmoCount>
+</ComponentDefinition>

@@ -1,0 +1,6 @@
+<ProjectileWeaponDefinition>
+	<BaseDefinition>LRM5</BaseDefinition>
+	<DisplayName>WeaponLRM15</DisplayName>
+	<ModelPrefab>LRMRack15</ModelPrefab>
+	<SalvoCount>3</SalvoCount>
+</ProjectileWeaponDefinition>

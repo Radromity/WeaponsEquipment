@@ -1,0 +1,19 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoGSRM_III</DisplayName>
+	<Description>ComponentAmmoGSRMDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.6</r>
+		<g>0.83137</g>
+		<b>0.56470</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>2.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>0.28</AmmoExplosionDamage>
+	<MarketValue>13000</MarketValue>
+	<AmmoType>GSRM</AmmoType>
+	<AmmoCount>300</AmmoCount>
+</ComponentDefinition>

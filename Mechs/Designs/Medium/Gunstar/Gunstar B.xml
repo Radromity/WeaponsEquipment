@@ -33,9 +33,6 @@
     <ComponentGroup>
       <ComponentsSaved>
         <ComponentSaved>
-          <ComponentDefinition>ReactorShieldingIII</ComponentDefinition>
-        </ComponentSaved>
-        <ComponentSaved>
           <ComponentDefinition>EngineLight160</ComponentDefinition>
         </ComponentSaved>
       </ComponentsSaved>
@@ -82,10 +79,18 @@
       </ComponentsSaved>
     </ComponentGroup>
     <ComponentGroup>
-      <ComponentsSaved />
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoAC5cm_II</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
     </ComponentGroup>
     <ComponentGroup>
-      <ComponentsSaved />
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoAC5cm_I</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
     </ComponentGroup>
   </ComponentGroupsTorsoLeft>
   <ComponentGroupsTorsoRight>
@@ -120,10 +125,18 @@
       </ComponentsSaved>
     </ComponentGroup>
     <ComponentGroup>
-      <ComponentsSaved />
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoAC5cm_II</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
     </ComponentGroup>
     <ComponentGroup>
-      <ComponentsSaved />
+      <ComponentsSaved>
+        <ComponentSaved>
+          <ComponentDefinition>AmmoAC5cm_I</ComponentDefinition>
+        </ComponentSaved>
+      </ComponentsSaved>
     </ComponentGroup>
   </ComponentGroupsTorsoRight>
   <ComponentGroupsArmLeft>
@@ -168,20 +181,12 @@
   </ComponentGroupsArmRight>
   <ComponentGroupsLegLeft>
     <ComponentGroup>
-      <ComponentsSaved>
-        <ComponentSaved>
-          <ComponentDefinition>HeatSinkIV</ComponentDefinition>
-        </ComponentSaved>
-      </ComponentsSaved>
+      <ComponentsSaved />
     </ComponentGroup>
   </ComponentGroupsLegLeft>
   <ComponentGroupsLegRight>
     <ComponentGroup>
-      <ComponentsSaved>
-        <ComponentSaved>
-          <ComponentDefinition>HeatSinkIV</ComponentDefinition>
-        </ComponentSaved>
-      </ComponentsSaved>
+      <ComponentsSaved />
     </ComponentGroup>
   </ComponentGroupsLegRight>
 </MechDesign>

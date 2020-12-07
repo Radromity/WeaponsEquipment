@@ -1,0 +1,12 @@
+<ProjectileDefinition>
+	<BaseDefinition>DDIAC30cm</BaseDefinition>
+	<AmmoType>AC30cmM</AmmoType>
+	<DamageEffective>28.125</DamageEffective>
+	<DamageMin>14.0625</DamageMin>
+	<RangeDamageMin>45.0</RangeDamageMin>
+	<RangeEffective>22.5</RangeEffective>
+	<Velocity>52.8</Velocity>
+	<Recoil>4.5</Recoil>
+	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
+	<ImpactEffectScale>0.40</ImpactEffectScale>
+</ProjectileDefinition>

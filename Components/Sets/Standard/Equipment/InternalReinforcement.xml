@@ -1,0 +1,18 @@
+<ComponentSet>
+	<DisplayName>ComponentSetInternalReinforcement</DisplayName>
+	<ComponentType>Equipment</ComponentType>
+	<Color>
+		<r>0.7</r>
+		<g>0.4</g>
+		<b>0.4</b>
+		<a>0.95</a>
+	</Color>
+	<Components>
+		<string>InternalReinforcementI</string>
+		<string>InternalReinforcementII</string>
+		<string>InternalReinforcementIII</string>
+		<string>LightenedStructureI</string>
+		<string>LightenedStructureII</string>
+		<string>LightenedStructureIII</string>
+	</Components>
+</ComponentSet>

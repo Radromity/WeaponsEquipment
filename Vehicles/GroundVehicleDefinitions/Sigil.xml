@@ -1,0 +1,45 @@
+<GroundVehicleDefinition>
+	<Prefab>Titan</Prefab>
+	<DisplayName>VehicleSigil</DisplayName>
+	<UnitClass>GroundVehicleAssault</UnitClass>
+	<GroundVehicleMovement>Hover</GroundVehicleMovement>
+	<PhysicsMass>1000.0</PhysicsMass>
+	<PhysicsFriction>0.18</PhysicsFriction>
+	<EngineForce>14000</EngineForce>
+	<EngineTurnForce>55000</EngineTurnForce>
+	<MaxSpeed>1.3</MaxSpeed>
+	<HoverHeight>0.2</HoverHeight>
+	<HoverForce>20</HoverForce>
+	
+	<FrontArmor>30</FrontArmor>
+	<RearArmor>12</RearArmor>
+	<LeftArmor>12</LeftArmor>
+	<RightArmor>10</RightArmor>
+	<ArmorTypeAllSides>stealth</ArmorTypeAllSides>
+	<InternalHealth>25</InternalHealth>
+
+	<TurretRotationSpeed>24</TurretRotationSpeed>
+	<BarrelRotationSpeed>20</BarrelRotationSpeed>
+	<BarrelLimitUp>10</BarrelLimitUp>
+	<BarrelLimitDown>5</BarrelLimitDown>
+	
+	<MechLegDamage>12.0</MechLegDamage>
+	
+	<TurretSettings>
+		<TurretSetting>
+			<HorizontalLimit>180</HorizontalLimit>
+			<VerticalLimitUp>10</VerticalLimitUp>
+			<VerticalLimitDown>5</VerticalLimitDown>
+			<HorizontalSpeed>45</HorizontalSpeed>
+			<VerticalSpeed>20</VerticalSpeed>
+		</TurretSetting>
+	</TurretSettings>
+	
+	<Components>
+		<string>AC20cm</string>
+		<string>AmmoAC20cm_II</string>
+		<string>ECM</string>
+		<string>RadarBoosterIII</string>
+	</Components>
+	
+</GroundVehicleDefinition>

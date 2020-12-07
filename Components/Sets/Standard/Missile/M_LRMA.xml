@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetLRMA</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.24313</r>
+		<g>0.55686</g>
+		<b>0.19607</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>ALRM5</string>
+		<string>ALRM10</string>
+		<string>ALRM15</string>
+		<string>ALRM20</string>
+	</Components>
+</ComponentSet>

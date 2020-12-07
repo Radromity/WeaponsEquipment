@@ -1,0 +1,9 @@
+<ProjectileDefinition>
+	<BaseDefinition>AC30cm</BaseDefinition>
+	<AmmoType>AC30cmP</AmmoType>
+	<RangeDamageMin>45.0</RangeDamageMin>
+	<RangeEffective>22.5</RangeEffective>
+	<Velocity>55.0</Velocity>
+	<Spread>0.6</Spread>
+	<ProjectileLifeTime>1.0</ProjectileLifeTime>
+</ProjectileDefinition>

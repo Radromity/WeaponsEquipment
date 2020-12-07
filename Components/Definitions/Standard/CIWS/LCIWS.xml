@@ -1,0 +1,18 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLCIWS</DisplayName>
+	<Description>ComponentLCIWSDesc</Description>
+	<ComponentType>Equipment</ComponentType>
+	<RequiredSlotType>MissileDefense</RequiredSlotType>
+	<Color>
+		<r>0.15294</r>
+		<g>0.36862</g>
+		<b>0.41568</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>1.0</Weight>
+	
+	<MarketValue>12000</MarketValue>
+	
+	<MissileDefenseWeapon>LCIWS</MissileDefenseWeapon>
+</ComponentDefinition>

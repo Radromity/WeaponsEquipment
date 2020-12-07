@@ -1,0 +1,9 @@
+<ProjectileDefinition>
+	<BaseDefinition>AC15cm</BaseDefinition>
+	<AmmoType>AC15cmP</AmmoType>
+	<RangeDamageMin>72.0</RangeDamageMin>
+	<RangeEffective>36.0</RangeEffective>
+	<Velocity>77.5</Velocity>
+	<Spread>0.225</Spread>
+	<ProjectileLifeTime>1.5</ProjectileLifeTime>
+</ProjectileDefinition>

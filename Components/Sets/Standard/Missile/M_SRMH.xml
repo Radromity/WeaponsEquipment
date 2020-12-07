@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetSRMH</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.6</r>
+		<g>0.83137</g>
+		<b>0.56470</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>HSRM2</string>
+		<string>HSRM3</string>
+		<string>HSRM4</string>
+		<string>HSRM6</string>
+	</Components>
+</ComponentSet>

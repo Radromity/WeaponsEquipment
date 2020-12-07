@@ -1,0 +1,36 @@
+<ComponentSet>
+	<DisplayName>ComponentSetAmmoACAP</DisplayName>
+	<ComponentType>Ammo</ComponentType>
+	<Color>
+		<r>0.83921</r>
+		<g>0.74901</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<Components>
+		<string>AmmoAC2cmAP_I</string>
+		<string>AmmoAC2cmAP_II</string>
+		<string>AmmoAC2cmAP_III</string>
+		<string>AmmoAC5cmAP_I</string>
+		<string>AmmoAC5cmAP_II</string>
+		<string>AmmoAC5cmAP_III</string>
+		<string>AmmoAC10cmAP_I</string>
+		<string>AmmoAC10cmAP_II</string>
+		<string>AmmoAC10cmAP_III</string>
+		<string>AmmoAC15cmAP_I</string>
+		<string>AmmoAC15cmAP_II</string>
+		<string>AmmoAC15cmAP_III</string>
+		<string>AmmoAC20cmAP_I</string>
+		<string>AmmoAC20cmAP_II</string>
+		<string>AmmoAC20cmAP_III</string>
+		<string>AmmoAC30cmAP_I</string>
+		<string>AmmoAC30cmAP_II</string>
+		<string>AmmoAC30cmAP_III</string>
+	</Components>
+</ComponentSet>

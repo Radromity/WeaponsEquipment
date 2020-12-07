@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLaserPulseMedium</DisplayName>
+	<Description>ComponentLaserPulseMediumDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.50196</r>
+		<g>0.09411</g>
+		<b>0.12549</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>2.0</Weight>
+	
+	<MarketValue>150000</MarketValue>
+	<Weapon>LaserPulseMedium</Weapon>
+</ComponentDefinition>

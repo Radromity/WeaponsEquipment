@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentRadarBoosterI</DisplayName>
+	<Description>ComponentRadarBoosterIDesc</Description>
+	<ComponentType>Equipment</ComponentType>
+	<RequiredSlotType>Electronics</RequiredSlotType>
+	<Color>
+		<r>0.76078</r>
+		<g>0.41960</g>
+		<b>0.0</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>0.5</Weight>
+	
+	<MarketValue>30000</MarketValue>
+	<RadarRangeBonus>10</RadarRangeBonus>
+</ComponentDefinition>

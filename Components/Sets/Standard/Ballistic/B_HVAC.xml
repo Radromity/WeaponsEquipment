@@ -1,0 +1,24 @@
+<ComponentSet>
+	<DisplayName>ComponentSetHVAC</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.70980</r>
+		<g>0.65490</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<Components>
+		<string>HVAC2cm</string>
+		<string>HVAC5cm</string>
+		<string>HVAC10cm</string>
+		<string>HVAC15cm</string>
+		<string>HVAC20cm</string>
+		<string>HVAC30cm</string>
+	</Components>
+</ComponentSet>

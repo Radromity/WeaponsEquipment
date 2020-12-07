@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetJumpJet</DisplayName>
+	<ComponentType>Equipment</ComponentType>
+	<Color>
+		<r>0.5</r>
+		<g>0.0</g>
+		<b>1.0</b>
+		<a>0.88</a>
+	</Color>
+	<Components>
+		<string>JumpJetI</string>
+		<string>JumpJetII</string>
+		<string>JumpJetIII</string>
+		<string>JumpJetIV</string>
+	</Components>
+</ComponentSet>

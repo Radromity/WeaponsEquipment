@@ -1,0 +1,24 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoSlug6cm_III</DisplayName>
+	<Description>ComponentAmmoSlug6cmDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.86549</r>
+		<g>0.78882</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<SlotSize>2</SlotSize>
+	<Weight>2.5</Weight>
+	
+	<MarketValue>13000</MarketValue>
+	<AmmoType>Slug6cm</AmmoType>
+	<AmmoCount>20</AmmoCount>
+</ComponentDefinition>

@@ -1,0 +1,21 @@
+<ComponentDefinition>
+	<DisplayName>ComponentMRR20</DisplayName>
+	<Description>ComponentMRR20Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.40392</r>
+		<g>0.69411</g>
+		<b>0.35686</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>3</SlotSize>
+	<Weight>1.8</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>1.0</AmmoExplosionDamage>
+	<MarketValue>120000</MarketValue>
+	<AmmoType>MRR</AmmoType>
+	<AmmoCount>20</AmmoCount>
+	<AmmoInternal>true</AmmoInternal>
+	<Weapon>MRR20</Weapon>
+</ComponentDefinition>

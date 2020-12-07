@@ -1,0 +1,23 @@
+<ComponentDefinition>
+	<DisplayName>ComponentDDIAC20</DisplayName>
+	<Description>ComponentDDIAC20Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponBallistic</RequiredSlotType>
+	<Color>
+		<r>0.83921</r>
+		<g>0.74901</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<SlotSize>4</SlotSize>
+	<Weight>15.0</Weight>
+	<Health>25.0</Health>
+	<MarketValue>300000</MarketValue>
+	<Weapon>DDIAC20cm</Weapon>
+</ComponentDefinition>

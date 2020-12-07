@@ -1,0 +1,15 @@
+<ComponentSet>
+	<DisplayName>ComponentSetContinuousLaserArray</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.81568</r>
+		<g>0.41960</g>
+		<b>0.447058</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>LaserContinuous_LargeArray2</string>
+		<string>LaserContinuous_MediumArray4</string>
+		<string>LaserContinuous_SmallArray6</string>
+	</Components>
+</ComponentSet>

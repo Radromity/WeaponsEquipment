@@ -1,0 +1,34 @@
+<ProjectileDefinition>
+	<AmmoType>AMRM</AmmoType>
+	<Heat>133.2</Heat>
+	<DamageType>Missile</DamageType>
+	<MissileDefenseTargetable>true</MissileDefenseTargetable>
+	<MissileHealth>0.4</MissileHealth>
+	<DamageEffective>0.8</DamageEffective>
+	<DamageMin>0.8</DamageMin>
+	<RangeDamageMin>60.0</RangeDamageMin>
+	<RangeEffective>60.0</RangeEffective>
+	<HasSplashDamage>true</HasSplashDamage>
+	<SplashDamageRange>3.0</SplashDamageRange>
+	<Velocity>44.0</Velocity>
+	<Spread>0.4</Spread>
+	<ProjectileLifeTime>5.3636</ProjectileLifeTime>
+	<MissileFuelTime>1.3636</MissileFuelTime>
+	<TrailLifeTime>3.0</TrailLifeTime>
+	<ExplodeOnLifeTime>true</ExplodeOnLifeTime>
+	<Recoil>0.03</Recoil>
+	<FiringSound>FireMissile2</FiringSound>
+	<ProjectilePrefab>LRMProjectile</ProjectilePrefab>
+	<ProjectileScale>0.045</ProjectileScale>
+	<TrailPrefab>MissileTrail</TrailPrefab>
+	<TrailScale>0.08</TrailScale>
+	<ImpactEffectPrefab>Explosion3</ImpactEffectPrefab>
+	<ImpactEffectScale>0.055</ImpactEffectScale>
+	<CollisionDetection>ContinuousDynamic</CollisionDetection>
+	<ImpactSounds>
+		<string>ImpactMissile1</string>
+		<string>ImpactMissile2</string>
+		<string>ImpactMissile3</string>
+	</ImpactSounds>
+	<ImpactSoundVolume>1.0</ImpactSoundVolume>
+</ProjectileDefinition>

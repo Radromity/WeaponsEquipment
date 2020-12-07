@@ -1,0 +1,4 @@
+ContractPirateEliminationEarlyDDI Pirate Elimination
+ContractPirateEliminationEarlyDDIDesc Description Required!
+ContractPirateElimination Pirate Elimination
+ContractPirateEliminationDDIDesc Description Required!

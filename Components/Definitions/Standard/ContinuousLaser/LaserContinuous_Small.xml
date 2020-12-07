@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLaserContinuousSmall</DisplayName>
+	<Description>ComponentLaserContinuousSmallDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.81568</r>
+		<g>0.41960</g>
+		<b>0.44705</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>0.5</Weight>
+	
+	<MarketValue>46000</MarketValue>
+	<Weapon>LaserContinuousSmall</Weapon>
+</ComponentDefinition>

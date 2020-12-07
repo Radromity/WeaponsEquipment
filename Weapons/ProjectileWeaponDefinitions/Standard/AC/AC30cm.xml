@@ -1,0 +1,26 @@
+<ProjectileWeaponDefinition>
+	<DisplayName>WeaponAC30cm</DisplayName>
+	<ModelPrefab>AutoCannon20cm</ModelPrefab>
+	<ModelScale>
+		<x>1.35</x>
+		<y>1.35</y>
+		<z>0.55</z>
+	</ModelScale>
+	<RecycleTime>5.0</RecycleTime>
+	<DefaultWeaponGrouping>
+		<WeaponGroup2>true</WeaponGroup2>
+	</DefaultWeaponGrouping>
+	<MuzzleEffectPrefab>MuzzleFlashAutoCannonHeavy</MuzzleEffectPrefab>
+	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
+	<RequiresAmmo>true</RequiresAmmo>
+	<ProjectileDefinitions>
+		<string>AC30cm</string>
+		<string>AC30cmAoe</string>
+		<string>AC30cmAP</string>
+		<string>FAC30cm</string>
+		<string>AC30cmC</string>
+		<string>AC30cmI</string>
+		<string>AC30cmM</string>
+		<string>AC30cmP</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>

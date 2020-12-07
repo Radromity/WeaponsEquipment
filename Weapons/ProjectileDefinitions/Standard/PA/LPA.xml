@@ -1,0 +1,24 @@
+<ProjectileDefinition>
+	<Heat>27.0</Heat>
+	<DamageType>Energy</DamageType>
+	<DamageEffective>0.132</DamageEffective>
+	<DamageMin>0.0232</DamageMin>
+	<RangeDamageMin>30.0</RangeDamageMin>
+	<RangeEffective>15.0</RangeEffective>
+	<Velocity>70.0</Velocity>
+	<Spread>0.2</Spread>
+	<FiringSound>FireParticleCannon</FiringSound>
+	<ProjectileLifeTime>1.5</ProjectileLifeTime>
+	<UseGravity>true</UseGravity>
+	<ProjectilePrefab>ParticleCannonProjectile</ProjectilePrefab>
+	<ProjectileScale>0.05</ProjectileScale>
+	<TrailPrefab>ParticleCannonTrail</TrailPrefab>
+	<TrailScale>0.13</TrailScale>
+	<ImpactEffectPrefab>ImpactParticleCannon</ImpactEffectPrefab>
+	<ImpactEffectScale>0.06</ImpactEffectScale>
+	<CollisionDetection>ContinuousDynamic</CollisionDetection>
+	<ImpactSounds>
+		<string>ImpactParticleCannon</string>
+	</ImpactSounds>
+	<ImpactSoundVolume>0.2</ImpactSoundVolume>
+</ProjectileDefinition>

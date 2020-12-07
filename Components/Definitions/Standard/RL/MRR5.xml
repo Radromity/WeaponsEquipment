@@ -1,0 +1,21 @@
+<ComponentDefinition>
+	<DisplayName>ComponentMRR5</DisplayName>
+	<Description>ComponentMRR5Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.40392</r>
+		<g>0.69411</g>
+		<b>0.35686</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>0.6</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>1.0</AmmoExplosionDamage>
+	<MarketValue>20000</MarketValue>
+	<AmmoType>MRR</AmmoType>
+	<AmmoCount>5</AmmoCount>
+	<AmmoInternal>true</AmmoInternal>
+	<Weapon>MRR5</Weapon>
+</ComponentDefinition>

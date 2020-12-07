@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentFlamerHeavy</DisplayName>
+	<Description>ComponentFlamerHeavyDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.97647</r>
+		<g>0.66274</g>
+		<b>0.68527</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>3</SlotSize>
+	<Weight>2.0</Weight>
+	
+	<MarketValue>26000</MarketValue>
+	<Weapon>FlamerHeavy</Weapon>
+</ComponentDefinition>

@@ -1,0 +1,23 @@
+<ComponentDefinition>
+	<DisplayName>ComponentBAC2</DisplayName>
+	<Description>ComponentBAC2Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponBallistic</RequiredSlotType>
+	<Color>
+		<r>0.70980</r>
+		<g>0.65490</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.00</a>
+	</TextColor>
+	<SlotSize>1</SlotSize>
+	<Weight>5.5</Weight>
+	
+	<MarketValue>130000</MarketValue>
+	<Weapon>BAC2cm</Weapon>
+</ComponentDefinition>

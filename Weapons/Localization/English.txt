@@ -1,6 +1,6 @@
 
 WeaponDDIAC2cm DDI 20mm Standard Cannon
-WeaponDDIAC5cm DDDI 50mm Standard Cannon
+WeaponDDIAC5cm DDI 50mm Standard Cannon
 WeaponDDIAC10cm DDI 100mm Standard Cannon
 WeaponDDIAC15cm DDI 150mm Standard Cannon
 WeaponDDIAC20cm DDI 200mm Standard Cannon 
@@ -275,3 +275,11 @@ WeaponLMGA7 Light Machine Gun Array x7
 WeaponAC2cmA2 Autocannon 2cm Array x2
 WeaponAC2cmA3 Autocannon 2cm Array x3
 WeaponAC2cmA4 Autocannon 2cm Array x4
+
+WeaponLPA Light Plasma Accelerator
+WeaponPA Plasma Accelerator
+WeaponHPA Heavy Plasma Accelerator
+
+WeaponASRM8 ASRM8
+WeaponLaserSmallArray2 Small Laser Array x2
+WeaponLaserMediumPulseArray2 Medium Pulse Laser Array x2

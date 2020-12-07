@@ -1,0 +1,15 @@
+<ComponentSet>
+	<DisplayName>ComponentSetPA</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.81568</r>
+		<g>0.41960</g>
+		<b>0.447058</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>LPA</string>
+		<string>PA</string>
+		<string>HPA</string>
+	</Components>
+</ComponentSet>

@@ -1,0 +1,26 @@
+<ProjectileWeaponDefinition>
+	<DisplayName>WeaponDDIAC10cm</DisplayName>
+	<ModelPrefab>AutoCannon10cm</ModelPrefab>
+	<ModelScale>
+		<x>1.0</x>
+		<y>1.0</y>
+		<z>0.5</z>
+	</ModelScale>
+	<RecycleTime>1.875</RecycleTime>
+	<DefaultWeaponGrouping>
+		<WeaponGroup2>true</WeaponGroup2>
+	</DefaultWeaponGrouping>
+	<MuzzleEffectPrefab>MuzzleFlashAutoCannon</MuzzleEffectPrefab>
+	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
+	<RequiresAmmo>true</RequiresAmmo>
+	<ProjectileDefinitions>
+		<string>DDIAC10cm</string>
+		<string>DDIAC10cmAoe</string>
+		<string>DDIAC10cmAP</string>
+		<string>DDIAC10cmC</string>
+		<string>DDIAC10cmI</string>
+		<string>DDIAC10cmM</string>
+		<string>DDIAC10cmP</string>
+		<string>DDIFAC10cm</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>

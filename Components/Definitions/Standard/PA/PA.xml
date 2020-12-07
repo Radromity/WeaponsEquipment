@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentPA</DisplayName>
+	<Description>ComponentPADesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.81568</r>
+		<g>0.41960</g>
+		<b>0.447058</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>1.0</Weight>
+	
+	<MarketValue>100000</MarketValue>
+	<Weapon>PA</Weapon>
+</ComponentDefinition>

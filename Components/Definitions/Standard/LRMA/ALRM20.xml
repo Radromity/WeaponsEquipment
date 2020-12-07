@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentALRM20</DisplayName>
+	<Description>ComponentALRM20Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.24313</r>
+		<g>0.55686</g>
+		<b>0.19607</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>5</SlotSize>
+	<Weight>6.5</Weight>
+	
+	<MarketValue>360000</MarketValue>
+	<Weapon>ALRM20</Weapon>
+</ComponentDefinition>

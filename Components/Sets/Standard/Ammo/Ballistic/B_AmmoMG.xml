@@ -1,0 +1,27 @@
+<ComponentSet>
+	<DisplayName>ComponentSetAmmoMG</DisplayName>
+	<ComponentType>Ammo</ComponentType>
+	<Color>
+		<r>0.59607</r>
+		<g>0.54509</g>
+		<b>0</b>
+		<a>0.92</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<Components>
+		<string>AmmoMG_I</string>
+		<string>AmmoMG_II</string>
+		<string>AmmoMG_III</string>
+		<string>AmmoLMG_I</string>
+		<string>AmmoLMG_II</string>
+		<string>AmmoLMG_III</string>
+		<string>AmmoHMG_I</string>
+		<string>AmmoHMG_II</string>
+		<string>AmmoHMG_III</string>
+	</Components>
+</ComponentSet>

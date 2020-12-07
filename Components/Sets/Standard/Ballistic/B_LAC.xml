@@ -1,0 +1,21 @@
+<ComponentSet>
+	<DisplayName>ComponentSetLAC</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.83921</r>
+		<g>0.74901</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<Components>
+		<string>LAC2cm</string>
+		<string>LAC5cm</string>
+		<string>LAC10cm</string>
+	</Components>
+</ComponentSet>

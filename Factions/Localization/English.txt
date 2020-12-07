@@ -1,0 +1,10 @@
+FactionDarcovaDynamicIndustries Darcova Dynamic Industries
+FactionDarcovaDynamicIndustriesDesc Description Required!
+FactionSalviLegionPirates Salvi Legion Pirates
+FactionSalviLegionPiratesDesc Description Required!
+FactionWhiteLionCompany White Lion Company
+FactionWhiteLionCompanyDesc Description Required!
+FactionPetersonGoodmanIndustries Peterson-Goodman Industries
+FactionPetersonGoodmanIndustriesDesc Description Required!
+FactionHagimotoTechnologies Hagimoto Technologies
+FactionHagimotoTechnologiesDesc Description Required!

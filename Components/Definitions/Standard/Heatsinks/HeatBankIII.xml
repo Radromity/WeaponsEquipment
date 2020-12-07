@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentHeatBankIII</DisplayName>
+	<Description>ComponentHeatBankDesc</Description>
+	<ComponentType>Equipment</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.0</r>
+		<g>0.005</g>
+		<b>0.5</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>5</SlotSize>
+	<Weight>3.0</Weight>
+	
+	<MarketValue>100000</MarketValue>
+	<HeatLimitBonus>2160.0</HeatLimitBonus>
+</ComponentDefinition>

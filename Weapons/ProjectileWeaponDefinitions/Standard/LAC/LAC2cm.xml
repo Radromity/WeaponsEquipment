@@ -1,0 +1,20 @@
+<ProjectileWeaponDefinition>
+	<DisplayName>WeaponLAC2cm</DisplayName>
+	<ModelPrefab>AutoCannon2cm</ModelPrefab>
+	<ModelScale>
+		<x>0.5</x>
+		<y>0.5</y>
+		<z>0.3</z>
+	</ModelScale>
+	<RecycleTime>0.72</RecycleTime>
+	<DefaultWeaponGrouping>
+		<WeaponGroup2>true</WeaponGroup2>
+	</DefaultWeaponGrouping>
+	<ProjectileDefinition>AC2cm</ProjectileDefinition>
+	<MuzzleEffectPrefab>MuzzleFlashAutoCannonHeavy</MuzzleEffectPrefab>
+	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
+	<RequiresAmmo>true</RequiresAmmo>
+	<ProjectileDefinitions>
+		<string>LAC2cm</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>

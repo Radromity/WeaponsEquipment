@@ -1,0 +1,25 @@
+<ProjectileWeaponDefinition>
+	<DisplayName>WeaponDDIBAC5cm</DisplayName>
+	<ModelPrefab>AutoCannon5cm</ModelPrefab>
+	<ModelScale>
+		<x>1.0</x>
+		<y>1.0</y>
+		<z>0.5</z>
+	</ModelScale>
+	<RecycleTime>1.3695</RecycleTime>
+	<DefaultWeaponGrouping>
+		<WeaponGroup2>true</WeaponGroup2>
+	</DefaultWeaponGrouping>
+	<MuzzleEffectPrefab>MuzzleFlashAutoCannonLight</MuzzleEffectPrefab>
+	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
+	<SalvoCount>3</SalvoCount>
+	<SalvoDelay>0.08</SalvoDelay>
+	<RequiresAmmo>true</RequiresAmmo>
+	<RapidRefire>true</RapidRefire>
+	<JamDecay>0.1825</JamDecay>
+	<JammedDecay>0.09127</JammedDecay>
+	<JammingRapidRefire>1.1</JammingRapidRefire>
+	<ProjectileDefinitions>
+		<string>DDIBAC5cm</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>

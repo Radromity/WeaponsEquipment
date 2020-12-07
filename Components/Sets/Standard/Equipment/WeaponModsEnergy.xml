@@ -1,0 +1,14 @@
+<ComponentSet>
+	<DisplayName>ComponentSetWeaponModsEnergy</DisplayName>
+	<ComponentType>Equipment</ComponentType>
+	<Color>
+		<r>0.65490</r>
+		<g>0.22745</g>
+		<b>0.22745</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>WeaponCapacitorI</string>
+		<string>WeaponCapacitorII</string>
+	</Components>
+</ComponentSet>

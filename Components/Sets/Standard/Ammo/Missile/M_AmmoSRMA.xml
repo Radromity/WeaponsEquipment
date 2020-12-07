@@ -1,0 +1,21 @@
+<ComponentSet>
+	<DisplayName>ComponentSetAmmoSRMA</DisplayName>
+	<ComponentType>Ammo</ComponentType>
+	<Color>
+		<r>0.6</r>
+		<g>0.83137</g>
+		<b>0.56470</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>AmmoASRM_I</string>
+		<string>AmmoASRM_II</string>
+		<string>AmmoASRM_III</string>
+		<string>AmmoGSRM_I</string>
+		<string>AmmoGSRM_II</string>
+		<string>AmmoGSRM_III</string>
+		<string>AmmoSSRM_I</string>
+		<string>AmmoSSRM_II</string>
+		<string>AmmoSSRM_III</string>
+	</Components>
+</ComponentSet>

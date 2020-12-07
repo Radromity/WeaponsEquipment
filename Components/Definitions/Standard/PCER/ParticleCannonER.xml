@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentParticleCannonER</DisplayName>
+	<Description>ComponentParticleCannonERDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.33333</r>
+		<g>0.00784</g>
+		<b>0.03137</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>3</SlotSize>
+	<Weight>7.0</Weight>
+	
+	<MarketValue>950000</MarketValue>
+	<Weapon>ParticleCannonER</Weapon>
+</ComponentDefinition>

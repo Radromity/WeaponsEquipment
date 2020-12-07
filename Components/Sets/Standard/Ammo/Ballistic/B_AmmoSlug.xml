@@ -1,0 +1,30 @@
+<ComponentSet>
+	<DisplayName>ComponentSetAmmoSlug</DisplayName>
+	<ComponentType>Ammo</ComponentType>
+	<Color>
+		<r>0.86549</r>
+		<g>0.78882</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<Components>
+		<string>AmmoSlug1cm_I</string>
+		<string>AmmoSlug1cm_II</string>
+		<string>AmmoSlug1cm_III</string>
+		<string>AmmoSlug2cm_I</string>
+		<string>AmmoSlug2cm_II</string>
+		<string>AmmoSlug2cm_III</string>
+		<string>AmmoSlug4cm_I</string>
+		<string>AmmoSlug4cm_II</string>
+		<string>AmmoSlug4cm_III</string>
+		<string>AmmoSlug6cm_I</string>
+		<string>AmmoSlug6cm_II</string>
+		<string>AmmoSlug6cm_III</string>
+	</Components>
+</ComponentSet>

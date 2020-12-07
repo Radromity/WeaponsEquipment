@@ -1,0 +1,30 @@
+<ComponentSet>
+	<DisplayName>ComponentSetAmmoSlugCan</DisplayName>
+	<ComponentType>Ammo</ComponentType>
+	<Color>
+		<r>0.86549</r>
+		<g>0.78882</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<Components>
+		<string>AmmoSlug1cmCan_I</string>
+		<string>AmmoSlug1cmCan_II</string>
+		<string>AmmoSlug1cmCan_III</string>
+		<string>AmmoSlug2cmCan_I</string>
+		<string>AmmoSlug2cmCan_II</string>
+		<string>AmmoSlug2cmCan_III</string>
+		<string>AmmoSlug4cmCan_I</string>
+		<string>AmmoSlug4cmCan_II</string>
+		<string>AmmoSlug4cmCan_III</string>
+		<string>AmmoSlug6cmCan_I</string>
+		<string>AmmoSlug6cmCan_II</string>
+		<string>AmmoSlug6cmCan_III</string>
+	</Components>
+</ComponentSet>

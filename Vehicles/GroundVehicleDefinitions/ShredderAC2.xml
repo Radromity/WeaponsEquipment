@@ -1,0 +1,42 @@
+<GroundVehicleDefinition>
+	<Prefab>Shredder</Prefab>
+	<DisplayName>VehicleShredderAC2</DisplayName>
+	<UnitClass>GroundVehicleMedium</UnitClass>
+	<GroundVehicleMovement>Tracked</GroundVehicleMovement>
+	<PhysicsMass>1000.0</PhysicsMass>
+	<PhysicsFriction>0.18</PhysicsFriction>
+	<EngineForce>140000</EngineForce>
+	<EngineTurnForce>55000</EngineTurnForce>
+	<MaxSpeed>1.22</MaxSpeed>
+	
+	<FrontArmor>44</FrontArmor>
+	<RearArmor>10</RearArmor>
+	<LeftArmor>23</LeftArmor>
+	<RightArmor>23</RightArmor>
+	<ArmorTypeAllSides>standard</ArmorTypeAllSides>
+	<InternalHealth>18</InternalHealth>
+
+	<MechLegDamage>3.5</MechLegDamage>
+	
+	<TurretSettings>
+		<TurretSetting>
+			<HorizontalLimit>180</HorizontalLimit>
+			<VerticalLimitUp>10</VerticalLimitUp>
+			<VerticalLimitDown>5</VerticalLimitDown>
+			<HorizontalSpeed>30</HorizontalSpeed>
+			<VerticalSpeed>25</VerticalSpeed>
+		</TurretSetting>
+	</TurretSettings>
+	
+	<Components>
+		<string>AC2cm</string>
+		<string>AC2cm</string>
+		<string>AC2cm</string>
+		<string>AC2cm</string>
+		<string>AmmoAC2cm_I</string>
+		<string>AmmoAC2cm_I</string>
+		<string>AmmoAC2cm_I</string>
+		<string>AmmoAC2cm_I</string>
+	</Components>
+	
+</GroundVehicleDefinition>

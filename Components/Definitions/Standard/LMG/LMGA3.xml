@@ -1,0 +1,23 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLMGA3</DisplayName>
+	<Description>ComponentLMGA3Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponBallistic</RequiredSlotType>
+	<Color>
+		<r>0.59607</r>
+		<g>0.54509</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<SlotSize>2</SlotSize>
+	<Weight>0.7</Weight>
+	
+	<MarketValue>16000</MarketValue>
+	<Weapon>LMGA3</Weapon>
+</ComponentDefinition>

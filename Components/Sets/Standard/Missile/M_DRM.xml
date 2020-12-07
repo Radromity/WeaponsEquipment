@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetDRM</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.12549</r>
+		<g>0.42352</g>
+		<b>0.07843</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>DRM3</string>
+		<string>DRM6</string>
+		<string>DRM9</string>
+		<string>DRM12</string>
+	</Components>
+</ComponentSet>

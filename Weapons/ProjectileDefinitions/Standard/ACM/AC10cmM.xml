@@ -1,0 +1,12 @@
+<ProjectileDefinition>
+	<BaseDefinition>AC10cm</BaseDefinition>
+	<AmmoType>AC10cmM</AmmoType>
+	<DamageEffective>12.5</DamageEffective>
+	<DamageMin>6.25</DamageMin>
+	<RangeDamageMin>112.8</RangeDamageMin>
+	<RangeEffective>56.4</RangeEffective>
+	<Velocity>87.5</Velocity>	
+	<Recoil>3.0</Recoil>
+	<ImpactEffectPrefab>ImpactAutoCannonHeavy</ImpactEffectPrefab>
+	<ImpactEffectScale>0.33</ImpactEffectScale>
+</ProjectileDefinition>

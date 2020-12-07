@@ -1,0 +1,25 @@
+<ComponentDefinition>
+	<DisplayName>ComponentAmmoAC10cmAP_III</DisplayName>
+	<Description>ComponentAmmoAC10cmAPDesc</Description>
+	<ComponentType>Ammo</ComponentType>
+	<RequiredSlotType>General</RequiredSlotType>
+	<Color>
+		<r>0.83921</r>
+		<g>0.74901</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<SlotSize>2</SlotSize>
+	<Weight>2.5</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>2.5</AmmoExplosionDamage>
+	<MarketValue>13000</MarketValue>
+	<AmmoType>AC10cmAP</AmmoType>
+	<AmmoCount>60</AmmoCount>
+</ComponentDefinition>

@@ -1,0 +1,23 @@
+<ComponentDefinition>
+	<DisplayName>ComponentHVAC5</DisplayName>
+	<Description>ComponentHVAC5Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponBallistic</RequiredSlotType>
+	<Color>
+		<r>0.70980</r>
+		<g>0.65490</g>
+		<b>0</b>
+		<a>0.94</a>
+	</Color>
+	<TextColor>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</TextColor>
+	<SlotSize>2</SlotSize>
+	<Weight>8.0</Weight>
+	
+	<MarketValue>215000</MarketValue>
+	<Weapon>HVAC5cm</Weapon>
+</ComponentDefinition>

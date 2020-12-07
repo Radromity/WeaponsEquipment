@@ -1,0 +1,21 @@
+<ComponentDefinition>
+	<DisplayName>ComponentMRR40</DisplayName>
+	<Description>ComponentMRR40Desc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponMissile</RequiredSlotType>
+	<Color>
+		<r>0.40392</r>
+		<g>0.69411</g>
+		<b>0.35686</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>5</SlotSize>
+	<Weight>3.4</Weight>
+	<ExplosionChance>0.1</ExplosionChance>
+	<AmmoExplosionDamage>1.0</AmmoExplosionDamage>
+	<MarketValue>350000</MarketValue>
+	<AmmoType>MRR</AmmoType>
+	<AmmoCount>40</AmmoCount>
+	<AmmoInternal>true</AmmoInternal>
+	<Weapon>MRR40</Weapon>
+</ComponentDefinition>
