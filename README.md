@@ -10,7 +10,6 @@ Additions:
 
   Credits:
     Rumia - Main Developer
-
   Special Thanks:
     McShooterz - Modding Assistance, explanations, being a cool dude, and working on this game.
     AK Night Hawk - Continuous Laser Arrays idea.
@@ -26,8 +25,11 @@ Patch 0.2.0:
   Added Slug Ammo for CAC weapons.
   Added Plasma Accelerators, rapid fire low damage energy weapons.
   Added lightweight structure as a way to gain weight at the cost of structure hp.
-  Split up the gyro upgrade into a mk1 and mk2
-  Added 8 new tanks!
+  Split up the gyro upgrade into a mk1 and mk2.
+  Added 8 new Tanks.
+  Added Swarm LRM ammo.
+  Added Aoe, Incendiary, and Swarm MRM ammo.
+  Added Advanced SRM 8, 2x Small Laser Array, and 2x Medium Laser array mostly to fit the reduced hardpoint count of mechs.
 Patch 0.1.0:
   Entered Beta.
   Added more MG arrays.

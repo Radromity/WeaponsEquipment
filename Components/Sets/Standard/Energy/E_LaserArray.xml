@@ -8,6 +8,7 @@
 		<a>0.94</a>
 	</Color>
 	<Components>
+		<string>Laser_SmallArray2</string>
 		<string>Laser_SmallArray6</string>
 		<string>Laser_MediumArray4</string>
 		<string>Laser_LargeArray2</string>

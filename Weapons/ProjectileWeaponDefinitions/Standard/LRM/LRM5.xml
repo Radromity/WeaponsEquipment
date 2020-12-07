@@ -1,0 +1,23 @@
+<ProjectileWeaponDefinition>
+	<DisplayName>WeaponLRM5</DisplayName>
+	<ModelPrefab>LRMRack5</ModelPrefab>
+	<ModelScale>
+		<x>1.0</x>
+		<y>1.0</y>
+		<z>0.75</z>
+	</ModelScale>
+	<RecycleTime>4.0</RecycleTime>
+	<DefaultWeaponGrouping>
+		<WeaponGroup3>true</WeaponGroup3>
+	</DefaultWeaponGrouping>
+	<MuzzleEffectPrefab>MuzzleFlashMissile</MuzzleEffectPrefab>
+	<ProjectSpawnForwardMulti>0.15</ProjectSpawnForwardMulti>
+	<ShotsPerSalvo>5</ShotsPerSalvo>
+	<SalvoDelay>0.25</SalvoDelay>
+	<RequiresAmmo>true</RequiresAmmo>
+	<ProjectileDefinitions>
+		<string>LRM</string>
+		<string>ULRM</string>
+		<string>SWLRM</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>

@@ -1,0 +1,16 @@
+<ComponentSet>
+	<DisplayName>ComponentSetLaserCycleCharge</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.65490</r>
+		<g>0.22745</g>
+		<b>0.227450</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>LaserCycleCharge_Micro</string>
+		<string>LaserCycleCharge_Small</string>
+		<string>LaserCycleCharge_Medium</string>
+		<string>LaserCycleCharge_Large</string>
+	</Components>
+</ComponentSet>

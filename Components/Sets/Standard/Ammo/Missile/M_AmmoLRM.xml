@@ -14,5 +14,8 @@
 		<string>AmmoULRM_I</string>
 		<string>AmmoULRM_II</string>
 		<string>AmmoULRM_III</string>
+		<string>AmmoSWLRM_I</string>
+		<string>AmmoSWLRM_II</string>
+		<string>AmmoSWLRM_III</string>
 	</Components>
 </ComponentSet>

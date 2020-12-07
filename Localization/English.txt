@@ -59,6 +59,9 @@ AmmoCAC15cmSlug CAC15cm Slug Ammo
 AmmoCAC20cmSlug CAC20cm Slug Ammo
 AmmoCAC30cmSlug CAC30cm Slug Ammo
 
+AmmoSWLRM Swarm LRM Ammo
+AmmoSWLRMDesc Splits up into multiple smaller explosive projectiles saturating a area in damage.
+
 hint1 Shooting out the cockpit of a mech will make it easier to salvage.
 hint2 Destroying both legs of a mech will disable it.
 hint3 A mech's reactor will explode if it gets too hot.

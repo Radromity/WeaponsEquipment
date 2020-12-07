@@ -217,6 +217,11 @@ ComponentAmmoCAC30cmSlug_II Cannister AC30cm Slug Mag II
 ComponentAmmoCAC30cmSlug_III Cannister AC30cm Slug Mag III
 ComponentAmmoCAC30cmSlugDesc Todo:
 
+ComponentAmmoSWLRM_I Swarm LRM Ammo I
+ComponentAmmoSWLRM_II Swarm LRM Ammo II
+ComponentAmmoSWLRM_III Swarm LRM Ammo III
+ComponentAmmoSWLRMDesc Splits up into multiple smaller explosive projectiles saturating a area in damage.
+
 #Component
 
 ComponentAC2 Autocannon 2cm

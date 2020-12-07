@@ -11,5 +11,11 @@
 		<string>AmmoTAM_I</string>
 		<string>AmmoTAM_II</string>
 		<string>AmmoTAM_III</string>
+		<string>AmmoTAMC_I</string>
+		<string>AmmoTAMC_II</string>
+		<string>AmmoTAMC_III</string>
+		<string>AmmoTAMM_I</string>
+		<string>AmmoTAMM_II</string>
+		<string>AmmoTAMM_III</string>
 	</Components>
 </ComponentSet>
