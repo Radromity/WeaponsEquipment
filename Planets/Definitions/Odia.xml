@@ -1,0 +1,10 @@
+<PlanetDefinition>
+	<DisplayName>PlanetOdia</DisplayName>
+	<Description>PlanetOdiaDesc</Description>
+	<Prefab>Planet_31</Prefab>
+	<Scale>1.0</Scale>
+	
+	<Biomes>
+		<BiomeType>Odia</BiomeType>
+	</Biomes>
+</PlanetDefinition>

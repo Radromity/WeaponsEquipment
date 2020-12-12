@@ -1,0 +1,10 @@
+<PlanetDefinition>
+	<DisplayName>PlanetVulcan</DisplayName>
+	<Description>PlanetVulcanDesc</Description>
+	<Prefab>Planet_29</Prefab>
+	<Scale>1.0</Scale>
+	
+	<Biomes>
+		<BiomeType>Volcanic</BiomeType>
+	</Biomes>
+</PlanetDefinition>

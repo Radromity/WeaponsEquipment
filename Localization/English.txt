@@ -62,6 +62,55 @@ AmmoCAC30cmSlug CAC30cm Slug Ammo
 AmmoSWLRM Swarm LRM Ammo
 AmmoSWLRMDesc Splits up into multiple smaller explosive projectiles saturating a area in damage.
 
-hint1 Shooting out the cockpit of a mech will make it easier to salvage.
+UnitClassUltraLight Ultra Light
+UnitClassLight Light
+UnitClassMedium Medium
+UnitClassHeavy Heavy
+UnitClassAssault Assault
+hint1 Shooting out the cockpit of a mech will make it cheaper to salvage.
 hint2 Destroying both legs of a mech will disable it.
 hint3 A mech's reactor will explode if it gets too hot.
+hint4 No amount of money is worth dying over.
+MissionTypeBattle Battle
+MissionTypeBattleDesc Description Required!
+MissionTypeAssassination Assassination
+MissionTypeAssassinationDesc Description Required!
+MissionTypeBaseCapture Base Capture
+MissionTypeBaseCaptureDesc Description Required!
+MissionTypeBaseDefend Base Defend
+MissionTypeBaseDefendDesc Description Required!
+MissionTypeBaseDestroy Base Destroy
+MissionTypeBaseDestroyDesc Description Required!
+MissionTypeBattleSupport Battle Support
+MissionTypeBattleSupportDesc Description Required!
+MissionTypeConvoyCapture Convoy Capture
+MissionTypeConvoyCaptureDesc Description Required!
+MissionTypeConvoyDestroy Convoy Destroy
+MissionTypeConvoyDestroyDesc Description Required!
+MissionTypeConvoyEscort Convoy Escort
+MissionTypeConvoyEscortDesc Description Required!
+MissionTypeSearchAndDestroy Search And Destroy
+MissionTypeSearchAndDestroyDesc Description Required!
+MissionTypeRecon Reconnaissance
+MissionTypeReconDesc Description Required!
+ToolTipMechTonnage Tonnage Limit - A mech's frame is only capable of supporting so much weight.
+ToolTipMechHeatLimit Heat Limit -
+ToolTipMechHeatShutdown Heat Shutdown -
+ToolTipMechCooling Cooling -
+ToolTipMechCoolant Coolant Fluid -
+ToolTipMechSpeed Movement Speed F/R - 
+ToolTipMechTurning Turning Speed - 
+ToolTipMechTorsoTwist Torso Twist Speed - 
+ToolTipMechJumpJetThrust Jump Jet Thrust - 
+ToolTipMechWeaponsRangeMax Max Weapon Range - 
+ToolTipMechWeaponDamage Weapon Damage - 
+ToolTipMechWeaponDPS Weapon DPS - 
+ToolTipMechWeaponHeat Weapon Heat - 
+ToolTipMechWeaponHPS Weapon HPS -
+ToolTipMechArmorPoints Armor Points - 
+ToolTipMechArmorWeight Armor Weight - 
+ToolTipArmorStandard Standard Armor - Default armor.
+ToolTipArmorComposite Reduces damage from ballistic weapons.
+ToolTipArmorReactive Reduces damage from missile weapons.
+ToolTipArmorThermal Reduces damage from energy weapons.
+ToolTipArmorStealth Reduces radar signature, which makes it harder to be detected by enemies.

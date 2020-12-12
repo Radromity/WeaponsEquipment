@@ -1,4 +1,98 @@
+#Corporate Contracts
 ContractPirateEliminationEarlyDDI Pirate Elimination
 ContractPirateEliminationEarlyDDIDesc Description Required!
 ContractPirateElimination Pirate Elimination
 ContractPirateEliminationDDIDesc Description Required!
+ContractPirateEliminationEarlyHT Pirate Elimination
+ContractPirateEliminationEarlyHTDesc Description Required!
+ContractPirateEliminationHTDesc Description Required!
+ContractPirateEliminationEarlyPGI Pirate Elimination
+ContractPirateEliminationEarlyPGIDesc Description Required!
+ContractPirateEliminationPGIDesc Description Required!
+
+ContractCorporateEspionage Corporate Espionage
+ContractCorporateEspionageDDI Corporate Espionage
+ContractCorporateEspionageDDIDesc Description Required!
+ContractCorporateEspionageHT Corporate Espionage
+ContractCorporateEspionageHTDesc Description Required!
+ContractCorporateEspionagePGI Corporate Espionage
+ContractCorporateEspionagePGIDesc Description Required!
+
+ContractPromoteSynergy Promote Synergy
+ContractPromoteSynergyDesc Description Required!
+
+ContractHostileTakeover Hostile Takeover
+ContractHostileTakeoverDesc Description Required!
+
+ContractResourceAcquisition Resource Acquisition
+ContractResourceAcquisitionDesc Description Required!
+
+ContractImpact Impact
+ContractImpactDesc Description Required!
+
+ContractDisruption Disruption
+ContractDisruptionDesc Description Required!
+
+ContractDeepDive Deep Dive
+ContractDeepDiveDesc Description Required!
+
+ContractCoreCompetency Core Competency
+ContractCoreCompetencyDesc Description Required!
+
+ContractIncentivize Incentivize
+ContractIncentivizeDesc Description Required!
+
+ContractOutsidetheBox Outside the Box
+ContractOutsidetheBoxDesc Description Required!
+
+ContractBleedingEdge Bleeding Edge
+ContractBleedingEdgeDesc Description Required!
+
+ContractMovetheNeedle Move the Needle
+ContractMovetheNeedleDesc Description Required!
+
+ContractIdeate Ideate
+ContractIdeateDesc Description Required!
+
+ContractUnpack Unpack
+ContractUnpackDesc Description Required!
+
+ContractWheelhouse Wheelhouse
+ContractWheelhouseDesc Description Required!
+
+ContractReachOut Reach Out
+ContractReachOutDec Description Required!
+
+ContractDeliverable Deliverable
+ContractDeliverableDesc Description Required!
+
+ContractAmplify Amplify
+ContractAmplifyDesc Description Required!
+
+ContractOutofPocket Out of Pocket
+ContractOutofPocketDesc Description Required!
+
+ContractDrillDown Drill Down
+ContractDrillDownDesc Description Required!
+
+ContractPing Ping
+ContractPingDesc Description Required!
+
+ContractBandwidth Bandwidth
+ContractBandwidthDesc Description Required!
+
+ContractLowHangingFruit Low-Hanging Fruit
+ContractLowHangingFruitDesc Description Required!
+
+#Pirate Contracts
+ContractCorporateRaid Corporate Raid
+ContractCorporateRaidDesc Description Required!
+
+ContractRaid Raid
+ContractRaidDesc Description Required!
+
+#Rebel Contracts
+
+#General Population Contracts
+
+#Generic Contracts

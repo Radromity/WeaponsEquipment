@@ -1,12 +1,12 @@
 <ContractRandomDefinition>
 	<DisplayName>ContractPirateElimination</DisplayName>
-	<Description>ContractPirateEliminationDDIDesc</Description>
-	<Employer>DarcovaDynamicIndustries</Employer>
-	<ReputationRequired>36</ReputationRequired>
+	<Description>ContractPirateEliminationPGIDesc</Description>
+	<Employer>PetersonGoodmanIndustries</Employer>
+	<ReputationRequired>270</ReputationRequired>
 	
-	<RoleChance>1.0</RoleChance>
-	<RoleMin>3</RoleMin>
-	<RoleMax>5</RoleMax>
+	<RoleChance>0.25</RoleChance>
+	<RoleMin>1</RoleMin>
+	<RoleMax>2</RoleMax>
 	
 	<Planets>
 		<string>Erigo</string>
@@ -32,7 +32,7 @@
 	</SecondFactions>
 	
 	<RandomMissionsMin>1</RandomMissionsMin>
-	<RandomMissionMax>4</RandomMissionMax>
-	<RandomDifficultyMin>3</RandomDifficultyMin>
-	<RandomDifficultyMax>5</RandomDifficultyMax>
+	<RandomMissionMax>6</RandomMissionMax>
+	<RandomDifficultyMin>9</RandomDifficultyMin>
+	<RandomDifficultyMax>11</RandomDifficultyMax>
 </ContractRandomDefinition>

@@ -1,6 +1,7 @@
 <GroundVehicleDefinition>
 	<Prefab>Shredder</Prefab>
 	<DisplayName>VehicleShredderRG</DisplayName>
+	<UnitClass>GroundVehicleMedium</UnitClass>
 	<GroundVehicleMovement>Tracked</GroundVehicleMovement>
 	<PhysicsMass>1000.0</PhysicsMass>
 	<PhysicsFriction>0.18</PhysicsFriction>
@@ -15,12 +16,17 @@
 	<ArmorTypeAllSides>standard</ArmorTypeAllSides>
 	<InternalHealth>18</InternalHealth>
 
-	<TurretRotationSpeed>16</TurretRotationSpeed>
-	<BarrelRotationSpeed>20</BarrelRotationSpeed>
-	<BarrelLimitUp>15</BarrelLimitUp>
-	<BarrelLimitDown>5</BarrelLimitDown>
+	<MechLegDamage>3.5</MechLegDamage>
 	
-	<MechLegDamage>7.0</MechLegDamage>
+	<TurretSettings>
+		<TurretSetting>
+			<HorizontalLimit>180</HorizontalLimit>
+			<VerticalLimitUp>10</VerticalLimitUp>
+			<VerticalLimitDown>5</VerticalLimitDown>
+			<HorizontalSpeed>30</HorizontalSpeed>
+			<VerticalSpeed>25</VerticalSpeed>
+		</TurretSetting>
+	</TurretSettings>
 	
 	<Components>
 		<string>GaussRifleMicroRapid</string>

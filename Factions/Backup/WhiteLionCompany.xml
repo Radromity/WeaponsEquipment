@@ -1,27 +1,11 @@
 <FactionDefinition>
-	<DisplayName>FactionDarcovaDynamicIndustries</DisplayName>
-	<Description>FactionDarcovaDynamicIndustriesDesc</Description>
+	<DisplayName>FactionWhiteLionCompany</DisplayName>
+	<Description>FactionWhiteLionCompanyDesc</Description>
 	<StartingInfluence>-5</StartingInfluence>
 	<EnemyFactions>
 	</EnemyFactions>
 	<AlliedFactions>
 	</AlliedFactions>
-	<FactionLogo>
-		<Logo1>Unique_Corp_DDI</Logo1>
-		<Logo2></Logo2>
-		<Color1>
-			<r>1.0</r>
-			<g>1.0</g>
-			<b>1.0</b>
-			<a>1.0</a>
-		</Color1>
-		<Color2>
-			<r>1.0</r>
-			<g>1.0</g>
-			<b>1.0</b>
-			<a>1.0</a>
-		</Color2>
-	</FactionLogo>
 	<MechsUltraLight>
 	</MechsUltraLight>
 	<MechsLight>	
@@ -39,7 +23,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.75</RandomWeight>
+			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Anvil</MechChassis>
@@ -63,7 +47,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.5</RandomWeight>
+			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Hammer</MechChassis>
@@ -189,7 +173,7 @@
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>Ghost Wolf Prime</MechDesign>
+			<MechDesign>Ghost Wolf A</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
@@ -197,7 +181,7 @@
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf A</MechDesign>
+			<MechDesign>Ghost Wolf B</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
@@ -205,7 +189,7 @@
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf B</MechDesign>
+			<MechDesign>Ghost Wolf C</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
@@ -213,15 +197,7 @@
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf C</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf D</MechDesign>
+			<MechDesign>Ghost Wolf D</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
@@ -331,7 +307,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.75</RandomWeight>
+			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Falcon</MechChassis>
@@ -339,7 +315,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.5</RandomWeight>
+			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Hellfire</MechChassis>
@@ -389,7 +365,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.40</RandomWeight>
+			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Barrage</MechChassis>
@@ -405,7 +381,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.5</RandomWeight>
+			<RandomWeight>0.45</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Barrage</MechChassis>
@@ -413,7 +389,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.50</RandomWeight>
+			<RandomWeight>0.25</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Barrage</MechChassis>
@@ -421,7 +397,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.25</RandomWeight>
+			<RandomWeight>0.50</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Barrage</MechChassis>
@@ -437,7 +413,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.75</RandomWeight>
+			<RandomWeight>0.50</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Barrage</MechChassis>
@@ -461,7 +437,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.75</RandomWeight>
+			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Dreadnought</MechChassis>
@@ -469,7 +445,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.5</RandomWeight>
+			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Dreadnought</MechChassis>
@@ -501,7 +477,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.25</RandomWeight>
+			<RandomWeight>0.30</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Fury</MechChassis>
@@ -612,7 +588,7 @@
 		<GroundVehicleSpawnDefinition>
 			<Definition>CatapultSRMC</Definition>
 			<RandomWeight>1.0</RandomWeight>
-		</GroundVehicleSpawnDefinition>	
+		</GroundVehicleSpawnDefinition>
 		<GroundVehicleSpawnDefinition>
 			<Definition>Pitbull</Definition>
 			<RandomWeight>1.0</RandomWeight>
@@ -620,7 +596,7 @@
 		<GroundVehicleSpawnDefinition>
 			<Definition>Ghost</Definition>
 			<RandomWeight>1.0</RandomWeight>
-		</GroundVehicleSpawnDefinition>	
+		</GroundVehicleSpawnDefinition>
 	</GroundVehiclesMedium>
 	<GroundVehiclesHeavy>
 		<GroundVehicleSpawnDefinition>
@@ -685,6 +661,7 @@
 		</GroundVehicleSpawnDefinition>
 	</ConvoyVehicles>
 	<AssassinationTargetNames>
-		<string>Security Chief</string>
+		<string>Squad Leader</string>
+		<string>Commpany Commander</string>
 	</AssassinationTargetNames>
 </FactionDefinition>

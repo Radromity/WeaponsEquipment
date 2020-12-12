@@ -188,46 +188,6 @@
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
-			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>Ghost Wolf Prime</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf A</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf B</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf C</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf D</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
 			<MechChassis>Gunstar</MechChassis>
 			<MechDesign>Gunstar Prime</MechDesign>
 			<MechPaintSchemes>

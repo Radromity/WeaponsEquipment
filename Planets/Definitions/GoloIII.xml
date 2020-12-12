@@ -1,0 +1,10 @@
+<PlanetDefinition>
+	<DisplayName>PlanetGoloIII</DisplayName>
+	<Description>PlanetGoloIIIDesc</Description>
+	<Prefab>Planet_10</Prefab>
+	<Scale>1.0</Scale>
+	
+	<Biomes>
+		<BiomeType>Martian</BiomeType>
+	</Biomes>
+</PlanetDefinition>

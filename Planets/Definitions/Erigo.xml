@@ -1,0 +1,15 @@
+<PlanetDefinition>
+	<DisplayName>PlanetErigo</DisplayName>
+	<Description>PlanetErigoDesc</Description>
+	<Prefab>Planet_02</Prefab>
+	<Scale>1.0</Scale>
+	
+	<Biomes>
+		<BiomeType>Forest_Coniferous</BiomeType>
+		<BiomeType>Islands_Coniferous</BiomeType>
+	</Biomes>
+	
+	<MissionMaps>
+		<string>ErigoRescueVIP</string>
+	</MissionMaps>
+</PlanetDefinition>

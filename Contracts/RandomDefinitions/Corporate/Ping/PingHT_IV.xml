@@ -1,12 +1,12 @@
 <ContractRandomDefinition>
-	<DisplayName>ContractPirateElimination</DisplayName>
-	<Description>ContractPirateEliminationDDIDesc</Description>
-	<Employer>DarcovaDynamicIndustries</Employer>
-	<ReputationRequired>270</ReputationRequired>
+	<DisplayName>ContractPing</DisplayName>
+	<Description>ContractPingDesc</Description>
+	<Employer>HagimotoTechnologies</Employer>
+	<ReputationRequired>330</ReputationRequired>
 	
-	<RoleChance>1.0</RoleChance>
-	<RoleMin>3</RoleMin>
-	<RoleMax>5</RoleMax>
+	<RoleChance>0.25</RoleChance>
+	<RoleMin>1</RoleMin>
+	<RoleMax>2</RoleMax>
 	
 	<Planets>
 		<string>Erigo</string>
@@ -17,22 +17,20 @@
 		<string>Beldovis</string>
 	</Planets>
 	<MissionTypes>
-		<MissionType>Battle</MissionType>
 		<MissionType>Assassination</MissionType>
-		<MissionType>BattleSupport</MissionType>
 		<MissionType>SearchAndDestroy</MissionType>
 		<MissionType>ConvoyDestroy</MissionType>
-		<MissionType>Recon</MissionType>
 	</MissionTypes>
 	<EnemyFactions>
-		<string>SalviLegionPirates</string>
+		<string>PetersonGoodmanIndustries</string>
+		<string>DarcovaDynamicIndustries</string>
 	</EnemyFactions>
 	<SecondFactions>
 		<string>WhiteLionCompany</string>
 	</SecondFactions>
 	
 	<RandomMissionsMin>1</RandomMissionsMin>
-	<RandomMissionMax>6</RandomMissionMax>
+	<RandomMissionMax>2</RandomMissionMax>
 	<RandomDifficultyMin>9</RandomDifficultyMin>
 	<RandomDifficultyMax>11</RandomDifficultyMax>
 </ContractRandomDefinition>
