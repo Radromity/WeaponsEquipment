@@ -1,0 +1,14 @@
+PlanetTest Test Planet
+PlanetTestDesc A test planet for development testing.
+PlanetErigo Erigo
+PlanetErigoDesc Description Required!
+PlanetGoloIII Golo III
+PlanetGoloIIIDesc Description Required!
+PlanetHoruta Horuta
+PlanetHorutaDesc Description Required!
+PlanetOdia Odia
+PlanetOdiaDesc Description Required!
+PlanetVulcan Vulcan
+PlanetVulcanDesc Description Required!
+PlanetBeldovis Beldovis
+PlanetBeldovisDesc Description Required!

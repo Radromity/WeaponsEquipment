@@ -1,27 +1,11 @@
 <FactionDefinition>
-	<DisplayName>FactionDarcovaDynamicIndustries</DisplayName>
-	<Description>FactionDarcovaDynamicIndustriesDesc</Description>
+	<DisplayName>FactionSalviLegionPirates</DisplayName>
+	<Description>FactionSalviLegionPiratesDesc</Description>
 	<StartingInfluence>-5</StartingInfluence>
 	<EnemyFactions>
 	</EnemyFactions>
 	<AlliedFactions>
 	</AlliedFactions>
-	<FactionLogo>
-		<Logo1>Unique_Corp_DDI</Logo1>
-		<Logo2></Logo2>
-		<Color1>
-			<r>1.0</r>
-			<g>1.0</g>
-			<b>1.0</b>
-			<a>1.0</a>
-		</Color1>
-		<Color2>
-			<r>1.0</r>
-			<g>1.0</g>
-			<b>1.0</b>
-			<a>1.0</a>
-		</Color2>
-	</FactionLogo>
 	<MechsUltraLight>
 	</MechsUltraLight>
 	<MechsLight>	
@@ -29,7 +13,7 @@
 			<MechChassis>Anvil</MechChassis>
 			<MechDesign>Anvil Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -37,15 +21,15 @@
 			<MechChassis>Anvil</MechChassis>
 			<MechDesign>Anvil A</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.75</RandomWeight>
+			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Anvil</MechChassis>
 			<MechDesign>Anvil B</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
@@ -53,15 +37,15 @@
 			<MechChassis>Anvil</MechChassis>
 			<MechDesign>Anvil C</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.5</RandomWeight>
+			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Anvil</MechChassis>
 			<MechDesign>Anvil D</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
@@ -69,87 +53,7 @@
 			<MechChassis>Hammer</MechChassis>
 			<MechDesign>Hammer Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer A</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer B</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer C</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer D</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer E</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer F</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer G</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer H</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer I</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>Hammer</MechChassis>
-			<MechDesign>Hammer J</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -157,7 +61,7 @@
 			<MechChassis>Inferno</MechChassis>
 			<MechDesign>Inferno Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -165,7 +69,7 @@
 			<MechChassis>Longshot</MechChassis>
 			<MechDesign>Longshot Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -173,7 +77,7 @@
 			<MechChassis>Spectre</MechChassis>
 			<MechDesign>Spectre Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -183,47 +87,39 @@
 			<MechChassis>GhostWolf</MechChassis>
 			<MechDesign>Ghost Wolf Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>Ghost Wolf Prime</MechDesign>
+			<MechDesign>Ghost Wolf A</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf A</MechDesign>
+			<MechDesign>Ghost Wolf B</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf B</MechDesign>
+			<MechDesign>Ghost Wolf C</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf C</MechDesign>
+			<MechDesign>Ghost Wolf D</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
-			</MechPaintSchemes>
-			<RandomWeight>1.0</RandomWeight>
-		</MechSpawnDefinition>
-		<MechSpawnDefinition>
-			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>GhostWolf D</MechDesign>
-			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -231,7 +127,7 @@
 			<MechChassis>Gunstar</MechChassis>
 			<MechDesign>Gunstar Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -239,7 +135,7 @@
 			<MechChassis>Gunstar</MechChassis>
 			<MechDesign>Gunstar A</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -247,7 +143,7 @@
 			<MechChassis>Gunstar</MechChassis>
 			<MechDesign>Gunstar B</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -255,7 +151,7 @@
 			<MechChassis>Gunstar</MechChassis>
 			<MechDesign>Gunstar C</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -263,7 +159,7 @@
 			<MechChassis>Gunstar</MechChassis>
 			<MechDesign>Gunstar D</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -271,7 +167,7 @@
 			<MechChassis>Hunter</MechChassis>
 			<MechDesign>Hunter Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -279,7 +175,7 @@
 			<MechChassis>Purifier</MechChassis>
 			<MechDesign>Purifier Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -287,7 +183,7 @@
 			<MechChassis>ShadowSpirit</MechChassis>
 			<MechDesign>Shadow Spirit Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -295,7 +191,7 @@
 			<MechChassis>Striker</MechChassis>
 			<MechDesign>Striker Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -305,7 +201,7 @@
 			<MechChassis>Falcon</MechChassis>
 			<MechDesign>Falcon Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -313,15 +209,15 @@
 			<MechChassis>Falcon</MechChassis>
 			<MechDesign>Falcon A</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.5</RandomWeight>
+			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Falcon</MechChassis>
 			<MechDesign>Falcon B</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
@@ -329,15 +225,15 @@
 			<MechChassis>Falcon</MechChassis>
 			<MechDesign>Falcon C</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.75</RandomWeight>
+			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Falcon</MechChassis>
 			<MechDesign>Falcon D</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
@@ -345,7 +241,7 @@
 			<MechChassis>Hellfire</MechChassis>
 			<MechDesign>Hellfire Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -353,7 +249,7 @@
 			<MechChassis>Priest</MechChassis>
 			<MechDesign>Priest Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -361,7 +257,7 @@
 			<MechChassis>Punisher</MechChassis>
 			<MechDesign>Punisher Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -371,7 +267,7 @@
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.8</RandomWeight>
+			<RandomWeight>0.3</RandomWeight>
 		</MechSpawnDefinition>
 	</MechsHeavy>	
 	<MechsAssault>	
@@ -379,7 +275,7 @@
 			<MechChassis>Barrage</MechChassis>
 			<MechDesign>Barrage Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -387,15 +283,15 @@
 			<MechChassis>Barrage</MechChassis>
 			<MechDesign>Barrage A</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.40</RandomWeight>
+			<RandomWeight>0.50</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Barrage</MechChassis>
 			<MechDesign>Barrage B</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
@@ -403,23 +299,23 @@
 			<MechChassis>Barrage</MechChassis>
 			<MechDesign>Barrage C</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.5</RandomWeight>
+			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Barrage</MechChassis>
 			<MechDesign>Barrage CG</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.50</RandomWeight>
+			<RandomWeight>0.25</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Barrage</MechChassis>
 			<MechDesign>Barrage CR</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.25</RandomWeight>
 		</MechSpawnDefinition>
@@ -427,15 +323,15 @@
 			<MechChassis>Barrage</MechChassis>
 			<MechDesign>Barrage CS</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.25</RandomWeight>
+			<RandomWeight>0.50</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Barrage</MechChassis>
 			<MechDesign>Barrage D</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
@@ -443,7 +339,7 @@
 			<MechChassis>Barrage</MechChassis>
 			<MechDesign>Barrage M</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.1</RandomWeight>
 		</MechSpawnDefinition>
@@ -451,7 +347,7 @@
 			<MechChassis>Dreadnought</MechChassis>
 			<MechDesign>Dreadnought Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -459,15 +355,15 @@
 			<MechChassis>Dreadnought</MechChassis>
 			<MechDesign>Dreadnought A</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.75</RandomWeight>
+			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Dreadnought</MechChassis>
 			<MechDesign>Dreadnought B</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
@@ -475,7 +371,7 @@
 			<MechChassis>Dreadnought</MechChassis>
 			<MechDesign>Dreadnought C</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>0.5</RandomWeight>
 		</MechSpawnDefinition>
@@ -483,31 +379,31 @@
 			<MechChassis>Dreadnought</MechChassis>
 			<MechDesign>Dreadnought D</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.5</RandomWeight>
+			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Dreadnought</MechChassis>
 			<MechDesign>Dreadnought M</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.1</RandomWeight>
+			<RandomWeight>0.25</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Dreadnought</MechChassis>
 			<MechDesign>Dreadnought RAC</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
-			<RandomWeight>0.25</RandomWeight>
+			<RandomWeight>0.75</RandomWeight>
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>Fury</MechChassis>
 			<MechDesign>Fury Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -515,7 +411,7 @@
 			<MechChassis>Fury</MechChassis>
 			<MechDesign>Fury A</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -523,7 +419,7 @@
 			<MechChassis>Fury</MechChassis>
 			<MechDesign>Fury B</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -531,7 +427,7 @@
 			<MechChassis>Fury</MechChassis>
 			<MechDesign>Fury C</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -539,7 +435,7 @@
 			<MechChassis>Fury</MechChassis>
 			<MechDesign>Fury D</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -547,7 +443,7 @@
 			<MechChassis>Kommandant</MechChassis>
 			<MechDesign>Kommandant Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -555,7 +451,7 @@
 			<MechChassis>Retaliator</MechChassis>
 			<MechDesign>Retaliator Prime</MechDesign>
 			<MechPaintSchemes>
-				<string>WhiteLionCompany</string>
+				<string>SalviLegionPirates</string>
 			</MechPaintSchemes>
 			<RandomWeight>1.0</RandomWeight>
 		</MechSpawnDefinition>
@@ -595,7 +491,7 @@
 		</GroundVehicleSpawnDefinition>
 		<GroundVehicleSpawnDefinition>
 			<Definition>ShredderRG</Definition>
-			<RandomWeight>0.8</RandomWeight>
+			<RandomWeight>0.2</RandomWeight>
 		</GroundVehicleSpawnDefinition>
 		<GroundVehicleSpawnDefinition>
 			<Definition>Thor</Definition>
@@ -685,6 +581,8 @@
 		</GroundVehicleSpawnDefinition>
 	</ConvoyVehicles>
 	<AssassinationTargetNames>
-		<string>Security Chief</string>
+		<string>Pirate Leader</string>
+		<string>Pirate Commander</string>
+		<string>Pirate Warlord</string>
 	</AssassinationTargetNames>
 </FactionDefinition>

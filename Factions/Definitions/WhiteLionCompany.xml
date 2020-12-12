@@ -173,7 +173,7 @@
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>Ghost Wolf A</MechDesign>
+			<MechDesign>GhostWolf A</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
@@ -181,7 +181,7 @@
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>Ghost Wolf B</MechDesign>
+			<MechDesign>GhostWolf B</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
@@ -189,7 +189,7 @@
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>Ghost Wolf C</MechDesign>
+			<MechDesign>GhostWolf C</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>
@@ -197,7 +197,7 @@
 		</MechSpawnDefinition>
 		<MechSpawnDefinition>
 			<MechChassis>GhostWolf</MechChassis>
-			<MechDesign>Ghost Wolf D</MechDesign>
+			<MechDesign>GhostWolf D</MechDesign>
 			<MechPaintSchemes>
 				<string>WhiteLionCompany</string>
 			</MechPaintSchemes>

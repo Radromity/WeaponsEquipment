@@ -1,0 +1,10 @@
+<PlanetDefinition>
+	<DisplayName>PlanetHoruta</DisplayName>
+	<Description>PlanetHorutaDesc</Description>
+	<Prefab>Planet_24</Prefab>
+	<Scale>1.0</Scale>
+	
+	<Biomes>
+		<BiomeType>Arctic</BiomeType>
+	</Biomes>
+</PlanetDefinition>

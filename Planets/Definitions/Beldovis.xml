@@ -1,0 +1,10 @@
+<PlanetDefinition>
+	<DisplayName>PlanetBeldovis</DisplayName>
+	<Description>PlanetBeldovisDesc</Description>
+	<Prefab>Planet_33</Prefab>
+	<Scale>1.0</Scale>
+	
+	<Biomes>
+		<BiomeType>Desert_WhiteStone</BiomeType>
+	</Biomes>
+</PlanetDefinition>

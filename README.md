@@ -5,6 +5,7 @@ Additions:
   New Weapons, New Alternate Ammo Types, Weapon Variants.
   1 New Tank Variants, 44 New Mech Variants, 1 New Mech Chassis!
   These additions appear in Career and Instant Action.
+  New Contract types for Career mode.
 
   Colors toned down in the mechlab to reduce eyestrain,
 
@@ -15,6 +16,11 @@ Additions:
     AK Night Hawk - Continuous Laser Arrays idea.
     Tuprewm - MG Arrays, Cannon Arrays idea.
     Groxglitch - Magnum ammo type idea.
+Patch 0.2.5:
+  Added new contract types.
+Patch 0.2.1:
+  Hopefully fixed NRE on assassination mission generation.
+  Start of random contract overhaul.
 Patch 0.2.0:
   Adjusted filestructure so all equipment and weapons are organized for implementation of faction variant weapons.
   Made HE AC rounds create a explosion effect to emphasise the aoe damage.
