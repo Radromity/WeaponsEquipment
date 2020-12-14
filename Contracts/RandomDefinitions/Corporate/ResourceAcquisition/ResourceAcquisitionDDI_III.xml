@@ -21,6 +21,7 @@
 		<MissionType>BattleSupport</MissionType>
 		<MissionType>SearchAndDestroy</MissionType>
 		<MissionType>Assassination</MissionType>
+		<MissionType>BaseDestroy</MissionType>
 	</MissionTypes>
 	<EnemyFactions>
 		<string>HagimotoTechnologies</string>
