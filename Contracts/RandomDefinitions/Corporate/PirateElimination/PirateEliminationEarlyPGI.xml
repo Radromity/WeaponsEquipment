@@ -21,6 +21,7 @@
 		<MissionType>BattleSupport</MissionType>
 		<MissionType>SearchAndDestroy</MissionType>
 		<MissionType>ConvoyDestroy</MissionType>
+		<MissionType>BaseDestroy</MissionType>
 	</MissionTypes>
 	<EnemyFactions>
 		<string>SalviLegionPirates</string>

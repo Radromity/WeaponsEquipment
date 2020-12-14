@@ -684,6 +684,66 @@
 			<RandomWeight>1.0</RandomWeight>
 		</GroundVehicleSpawnDefinition>
 	</ConvoyVehicles>
+
+	<TurretsLight>
+		<TurretSpawnDefinition>
+			<Definition>Light_Ballistic_2cm</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Light_Ballistic_5cm</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Light_Laser_Medium</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Light_Laser_Small</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Light_Missle_LRM</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Light_Missle_MRM</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Light_Missle_SRM</Definition>
+		</TurretSpawnDefinition>
+	</TurretsLight>
+	<turretsMedium>
+	</turretsMedium>
+	<turretHeavy>
+	</turretHeavy>
+	<turretAssault>
+	</turretAssault>
+	
+	<BaseFoundationsSmall>
+		<string>BaseFoundationSmall_1</string>
+	</BaseFoundationsSmall>
+	<BaseFoundationsMedium>
+	</BaseFoundationsMedium>
+	<BaseFoundationsLarge>
+	</BaseFoundationsLarge>
+	<BaseFoundationsHuge>
+	</BaseFoundationsHuge>
+	
+	<BasePrimaryBuildings>
+		<BuildingSpawnDefinition>
+			<Definition>RadarStation</Definition>
+		</BuildingSpawnDefinition>
+	</BasePrimaryBuildings>
+	
+	<BaseOptionalBuildings>
+		<BuildingSpawnDefinition>
+			<Definition>Building_Industrial_1</Definition>
+		</BuildingSpawnDefinition>
+	</BaseOptionalBuildings>
+	
+	<TurretControlTower>
+		<Definition>TurretControlTower</Definition>
+	</TurretControlTower>
+	<TurretGenerator>
+		<Definition>SCNRU</Definition>
+	</TurretGenerator>
+
 	<AssassinationTargetNames>
 		<string>Security Chief</string>
 	</AssassinationTargetNames>

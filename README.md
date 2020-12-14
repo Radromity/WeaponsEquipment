@@ -16,6 +16,10 @@ Additions:
     AK Night Hawk - Continuous Laser Arrays idea.
     Tuprewm - MG Arrays, Cannon Arrays idea.
     Groxglitch - Magnum ammo type idea.
+Patch 0.2.7:
+  Oops. Forgot to update the factions.
+Patch 0.2.6:
+  1.2.0 support update.
 Patch 0.2.5:
   Added new contract types.
 Patch 0.2.1:
