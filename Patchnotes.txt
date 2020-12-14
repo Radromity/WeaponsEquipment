@@ -1,3 +1,5 @@
+Patch 0.2.7:
+  Oops. Forgot to update the factions.
 Patch 0.2.6:
   1.2.0 support update.
 Patch 0.2.5:
