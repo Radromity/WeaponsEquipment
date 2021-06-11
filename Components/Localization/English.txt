@@ -1,220 +1,220 @@
 #Component Ammo
 
-ComponentAmmoSlug4cmCan_I Slug 4cm Canister Mag I
-ComponentAmmoSlug4cmCan_II Slug 4cm Canister Mag II
-ComponentAmmoSlug4cmCan_III Slug 4cm Canister Mag III
+ComponentAmmoSlug4cmCan_I Slug 4cm Canister Mag (Half Ton)
+ComponentAmmoSlug4cmCan_II Slug 4cm Canister Mag (Full Ton)
+ComponentAmmoSlug4cmCan_III Slug 4cm Canister Mag (Double Ton)
 ComponentAmmoSlug4cmCanDesc Todo:
-ComponentAmmoSlug6cmCan_I Slug 6cm Canister Mag I
-ComponentAmmoSlug6cmCan_II Slug 6cm Canister Mag II
-ComponentAmmoSlug6cmCan_III Slug 6cm Canister Mag III
+ComponentAmmoSlug6cmCan_I Slug 6cm Canister Mag (Half Ton)
+ComponentAmmoSlug6cmCan_II Slug 6cm Canister Mag (Full Ton)
+ComponentAmmoSlug6cmCan_III Slug 6cm Canister Mag (Double Ton)
 ComponentAmmoSlug6cmCanDesc Todo:
-ComponentAmmoSlug2cmCan_I Slug 2cm Canister Mag I
-ComponentAmmoSlug2cmCan_II Slug 2cm Canister Mag II
-ComponentAmmoSlug2cmCan_III Slug 2cm Canister Mag III
+ComponentAmmoSlug2cmCan_I Slug 2cm Canister Mag (Half Ton)
+ComponentAmmoSlug2cmCan_II Slug 2cm Canister Mag (Full Ton)
+ComponentAmmoSlug2cmCan_III Slug 2cm Canister Mag (Double Ton)
 ComponentAmmoSlug2cmCanDesc Todo:
-ComponentAmmoSlug1cmCan_I Slug 1cm Canister Mag I
-ComponentAmmoSlug1cmCan_II Slug 1cm Canister Mag II
-ComponentAmmoSlug1cmCan_III Slug 1cm Canister Mag III
+ComponentAmmoSlug1cmCan_I Slug 1cm Canister Mag (Half Ton)
+ComponentAmmoSlug1cmCan_II Slug 1cm Canister Mag (Full Ton)
+ComponentAmmoSlug1cmCan_III Slug 1cm Canister Mag (Double Ton)
 ComponentAmmoSlug1cmCanDesc Todo:
 
-ComponentAmmoAC2cmAoe_I High Explosive AC2cm Rounds I
-ComponentAmmoAC2cmAoe_II High Explosive AC2cm Rounds II
-ComponentAmmoAC2cmAoe_III High Explosive AC2cm Rounds III
+ComponentAmmoAC2cmAoe_I High Explosive Autocannon/2cm Mag (Half Ton)
+ComponentAmmoAC2cmAoe_II High Explosive Autocannon/2cm Mag (Full Ton)
+ComponentAmmoAC2cmAoe_III High Explosive Autocannon/2cm Mag (Double Ton)
 ComponentAmmoAC2cmAoeDesc Todo:
-ComponentAmmoAC5cmAoe_I High Explosive AC5cm Rounds I
-ComponentAmmoAC5cmAoe_II High Explosive AC5cm Rounds II
-ComponentAmmoAC5cmAoe_III High Explosive AC5cm Rounds III
+ComponentAmmoAC5cmAoe_I High Explosive Autocannon/5cm Mag (Half Ton)
+ComponentAmmoAC5cmAoe_II High Explosive Autocannon/5cm Mag (Full Ton)
+ComponentAmmoAC5cmAoe_III High Explosive Autocannon/5cm Mag (Double Ton)
 ComponentAmmoAC5cmAoeDesc Todo:
-ComponentAmmoAC10cmAoe_I High Explosive AC10cm Rounds I
-ComponentAmmoAC10cmAoe_II High Explosive AC10cm Rounds II
-ComponentAmmoAC10cmAoe_III High Explosive AC10cm Rounds III
+ComponentAmmoAC10cmAoe_I High Explosive Autocannon/10cm Mag (Half Ton)
+ComponentAmmoAC10cmAoe_II High Explosive Autocannon/10cm Mag (Full Ton)
+ComponentAmmoAC10cmAoe_III High Explosive Autocannon/10cm Mag (Double Ton)
 ComponentAmmoAC10cmAoeDesc Todo:
-ComponentAmmoAC15cmAoe_I High Explosive AC15cm Rounds I
-ComponentAmmoAC15cmAoe_II High Explosive AC15cm Rounds II
-ComponentAmmoAC15cmAoe_III High Explosive AC15cm Rounds III
+ComponentAmmoAC15cmAoe_I High Explosive Autocannon/15cm Mag (Half Ton)
+ComponentAmmoAC15cmAoe_II High Explosive Autocannon/15cm Mag (Full Ton)
+ComponentAmmoAC15cmAoe_III High Explosive Autocannon/15cm Mag (Double Ton)
 ComponentAmmoAC15cmAoeDesc Todo:
-ComponentAmmoAC20cmAoe_I High Explosive AC20cm Rounds I
-ComponentAmmoAC20cmAoe_II High Explosive AC20cm Rounds II
-ComponentAmmoAC20cmAoe_III High Explosive AC20cm Rounds III
+ComponentAmmoAC20cmAoe_I High Explosive Autocannon/20cm Mag (Half Ton)
+ComponentAmmoAC20cmAoe_II High Explosive Autocannon/20cm Mag (Full Ton)
+ComponentAmmoAC20cmAoe_III High Explosive Autocannon/20cm Mag (Double Ton)
 ComponentAmmoAC20cmAoeDesc Todo:
-ComponentAmmoAC30cmAoe_I High Explosive AC30cm Rounds I
-ComponentAmmoAC30cmAoe_II High Explosive AC30cm Rounds II
-ComponentAmmoAC30cmAoe_III High Explosive AC30cm Rounds III
+ComponentAmmoAC30cmAoe_I High Explosive Autocannon/30cm Mag (Half Ton)
+ComponentAmmoAC30cmAoe_II High Explosive Autocannon/30cm Mag (Full Ton)
+ComponentAmmoAC30cmAoe_III High Explosive Autocannon/30cm Mag (Double Ton)
 ComponentAmmoAC30cmAoeDesc Todo:
 
-ComponentAmmoAC2cmAP_I Armor Piercing AC2cm Rounds I
-ComponentAmmoAC2cmAP_II Armor Piercing AC2cm Rounds II
-ComponentAmmoAC2cmAP_III Armor Piercing AC2cm Rounds III
+ComponentAmmoAC2cmAP_I Armor Piercing Autocannon/2cm Mag (Half Ton)
+ComponentAmmoAC2cmAP_II Armor Piercing Autocannon/2cm Mag (Full Ton)
+ComponentAmmoAC2cmAP_III Armor Piercing Autocannon/2cm Mag (Double Ton)
 ComponentAmmoAC2cmAPDesc Todo:
-ComponentAmmoAC5cmAP_I Armor Piercing AC5cm Rounds I
-ComponentAmmoAC5cmAP_II Armor Piercing AC5cm Rounds II
-ComponentAmmoAC5cmAP_III Armor Piercing AC5cm Rounds III
+ComponentAmmoAC5cmAP_I Armor Piercing Autocannon/5cm Mag (Half Ton)
+ComponentAmmoAC5cmAP_II Armor Piercing Autocannon/5cm Mag (Full Ton)
+ComponentAmmoAC5cmAP_III Armor Piercing Autocannon/5cm Mag (Double Ton)
 ComponentAmmoAC5cmAPDesc Todo:
-ComponentAmmoAC10cmAP_I Armor Piercing AC10cm Rounds I
-ComponentAmmoAC10cmAP_II Armor Piercing AC10cm Rounds II
-ComponentAmmoAC10cmAP_III Armor Piercing AC10cm Rounds III
+ComponentAmmoAC10cmAP_I Armor Piercing Autocannon/10cm Mag (Half Ton)
+ComponentAmmoAC10cmAP_II Armor Piercing Autocannon/10cm Mag (Full Ton)
+ComponentAmmoAC10cmAP_III Armor Piercing Autocannon/10cm Mag (Double Ton)
 ComponentAmmoAC10cmAPDesc Todo:
-ComponentAmmoAC15cmAP_I Armor Piercing AC15cm Rounds I
-ComponentAmmoAC15cmAP_II Armor Piercing AC15cm Rounds II
-ComponentAmmoAC15cmAP_III Armor Piercing AC15cm Rounds III
+ComponentAmmoAC15cmAP_I Armor Piercing Autocannon/15cm Mag (Half Ton)
+ComponentAmmoAC15cmAP_II Armor Piercing Autocannon/15cm Mag (Full Ton)
+ComponentAmmoAC15cmAP_III Armor Piercing Autocannon/15cm Mag (Double Ton)
 ComponentAmmoAC15cmAPDesc Todo:
-ComponentAmmoAC20cmAP_I Armor Piercing AC20cm Rounds I
-ComponentAmmoAC20cmAP_II Armor Piercing AC20cm Rounds II
-ComponentAmmoAC20cmAP_III Armor Piercing AC20cm Rounds III
+ComponentAmmoAC20cmAP_I Armor Piercing Autocannon/20cm Mag (Half Ton)
+ComponentAmmoAC20cmAP_II Armor Piercing Autocannon/20cm Mag (Full Ton)
+ComponentAmmoAC20cmAP_III Armor Piercing Autocannon/20cm Mag (Double Ton)
 ComponentAmmoAC20cmAPDesc Todo:
-ComponentAmmoAC30cmAP_I Armor Piercing AC30cm Rounds I
-ComponentAmmoAC30cmAP_II Armor Piercing AC30cm Rounds II
-ComponentAmmoAC30cmAP_III Armor Piercing AC30cm Rounds III
+ComponentAmmoAC30cmAP_I Armor Piercing Autocannon/30cm Mag (Half Ton)
+ComponentAmmoAC30cmAP_II Armor Piercing Autocannon/30cm Mag (Full Ton)
+ComponentAmmoAC30cmAP_III Armor Piercing Autocannon/30cm Mag (Double Ton)
 ComponentAmmoAC30cmAPDesc Todo:
 
-ComponentAmmoFAC2cm_I Flak AC2cm Rounds I
-ComponentAmmoFAC2cm_II Flak AC2cm Rounds II
-ComponentAmmoFAC2cm_III Flak AC2cm Rounds III
+ComponentAmmoFAC2cm_I Flak Autocannon/2cm Mag (Half Ton)
+ComponentAmmoFAC2cm_II Flak Autocannon/2cm Mag (Full Ton)
+ComponentAmmoFAC2cm_III Flak Autocannon/2cm Mag (Double Ton)
 ComponentAmmoFAC2cmDesc Todo:
-ComponentAmmoFAC5cm_I Flak AC5cm Rounds I
-ComponentAmmoFAC5cm_II Flak AC5cm Rounds II
-ComponentAmmoFAC5cm_III Flak AC5cm Rounds III
+ComponentAmmoFAC5cm_I Flak Autocannon/5cm Mag (Half Ton)
+ComponentAmmoFAC5cm_II Flak Autocannon/5cm Mag (Full Ton)
+ComponentAmmoFAC5cm_III Flak Autocannon/5cm Mag (Double Ton)
 ComponentAmmoFAC5cmDesc Todo:
-ComponentAmmoFAC10cm_I Flak AC10cm Rounds I
-ComponentAmmoFAC10cm_II Flak AC10cm Rounds II
-ComponentAmmoFAC10cm_III Flak AC10cm Rounds III
+ComponentAmmoFAC10cm_I Flak Autocannon/10cm Mag (Half Ton)
+ComponentAmmoFAC10cm_II Flak Autocannon/10cm Mag (Full Ton)
+ComponentAmmoFAC10cm_III Flak Autocannon/10cm Mag (Double Ton)
 ComponentAmmoFAC10cmDesc Todo:
-ComponentAmmoFAC15cm_I Flak AC15cm Rounds I
-ComponentAmmoFAC15cm_II Flak AC15cm Rounds II
-ComponentAmmoFAC15cm_III Flak AC15cm Rounds III
+ComponentAmmoFAC15cm_I Flak Autocannon/15cm Mag (Half Ton)
+ComponentAmmoFAC15cm_II Flak Autocannon/15cm Mag (Full Ton)
+ComponentAmmoFAC15cm_III Flak Autocannon/15cm Mag (Double Ton)
 ComponentAmmoFAC15cmDesc Todo:
-ComponentAmmoFAC20cm_I Flak AC20cm Rounds I
-ComponentAmmoFAC20cm_II Flak AC20cm Rounds II
-ComponentAmmoFAC20cm_III Flak AC20cm Rounds III
+ComponentAmmoFAC20cm_I Flak Autocannon/20cm Mag (Half Ton)
+ComponentAmmoFAC20cm_II Flak Autocannon/20cm Mag (Full Ton)
+ComponentAmmoFAC20cm_III Flak Autocannon/20cm Mag (Double Ton)
 ComponentAmmoFAC20cmDesc Todo:
-ComponentAmmoFAC30cm_I Flak AC30cm Rounds I
-ComponentAmmoFAC30cm_II Flak AC30cm Rounds II
-ComponentAmmoFAC30cm_III Flak AC30cm Rounds III
+ComponentAmmoFAC30cm_I Flak Autocannon/30cm Mag (Half Ton)
+ComponentAmmoFAC30cm_II Flak Autocannon/30cm Mag (Full Ton)
+ComponentAmmoFAC30cm_III Flak Autocannon/30cm Mag (Double Ton)
 ComponentAmmoFAC30cmDesc Todo:
 
-ComponentAmmoAC2cmC_I Caseless AC2cm Rounds I
-ComponentAmmoAC2cmC_II Caseless AC2cm Rounds II
-ComponentAmmoAC2cmC_III Caseless AC2cm Rounds III
+ComponentAmmoAC2cmC_I Caseless Autocannon/2cm Mag (Half Ton)
+ComponentAmmoAC2cmC_II Caseless Autocannon/2cm Mag (Full Ton)
+ComponentAmmoAC2cmC_III Caseless Autocannon/2cm Mag (Double Ton)
 ComponentAmmoAC2cmCDesc Todo:
-ComponentAmmoAC5cmC_I Caseless AC5cm Rounds I
-ComponentAmmoAC5cmC_II Caseless AC5cm Rounds II
-ComponentAmmoAC5cmC_III Caseless AC5cm Rounds III
+ComponentAmmoAC5cmC_I Caseless Autocannon/5cm Mag (Half Ton)
+ComponentAmmoAC5cmC_II Caseless Autocannon/5cm Mag (Full Ton)
+ComponentAmmoAC5cmC_III Caseless Autocannon/5cm Mag (Double Ton)
 ComponentAmmoAC5cmCDesc Todo:
-ComponentAmmoAC10cmC_I Caseless AC10cm Rounds I
-ComponentAmmoAC10cmC_II Caseless AC10cm Rounds II
-ComponentAmmoAC10cmC_III Caseless AC10cm Rounds III
+ComponentAmmoAC10cmC_I Caseless Autocannon/10cm Mag (Half Ton)
+ComponentAmmoAC10cmC_II Caseless Autocannon/10cm Mag (Full Ton)
+ComponentAmmoAC10cmC_III Caseless Autocannon/10cm Mag (Double Ton)
 ComponentAmmoAC10cmCDesc Todo:
-ComponentAmmoAC15cmC_I Caseless AC15cm Rounds I
-ComponentAmmoAC15cmC_II Caseless AC15cm Rounds II
-ComponentAmmoAC15cmC_III Caseless AC15cm Rounds III
+ComponentAmmoAC15cmC_I Caseless Autocannon/15cm Mag (Half Ton)
+ComponentAmmoAC15cmC_II Caseless Autocannon/15cm Mag (Full Ton)
+ComponentAmmoAC15cmC_III Caseless Autocannon/15cm Mag (Double Ton)
 ComponentAmmoAC15cmCDesc Todo:
-ComponentAmmoAC20cmC_I Caseless AC20cm Rounds I
-ComponentAmmoAC20cmC_II Caseless AC20cm Rounds II
-ComponentAmmoAC20cmC_III Caseless AC20cm Rounds III
+ComponentAmmoAC20cmC_I Caseless Autocannon/20cm Mag (Half Ton)
+ComponentAmmoAC20cmC_II Caseless Autocannon/20cm Mag (Full Ton)
+ComponentAmmoAC20cmC_III Caseless Autocannon/20cm Mag (Double Ton)
 ComponentAmmoAC20cmCDesc Todo:
-ComponentAmmoAC30cmC_I Caseless AC30cm Rounds I
-ComponentAmmoAC30cmC_II Caseless AC30cm Rounds II
-ComponentAmmoAC30cmC_III Caseless AC30cm Rounds III
+ComponentAmmoAC30cmC_I Caseless Autocannon/30cm Mag (Half Ton)
+ComponentAmmoAC30cmC_II Caseless Autocannon/30cm Mag (Full Ton)
+ComponentAmmoAC30cmC_III Caseless Autocannon/30cm Mag (Double Ton)
 ComponentAmmoAC30cmCDesc Todo:
 
-ComponentAmmoAC2cmI_I Incendiary AC2cm Rounds I
-ComponentAmmoAC2cmI_II Incendiary AC2cm Rounds II
-ComponentAmmoAC2cmI_III Incendiary AC2cm Rounds III
+ComponentAmmoAC2cmI_I Incendiary Autocannon/2cm Mag (Half Ton)
+ComponentAmmoAC2cmI_II Incendiary Autocannon/2cm Mag (Full Ton)
+ComponentAmmoAC2cmI_III Incendiary Autocannon/2cm Mag (Double Ton)
 ComponentAmmoAC2cmIDesc Todo:
-ComponentAmmoAC5cmI_I Incendiary AC5cm Rounds I
-ComponentAmmoAC5cmI_II Incendiary AC5cm Rounds II
-ComponentAmmoAC5cmI_III Incendiary AC5cm Rounds III
+ComponentAmmoAC5cmI_I Incendiary Autocannon/5cm Mag (Half Ton)
+ComponentAmmoAC5cmI_II Incendiary Autocannon/5cm Mag (Full Ton)
+ComponentAmmoAC5cmI_III Incendiary Autocannon/5cm Mag (Double Ton)
 ComponentAmmoAC5cmIDesc Todo:
-ComponentAmmoAC10cmI_I Incendiary AC10cm Rounds I
-ComponentAmmoAC10cmI_II Incendiary AC10cm Rounds II
-ComponentAmmoAC10cmI_III Incendiary AC10cm Rounds III
+ComponentAmmoAC10cmI_I Incendiary Autocannon/10cm Mag (Half Ton)
+ComponentAmmoAC10cmI_II Incendiary Autocannon/10cm Mag (Full Ton)
+ComponentAmmoAC10cmI_III Incendiary Autocannon/10cm Mag (Double Ton)
 ComponentAmmoAC10cmIDesc Todo:
-ComponentAmmoAC15cmI_I Incendiary AC15cm Rounds I
-ComponentAmmoAC15cmI_II Incendiary AC15cm Rounds II
-ComponentAmmoAC15cmI_III Incendiary AC15cm Rounds III
+ComponentAmmoAC15cmI_I Incendiary Autocannon/15cm Mag (Half Ton)
+ComponentAmmoAC15cmI_II Incendiary Autocannon/15cm Mag (Full Ton)
+ComponentAmmoAC15cmI_III Incendiary Autocannon/15cm Mag (Double Ton)
 ComponentAmmoAC15cmIDesc Todo:
-ComponentAmmoAC20cmI_I Incendiary AC20cm Rounds I
-ComponentAmmoAC20cmI_II Incendiary AC20cm Rounds II
-ComponentAmmoAC20cmI_III Incendiary AC20cm Rounds III
+ComponentAmmoAC20cmI_I Incendiary Autocannon/20cm Mag (Half Ton)
+ComponentAmmoAC20cmI_II Incendiary Autocannon/20cm Mag (Full Ton)
+ComponentAmmoAC20cmI_III Incendiary Autocannon/20cm Mag (Double Ton)
 ComponentAmmoAC20cmIDesc Todo:
-ComponentAmmoAC30cmI_I Incendiary AC30cm Rounds I
-ComponentAmmoAC30cmI_II Incendiary AC30cm Rounds II
-ComponentAmmoAC30cmI_III Incendiary AC30cm Rounds III
+ComponentAmmoAC30cmI_I Incendiary Autocannon/30cm Mag (Half Ton)
+ComponentAmmoAC30cmI_II Incendiary Autocannon/30cm Mag (Full Ton)
+ComponentAmmoAC30cmI_III Incendiary Autocannon/30cm Mag (Double Ton)
 ComponentAmmoAC30cmIDesc Todo:
 
-ComponentAmmoAC2cmM_I Magnum AC2cm Rounds I
-ComponentAmmoAC2cmM_II Magnum AC2cm Rounds II
-ComponentAmmoAC2cmM_III Magnum AC2cm Rounds III
+ComponentAmmoAC2cmM_I Magnum Autocannon/2cm Mag (Half Ton)
+ComponentAmmoAC2cmM_II Magnum Autocannon/2cm Mag (Full Ton)
+ComponentAmmoAC2cmM_III Magnum Autocannon/2cm Mag (Double Ton)
 ComponentAmmoAC2cmMDesc Todo:
-ComponentAmmoAC5cmM_I Magnum AC5cm Rounds I
-ComponentAmmoAC5cmM_II Magnum AC5cm Rounds II
-ComponentAmmoAC5cmM_III Magnum AC5cm Rounds III
+ComponentAmmoAC5cmM_I Magnum Autocannon/5cm Mag (Half Ton)
+ComponentAmmoAC5cmM_II Magnum Autocannon/5cm Mag (Full Ton)
+ComponentAmmoAC5cmM_III Magnum Autocannon/5cm Mag (Double Ton)
 ComponentAmmoAC5cmMDesc Todo:
-ComponentAmmoAC10cmM_I Magnum AC10cm Rounds I
-ComponentAmmoAC10cmM_II Magnum AC10cm Rounds II
-ComponentAmmoAC10cmM_III Magnum AC10cm Rounds III
+ComponentAmmoAC10cmM_I Magnum Autocannon/10cm Mag (Half Ton)
+ComponentAmmoAC10cmM_II Magnum Autocannon/10cm Mag (Full Ton)
+ComponentAmmoAC10cmM_III Magnum Autocannon/10cm Mag (Double Ton)
 ComponentAmmoAC10cmMDesc Todo:
-ComponentAmmoAC15cmM_I Magnum AC15cm Rounds I
-ComponentAmmoAC15cmM_II Magnum AC15cm Rounds II
-ComponentAmmoAC15cmM_III Magnum AC15cm Rounds III
+ComponentAmmoAC15cmM_I Magnum Autocannon/15cm Mag (Half Ton)
+ComponentAmmoAC15cmM_II Magnum Autocannon/15cm Mag (Full Ton)
+ComponentAmmoAC15cmM_III Magnum Autocannon/15cm Mag (Double Ton)
 ComponentAmmoAC15cmMDesc Todo:
-ComponentAmmoAC20cmM_I Magnum AC20cm Rounds I
-ComponentAmmoAC20cmM_II Magnum AC20cm Rounds II
-ComponentAmmoAC20cmM_III Magnum AC20cm Rounds III
+ComponentAmmoAC20cmM_I Magnum Autocannon/20cm Mag (Half Ton)
+ComponentAmmoAC20cmM_II Magnum Autocannon/20cm Mag (Full Ton)
+ComponentAmmoAC20cmM_III Magnum Autocannon/20cm Mag (Double Ton)
 ComponentAmmoAC20cmMDesc Todo:
-ComponentAmmoAC30cmM_I Magnum AC30cm Rounds I
-ComponentAmmoAC30cmM_II Magnum AC30cm Rounds II
-ComponentAmmoAC30cmM_III Magnum AC30cm Rounds III
+ComponentAmmoAC30cmM_I Magnum Autocannon/30cm Mag (Half Ton)
+ComponentAmmoAC30cmM_II Magnum Autocannon/30cm Mag (Full Ton)
+ComponentAmmoAC30cmM_III Magnum Autocannon/30cm Mag (Double Ton)
 ComponentAmmoAC30cmMDesc Todo:
 
-ComponentAmmoAC2cmP_I Precision AC2cm Rounds I
-ComponentAmmoAC2cmP_II Precision AC2cm Rounds II
-ComponentAmmoAC2cmP_III Precision AC2cm Rounds III
+ComponentAmmoAC2cmP_I Precision Autocannon/2cm Mag (Half Ton)
+ComponentAmmoAC2cmP_II Precision Autocannon/2cm Mag (Full Ton)
+ComponentAmmoAC2cmP_III Precision Autocannon/2cm Mag (Double Ton)
 ComponentAmmoAC2cmPDesc Todo:
-ComponentAmmoAC5cmP_I Precision AC5cm Rounds I
-ComponentAmmoAC5cmP_II Precision AC5cm Rounds II
-ComponentAmmoAC5cmP_III Precision AC5cm Rounds III
+ComponentAmmoAC5cmP_I Precision Autocannon/5cm Mag (Half Ton)
+ComponentAmmoAC5cmP_II Precision Autocannon/5cm Mag (Full Ton)
+ComponentAmmoAC5cmP_III Precision Autocannon/5cm Mag (Double Ton)
 ComponentAmmoAC5cmPDesc Todo:
-ComponentAmmoAC10cmP_I Precision AC10cm Rounds I
-ComponentAmmoAC10cmP_II Precision AC10cm Rounds II
-ComponentAmmoAC10cmP_III Precision AC10cm Rounds III
+ComponentAmmoAC10cmP_I Precision Autocannon/10cm Mag (Half Ton)
+ComponentAmmoAC10cmP_II Precision Autocannon/10cm Mag (Full Ton)
+ComponentAmmoAC10cmP_III Precision Autocannon/10cm Mag (Double Ton)
 ComponentAmmoAC10cmPDesc Todo:
-ComponentAmmoAC15cmP_I Precision AC15cm Rounds I
-ComponentAmmoAC15cmP_II Precision AC15cm Rounds II
-ComponentAmmoAC15cmP_III Precision AC15cm Rounds III
+ComponentAmmoAC15cmP_I Precision Autocannon/15cm Mag (Half Ton)
+ComponentAmmoAC15cmP_II Precision Autocannon/15cm Mag (Full Ton)
+ComponentAmmoAC15cmP_III Precision Autocannon/15cm Mag (Double Ton)
 ComponentAmmoAC15cmPDesc Todo:
-ComponentAmmoAC20cmP_I Precision AC20cm Rounds I
-ComponentAmmoAC20cmP_II Precision AC20cm Rounds II
-ComponentAmmoAC20cmP_III Precision AC20cm Rounds III
+ComponentAmmoAC20cmP_I Precision Autocannon/20cm Mag (Half Ton)
+ComponentAmmoAC20cmP_II Precision Autocannon/20cm Mag (Full Ton)
+ComponentAmmoAC20cmP_III Precision Autocannon/20cm Mag (Double Ton)
 ComponentAmmoAC20cmPDesc Todo:
-ComponentAmmoAC30cmP_I Precision AC30cm Rounds I
-ComponentAmmoAC30cmP_II Precision AC30cm Rounds II
-ComponentAmmoAC30cmP_III Precision AC30cm Rounds III
+ComponentAmmoAC30cmP_I Precision Autocannon/30cm Mag (Half Ton)
+ComponentAmmoAC30cmP_II Precision Autocannon/30cm Mag (Full Ton)
+ComponentAmmoAC30cmP_III Precision Autocannon/30cm Mag (Double Ton)
 ComponentAmmoAC30cmPDesc Todo:
 
-ComponentAmmoCAC2cmSlug_I Cannister AC2cm Slug Mag I
-ComponentAmmoCAC2cmSlug_II Cannister AC2cm Slug Mag II
-ComponentAmmoCAC2cmSlug_III Cannister AC2cm Slug Mag III
+ComponentAmmoCAC2cmSlug_I Cannister Autocannon/2cm Slug Mag (Half Ton)
+ComponentAmmoCAC2cmSlug_II Cannister Autocannon/2cm Slug Mag (Full Ton)
+ComponentAmmoCAC2cmSlug_III Cannister Autocannon/2cm Slug Mag (Double Ton)
 ComponentAmmoCAC2cmSlugDesc Todo:
-ComponentAmmoCAC5cmSlug_I Cannister AC5cm Slug Mag I
-ComponentAmmoCAC5cmSlug_II Cannister AC5cm Slug Mag II
-ComponentAmmoCAC5cmSlug_III Cannister AC5cm Slug Mag III
+ComponentAmmoCAC5cmSlug_I Cannister Autocannon/5cm Slug Mag (Half Ton)
+ComponentAmmoCAC5cmSlug_II Cannister Autocannon/5cm Slug Mag (Full Ton)
+ComponentAmmoCAC5cmSlug_III Cannister Autocannon/5cm Slug Mag (Double Ton)
 ComponentAmmoCAC5cmSlugDesc Todo:
-ComponentAmmoCAC10cmSlug_I Cannister AC10cm Slug Mag I
-ComponentAmmoCAC10cmSlug_II Cannister AC10cm Slug Mag II
-ComponentAmmoCAC10cmSlug_III Cannister AC10cm Slug Mag III
+ComponentAmmoCAC10cmSlug_I Cannister Autocannon/10cm Slug Mag (Half Ton)
+ComponentAmmoCAC10cmSlug_II Cannister Autocannon/10cm Slug Mag (Full Ton)
+ComponentAmmoCAC10cmSlug_III Cannister Autocannon/10cm Slug Mag (Double Ton)
 ComponentAmmoCAC10cmSlugDesc Todo:
-ComponentAmmoCAC15cmSlug_I Cannister AC15cm Slug Mag I
-ComponentAmmoCAC15cmSlug_II Cannister AC15cm Slug Mag II
-ComponentAmmoCAC15cmSlug_III Cannister AC15cm Slug Mag III
+ComponentAmmoCAC15cmSlug_I Cannister Autocannon/15cm Slug Mag (Half Ton)
+ComponentAmmoCAC15cmSlug_II Cannister Autocannon/15cm Slug Mag (Full Ton)
+ComponentAmmoCAC15cmSlug_III Cannister Autocannon/15cm Slug Mag (Double Ton)
 ComponentAmmoCAC15cmSlugDesc Todo:
-ComponentAmmoCAC20cmSlug_I Cannister AC20cm Slug Mag I
-ComponentAmmoCAC20cmSlug_II Cannister AC20cm Slug Mag II
-ComponentAmmoCAC20cmSlug_III Cannister AC20cm Slug Mag III
+ComponentAmmoCAC20cmSlug_I Cannister Autocannon/20cm Slug Mag (Half Ton)
+ComponentAmmoCAC20cmSlug_II Cannister Autocannon/20cm Slug Mag (Full Ton)
+ComponentAmmoCAC20cmSlug_III Cannister Autocannon/20cm Slug Mag (Double Ton)
 ComponentAmmoCAC20cmSlugDesc Todo:
-ComponentAmmoCAC30cmSlug_I Cannister AC30cm Slug Mag I
-ComponentAmmoCAC30cmSlug_II Cannister AC30cm Slug Mag II
-ComponentAmmoCAC30cmSlug_III Cannister AC30cm Slug Mag III
+ComponentAmmoCAC30cmSlug_I Cannister Autocannon/30cm Slug Mag (Half Ton)
+ComponentAmmoCAC30cmSlug_II Cannister Autocannon/30cm Slug Mag (Full Ton)
+ComponentAmmoCAC30cmSlug_III Cannister Autocannon/30cm Slug Mag (Double Ton)
 ComponentAmmoCAC30cmSlugDesc Todo:
 
 ComponentAmmoSWLRM_I Swarm LRM Ammo I
@@ -224,25 +224,25 @@ ComponentAmmoSWLRMDesc Splits up into multiple smaller explosive projectiles sat
 
 #Component
 
-ComponentAC2 Autocannon 2cm
-ComponentAC5 Autocannon 5cm
-ComponentAC10 Autocannon 10cm
-ComponentAC15 Autocannon 15cm
-ComponentAC20 Autocannon 20cm
-ComponentAC30 Autocannon 30cm
-ComponentAC2Desc A Autocannon 2cm is a ballistic weapon that fires a single round down range, it has extreme range and very low damage. It uses AC2cm ammo, and has a wide variety of alternate ammo types availible.
-ComponentAC5Desc A Autocannon 5cm is a ballistic weapon that fires a single round down range, it has long range and low damage. It uses AC5cm ammo, and has a wide variety of alternate ammo types availible.
-ComponentAC10Desc A Autocannon 10cm is a ballistic weapon that fires a single round down range, it has moderate range and moderate damage. It uses AC10cm ammo, and has a wide variety of alternate ammo types availible.
-ComponentAC15Desc A Autocannon 15cm is a ballistic weapon that fires a single round down range, it has low range and high damage. It uses AC15cm ammo, and has a wide variety of alternate ammo types availible.
-ComponentAC20Desc A Autocannon 20cm is a ballistic weapon that fires a single round down range, it has very low range and very high damage. It uses AC20cm ammo, and has a wide variety of alternate ammo types availible.
-ComponentAC30Desc A Autocannon 30cm is a ballistic weapon that fires a single round down range, it has extremely low range and extremely high damage. It uses AC30cm ammo, and has a wide variety of alternate ammo types availible.
+ComponentAC2 Autocannon/2cm
+ComponentAC5 Autocannon/5cm
+ComponentAC10 Autocannon/10cm
+ComponentAC15 Autocannon/15cm
+ComponentAC20 Autocannon/20cm
+ComponentAC30 Autocannon/30cm
+ComponentAC2Desc A Autocannon/2cm is a ballistic weapon that fires a single round down range, it has extreme range and very low damage. It uses AC2cm ammo, and has a wide variety of alternate ammo types availible.
+ComponentAC5Desc A Autocannon/5cm is a ballistic weapon that fires a single round down range, it has long range and low damage. It uses AC5cm ammo, and has a wide variety of alternate ammo types availible.
+ComponentAC10Desc A Autocannon/10cm is a ballistic weapon that fires a single round down range, it has moderate range and moderate damage. It uses AC10cm ammo, and has a wide variety of alternate ammo types availible.
+ComponentAC15Desc A Autocannon/15cm is a ballistic weapon that fires a single round down range, it has low range and high damage. It uses AC15cm ammo, and has a wide variety of alternate ammo types availible.
+ComponentAC20Desc A Autocannon/20cm is a ballistic weapon that fires a single round down range, it has very low range and very high damage. It uses AC20cm ammo, and has a wide variety of alternate ammo types availible.
+ComponentAC30Desc A Autocannon/30cm is a ballistic weapon that fires a single round down range, it has extremely low range and extremely high damage. It uses AC30cm ammo, and has a wide variety of alternate ammo types availible.
 
-ComponentASRM2 Advanced Short Range Missile Launcher 2
-ComponentASRM4 Advanced Short Range Missile Launcher 4
-ComponentASRM6 Advanced Short Range Missile Launcher 6
-ComponentASRM12 Advanced Short Range Missile Launcher 12
-ComponentASRM18 Advanced Short Range Missile Launcher 18
-ComponentASRM24 Advanced Short Range Missile Launcher 24
+ComponentASRM2 Advanced Short Range Missile Launcher x2
+ComponentASRM4 Advanced Short Range Missile Launcher x4
+ComponentASRM6 Advanced Short Range Missile Launcher x6
+ComponentASRM12 Advanced Short Range Missile Launcher x12
+ComponentASRM18 Advanced Short Range Missile Launcher x18
+ComponentASRM24 Advanced Short Range Missile Launcher x24
 ComponentASRM2Desc Todo:
 ComponentASRM4Desc Todo:
 ComponentASRM6Desc Todo:
@@ -250,12 +250,12 @@ ComponentASRM12Desc Todo:
 ComponentASRM18Desc Todo:
 ComponentASRM24Desc Todo:
 
-ComponentSRM2 Short Range Missile Launcher 2
-ComponentSRM4 Short Range Missile Launcher 4
-ComponentSRM6 Short Range Missile Launcher 6
-ComponentSRM12 Short Range Missile Launcher 12
-ComponentSRM18 Short Range Missile Launcher 18
-ComponentSRM24 Short Range Missile Launcher 24
+ComponentSRM2 Short Range Missile Launcher x2
+ComponentSRM4 Short Range Missile Launcher x4
+ComponentSRM6 Short Range Missile Launcher x6
+ComponentSRM12 Short Range Missile Launcher x12
+ComponentSRM18 Short Range Missile Launcher x18
+ComponentSRM24 Short Range Missile Launcher x24
 ComponentSRM2Desc Todo:
 ComponentSRM4Desc Todo:
 ComponentSRM6Desc Todo:
@@ -263,10 +263,10 @@ ComponentSRM12Desc Todo:
 ComponentSRM18Desc Todo:
 ComponentSRM24Desc Todo:
 
-ComponentHSRM2 Heavy Short Range Missile Launcher 2
-ComponentHSRM3 Heavy Short Range Missile Launcher 3
-ComponentHSRM4 Heavy Short Range Missile Launcher 4
-ComponentHSRM6 Heavy Short Range Missile Launcher 6
+ComponentHSRM2 Heavy Short Range Missile Launcher x2
+ComponentHSRM3 Heavy Short Range Missile Launcher x3
+ComponentHSRM4 Heavy Short Range Missile Launcher x4
+ComponentHSRM6 Heavy Short Range Missile Launcher x6
 ComponentHSRM2Desc Todo:
 ComponentHSRM3Desc Todo:
 ComponentHSRM4Desc Todo:
@@ -282,11 +282,11 @@ ComponentTwinParticleCannonER Twin Extended Range Particle Cannon
 ComponentTwinParticleCannonERDesc Todo:
 ComponentTwinParticleCannonERHeavy Twin Extended Range Heavy Particle Cannon
 ComponentTwinParticleCannonERHeavyDesc Todo:
-ComponentTwinParticleCannonSN Twin Snub Nose Particle Cannon
+ComponentTwinParticleCannonSN Twin Snub-Nose Particle Cannon
 ComponentTwinParticleCannonSNDesc Todo:
-ComponentTwinParticleCannonSNHeavy Twin Heavy Snub Nose Particle Cannon
+ComponentTwinParticleCannonSNHeavy Twin Heavy Snub-Nose Particle Cannon
 ComponentTwinParticleCannonSNHeavyDesc Todo:
-ComponentTwinParticleCannonSNLight Twin Light Snub Nose Particle Cannon
+ComponentTwinParticleCannonSNLight Twin Light Snub-Nose Particle Cannon
 ComponentTwinParticleCannonSNLightDesc Todo:
 
 ComponentGaussRifleRapid Rapidfire Gauss Rifle
@@ -328,16 +328,36 @@ ComponentMGA7Desc
 ComponentLMGA7 Light Machine Gun Array x7
 ComponentLMGA7Desc
 
-ComponentAC2A2 Autocannon 2cm Array x2
-ComponentAC2A3 Autocannon 2cm Array x3
-ComponentAC2A4 Autocannon 2cm Array x4
+ComponentAC2A2 Autocannon/2cm Array x2
+ComponentAC2A3 Autocannon/2cm Array x3
+ComponentAC2A4 Autocannon/2cm Array x4
 
-ComponentASRM8 Advanced SRM 8
+ComponentASRM8 Advanced Short Range Missile Launcher x8
 ComponentASRM8Desc 
 ComponentLaserSmallArray2 Small Laser Array x2
 ComponentLaserSmallArray2Desc 
 ComponentLaserPulseMediumArray2 Medium Pulse Laser Array x2
 ComponentLaserPulseMediumArrayDesc 
+
+ComponentChargingParticleCannon Charging Particle Cannon
+ComponentChargingParticleCannonER Extended Range Charging Particle Cannon
+ComponentChargingParticleCannonERHeavy Extended Range Heavy Charging Particle Cannon
+ComponentChargingParticleCannonHeavy Heavy Charging Particle Cannon
+ComponentChargingParticleCannonLight Light Charging Particle Cannon
+ComponentChargingParticleCannonSN Snub-Nose Charging Particle Cannon
+ComponentChargingParticleCannonSNHeavy Snub-Nose Heavy Charging Particle Cannon
+ComponentChargingParticleCannonSNLight Snub-Nose Light Charging Particle Cannon
+ComponentChargingParticleCannonDesc 
+ComponentChargingParticleCannonERDesc 
+ComponentChargingParticleCannonERHeavyDesc 
+ComponentChargingParticleCannonHeavyDesc 
+ComponentChargingParticleCannonLightDesc 
+ComponentChargingParticleCannonSNDesc 
+ComponentChargingParticleCannonSNHeavyDesc 
+ComponentChargingParticleCannonSNLightDesc 
+
+ComponentStaticRifle Static Rifle
+ComponentStaticRifleDesc Static Rifles are essentially large lighting guns that when fired creates a giant spark between the gun and the target causing massive damage depending on the distance.
 
 ComponentGyroLightI Light Gyro Mk1
 ComponentGyroLightII Light Gyro Mk2
@@ -356,27 +376,29 @@ ComponentInternalReinforcementI Internal Structure Reinforcement Mk1
 ComponentInternalReinforcementII Internal Structure Reinforcement Mk2
 ComponentInternalReinforcementIII Internal Structure Reinforcement Mk3
 ComponentInternalReinforcementDesc Structure Replacement that is heavier but more durable.
+
+
 #Component DDI
 
-ComponentDDIAC2 DDI 20mm Standard Cannon
-ComponentDDIAC2Desc DDI 20mm Standard Cannon
-ComponentDDIAC5 DDI 50mm Standard Cannon
-ComponentDDIAC5Desc DDI 50mm Standard Cannon
-ComponentDDIAC10 DDI 100mm Standard Cannon
-ComponentDDIAC10Desc DDI 100mm Standard Cannon
-ComponentDDIAC15 DDI 150mm Standard Cannon
-ComponentDDIAC15Desc DDI 150mm Standard Cannon
-ComponentDDIAC20 DDI 200mm Standard Cannon
-ComponentDDIAC20Desc DDI 200mm Standard Cannon
-ComponentDDIAC30 DDI 300mm Standard Cannon
-ComponentDDIAC30Desc DDI 300mm Standard Cannon
+ComponentDDIAC2 DDI Autocannon/20mm
+ComponentDDIAC2Desc
+ComponentDDIAC5 DDI Autocannon/50mm
+ComponentDDIAC5Desc
+ComponentDDIAC10 DDI Autocannon/100mm
+ComponentDDIAC10Desc
+ComponentDDIAC15 DDI Autocannon/150mm
+ComponentDDIAC15Desc
+ComponentDDIAC20 DDI Autocannon/200mm
+ComponentDDIAC20Desc
+ComponentDDIAC30 DDI Autocannon/300mm
+ComponentDDIAC30Desc
 
-ComponentDDIBAC2 DDI 20mm Burstfire Cannon
-ComponentDDIBAC5 DDI 50mm Burstfire Cannon
-ComponentDDIBAC10 DDI 100mm Burstfire Cannon
-ComponentDDIBAC15 DDI 150mm Burstfire Cannon
-ComponentDDIBAC20 DDI 200mm Burstfire Cannon
-ComponentDDIBAC30 DDI 300mm Burstfire Cannon
+ComponentDDIBAC2 DDI Burst Autocannon/20mm
+ComponentDDIBAC5 DDI Burst Autocannon/50mm
+ComponentDDIBAC10 DDI Burst Autocannon/100mm
+ComponentDDIBAC15 DDI Burst Autocannon/150mm
+ComponentDDIBAC20 DDI Burst Autocannon/200mm
+ComponentDDIBAC30 DDI Burst Autocannon/300mm
 ComponentDDIBAC2Desc
 ComponentDDIBAC5Desc
 ComponentDDIBAC10Desc
@@ -386,48 +408,48 @@ ComponentDDIBAC30Desc
 
 #Component Ammo Sets
 
-ComponentSetAmmoAC AC Ammo - AC - Ballistic
-ComponentSetAmmoACAoe HE AC Ammo - AC - Ballistic
-ComponentSetAmmoACAP AP AC Ammo - AC - Ballistic
-ComponentSetAmmoACC C AC Ammo - AC - Ballistic
-ComponentSetAmmoACI I AC Ammo - AC - Ballistic
-ComponentSetAmmoACM M AC Ammo - AC - Ballistic
-ComponentSetAmmoACP P AC Ammo - AC - Ballistic
-ComponentSetAmmoFAC F AC Ammo - AC - Ballistic
+ComponentSetAmmoAC Autocannon Ammo - AC - Ballistic
+ComponentSetAmmoACAoe High Explosive Autocannon Ammo - AC - Ballistic
+ComponentSetAmmoACAP Armor Piercing Autocannon Ammo - AC - Ballistic
+ComponentSetAmmoACC Caseless Autocannon Ammo - AC - Ballistic
+ComponentSetAmmoACI Incendiary Autocannon Ammo - AC - Ballistic
+ComponentSetAmmoACM Magnum Autocannon Ammo - AC - Ballistic
+ComponentSetAmmoACP Precision Autocannon Ammo - AC - Ballistic
+ComponentSetAmmoFAC Flak Autocannon Ammo - AC - Ballistic
 
-ComponentSetAmmoBAC BAC Ammo - BAC - Ballistic
+ComponentSetAmmoBAC Burst Autocannon Ammo - BAC - Ballistic
 
-ComponentSetAmmoCAC CAC Ammo - CAC - Ballistic
+ComponentSetAmmoCAC Canister Autocannon Ammo - CAC - Ballistic
 
-ComponentSetAmmoGH GH Ammo - GH - Ballistic
+ComponentSetAmmoGH Gun Howitzer Ammo - GH - Ballistic
 
-ComponentSetAmmoHVAC HVAC Ammo - HVAC - Ballistic
+ComponentSetAmmoHVAC High Velocity Autocannon Ammo - HVAC - Ballistic
 
-ComponentSetAmmoMG MG Ammo - MG/LMG/HMG - Ballistic
+ComponentSetAmmoMG Machine Gun Ammo - MG/LMG/HMG - Ballistic
 
-ComponentSetAmmoRAC RAC Ammo - RAC - Ballistic
+ComponentSetAmmoRAC Rotary Autocannon Ammo - RAC - Ballistic
 
 ComponentSetAmmoSlug Slug Ammo - GR/Rail - Ballistic
 
-ComponentSetAmmoSlugCan CSlug Ammo - CGR - Ballistic
+ComponentSetAmmoSlugCan Canister Slug Ammo - CGR - Ballistic
 
-ComponentSetAmmoDRM DRM Ammo - DRM - Missile
+ComponentSetAmmoDRM Dynamic Range Missile Ammo - DRM - Missile
 
-ComponentSetAmmoLRM LRM Ammo - LRM - Missile
+ComponentSetAmmoLRM Long Range Missile Ammo - LRM - Missile
 
-ComponentSetAmmoLRMA LRMA Ammo - LRMA - Missile
+ComponentSetAmmoLRMA Advanced Long Range Missile Ammo - LRMA - Missile
 
-ComponentSetAmmoMRM MRM Ammo - MRM - Missile
+ComponentSetAmmoMRM Medium Range Missile Ammo - MRM - Missile
 
-ComponentSetAmmoSRM SRM Ammo - SRM - Missile
+ComponentSetAmmoSRM Short Range Missile Ammo - SRM - Missile
 
-ComponentSetAmmoSRMA ASRM Ammo - ASRM - Missile
+ComponentSetAmmoSRMA Advanced Short Range Missile Ammo - ASRM - Missile
 
-ComponentSetAmmoSRMH HSRM Ammo - HSRM - Missle
+ComponentSetAmmoSRMH Heavy Short Range Missile Ammo - HSRM - Missle
 
-ComponentSetAmmoTAM TAM Ammo - TAM - Missile
+ComponentSetAmmoTAM Tactical Artillery Missile Ammo - TAM - Missile
 
-ComponentSetAmmoCIWS CIWS Ammo - CIWS - Missile Defence
+ComponentSetAmmoCIWS Close In Weapon System Ammo - CIWS - Missile Defence
 
 #Component Sets
 
@@ -469,7 +491,11 @@ ComponentSetPCER Extended Range Particle Cannons - Energy
 ComponentSetPCSN Snub Nose Particle Cannons - Energy
 ComponentSetTwinPC Twin Particle Cannons - Energy
 
-ComponentSetPA Plasma Accelerator - Energy
+ComponentSetCPC Charging Particle Cannons - Energy
+
+ComponentSetPA Plasma Accelerators - Energy
+
+ComponentSetSR Static Rifles - Energy
 
 ComponentSetDRM Dynamic Range Missiles - DRM - Missile
 ComponentSetLRM Long Range Missiles - LRM - Missile
@@ -479,10 +505,10 @@ ComponentSetMRR Medium Range Rockets - Missile
 ComponentSetSRM Short Range Missiles - SRM - Missile
 ComponentSetSRMA Advanced Short Range Missiles - SRMA - Missile
 ComponentSetSRMH Heavy Short Range Missiles - SRMH - Missile
-ComponentSetTM Tactical Missile Launcher - TAML - Missile
+ComponentSetTM Tactical Artillery Missile Launcher - TAML - Missile
 
 ComponentSetCoolantTank CoolantTanks - Equipment
-ComponentSetElectrionics Electronics - Equipment
+ComponentSetElectronics Electronics - Equipment
 ComponentSetEngine Standard Engines - Reactor
 ComponentSetEngineLight Light Engines - Reactor
 ComponentSetEngineUltraLight Ultra Light Engines - Reactor
@@ -500,3 +526,909 @@ ComponentSetWeaponModsEnergy Energy Weapon Mods - Equipment
 
 ComponentSetDDIAC DDI - AC - Ballistic
 ComponentSetDDIBAC DDI - BAC - Ballistic
+
+#Vanilla Components
+ComponentAmmoAC2cm_I Autocannon/2cm Mag (Half Ton)
+ComponentAmmoAC2cm_II Autocannon/2cm Mag (Full Ton)
+ComponentAmmoAC2cm_III Autocannon/2cm Mag (Double Ton)
+ComponentAmmoAC2cmDesc Description Required!
+
+ComponentAmmoAC5cm_I Autocannon/5cm Mag (Half Ton)
+ComponentAmmoAC5cm_II Autocannon/5cm Mag (Full Ton)
+ComponentAmmoAC5cm_III Autocannon/5cm Mag (Double Ton)
+ComponentAmmoAC5cmDesc Description Required!
+
+ComponentAmmoAC10cm_I Autocannon/10cm Mag (Half Ton)
+ComponentAmmoAC10cm_II Autocannon/10cm Mag (Full Ton)
+ComponentAmmoAC10cm_III Autocannon/10cm Mag (Double Ton)
+ComponentAmmoAC10cmDesc Description Required!
+
+ComponentAmmoAC15cm_I Autocannon/15cm Mag (Half Ton)
+ComponentAmmoAC15cm_II Autocannon/15cm Mag (Full Ton)
+ComponentAmmoAC15cm_III Autocannon/15cm Mag (Double Ton)
+ComponentAmmoAC15cmDesc Description Required!
+
+ComponentAmmoAC20cm_I Autocannon/20cm Mag (Half Ton)
+ComponentAmmoAC20cm_II Autocannon/20cm Mag (Full Ton)
+ComponentAmmoAC20cm_III Autocannon/20cm Mag (Double Ton)
+ComponentAmmoAC20cmDesc Description Required!
+
+ComponentAmmoAC30cm_I Autocannon/30cm Mag (Half Ton)
+ComponentAmmoAC30cm_II Autocannon/30cm Mag (Full Ton)
+ComponentAmmoAC30cm_III Autocannon/30cm Mag (Double Ton)
+ComponentAmmoAC30cmDesc Description Required!
+
+ComponentAmmoBAC2cm_I Burst Autocannon/2cm Mag (Half Ton)
+ComponentAmmoBAC2cm_II Burst Autocannon/2cm Mag (Full Ton)
+ComponentAmmoBAC2cm_III Burst Autocannon/2cm Mag (Double Ton)
+ComponentAmmoBAC2cmDesc Description Required!
+
+
+ComponentAmmoBAC5cm_I Burst Autocannon/5cm Mag (Half Ton)
+ComponentAmmoBAC5cm_II Burst Autocannon/5cm Mag (Full Ton)
+ComponentAmmoBAC5cm_III Burst Autocannon/5cm Mag (Double Ton)
+ComponentAmmoBAC5cmDesc Description Required!
+
+ComponentAmmoBAC10cm_I Burst Autocannon/10cm Mag (Half Ton)
+ComponentAmmoBAC10cm_II Burst Autocannon/10cm Mag (Full Ton)
+ComponentAmmoBAC10cm_III Burst Autocannon/10cm Mag (Double Ton)
+ComponentAmmoBAC10cmDesc Description Required!
+
+ComponentAmmoBAC15cm_I Burst Autocannon/15cm Mag (Half Ton)
+ComponentAmmoBAC15cm_II Burst Autocannon/15cm Mag (Full Ton)
+ComponentAmmoBAC15cm_III Burst Autocannon/15cm Mag (Double Ton)
+ComponentAmmoBAC15cmDesc Description Required!
+
+ComponentAmmoBAC20cm_I Burst Autocannon/20cm Mag (Half Ton)
+ComponentAmmoBAC20cm_II Burst Autocannon/20cm Mag (Full Ton)
+ComponentAmmoBAC20cm_III Burst Autocannon/20cm Mag (Double Ton)
+ComponentAmmoBAC20cmDesc Description Required!
+
+ComponentAmmoBAC30cm_I Burst Autocannon/30cm Mag (Half Ton)
+ComponentAmmoBAC30cm_II Burst Autocannon/30cm Mag (Full Ton)
+ComponentAmmoBAC30cm_III Burst Autocannon/30cm Mag (Double Ton)
+ComponentAmmoBAC30cmDesc Description Required!
+
+ComponentAmmoCAC2cm_I Cannister Autocannon/2cm Mag (Half Ton)
+ComponentAmmoCAC2cm_II Cannister Autocannon/2cm Mag (Full Ton)
+ComponentAmmoCAC2cm_III Cannister Autocannon/2cm Mag (Double Ton)
+ComponentAmmoCAC2cmDesc Description Required!
+
+ComponentAmmoCAC5cm_I Cannister Autocannon/5cm Mag (Half Ton)
+ComponentAmmoCAC5cm_II Cannister Autocannon/5cm Mag (Full Ton)
+ComponentAmmoCAC5cm_III Cannister Autocannon/5cm Mag (Double Ton)
+ComponentAmmoCAC5cmDesc Description Required!
+
+ComponentAmmoCAC10cm_I Cannister Autocannon/10cm Mag (Half Ton)
+ComponentAmmoCAC10cm_II Cannister Autocannon/10cm Mag (Full Ton)
+ComponentAmmoCAC10cm_III Cannister Autocannon/10cm Mag (Double Ton)
+ComponentAmmoCAC10cmDesc Description Required!
+
+ComponentAmmoCAC15cm_I Cannister Autocannon/15cm Mag (Half Ton)
+ComponentAmmoCAC15cm_II Cannister Autocannon/15cm Mag (Full Ton)
+ComponentAmmoCAC15cm_III Cannister Autocannon/15cm Mag (Double Ton)
+ComponentAmmoCAC15cmDesc Description Required!
+
+ComponentAmmoCAC20cm_I Cannister Autocannon/20cm Mag (Half Ton)
+ComponentAmmoCAC20cm_II Cannister Autocannon/20cm Mag (Full Ton)
+ComponentAmmoCAC20cm_III Cannister Autocannon/20cm Mag (Double Ton)
+ComponentAmmoCAC20cmDesc Description Required!
+
+ComponentAmmoCAC30cm_I Cannister Autocannon/30cm Mag (Half Ton)
+ComponentAmmoCAC30cm_II Cannister Autocannon/30cm Mag (Full Ton)
+ComponentAmmoCAC30cm_III Cannister Autocannon/30cm Mag (Double Ton)
+ComponentAmmoCAC30cmDesc Description Required!
+
+ComponentAmmoHVAC2cm_I High Velocity Autocannon/2cm Mag (Half Ton)
+ComponentAmmoHVAC2cm_II High Velocity Autocannon/2cm Mag (Full Ton)
+ComponentAmmoHVAC2cm_III High Velocity Autocannon/2cm Mag (Double Ton)
+ComponentAmmoHVAC2cmDesc Description Required!
+
+ComponentAmmoHVAC5cm_I High Velocity Autocannon/5cm Mag (Half Ton)
+ComponentAmmoHVAC5cm_II High Velocity Autocannon/5cm Mag (Full Ton)
+ComponentAmmoHVAC5cm_III High Velocity Autocannon/5cm Mag (Double Ton)
+ComponentAmmoHVAC5cmDesc Description Required!
+
+ComponentAmmoHVAC10cm_I High Velocity Autocannon/10cm Mag (Half Ton)
+ComponentAmmoHVAC10cm_II High Velocity Autocannon/10cm Mag (Full Ton)
+ComponentAmmoHVAC10cm_III High Velocity Autocannon/10cm Mag (Double Ton)
+ComponentAmmoHVAC10cmDesc Description Required!
+
+ComponentAmmoHVAC15cm_I High Velocity Autocannon/15cm Mag (Half Ton)
+ComponentAmmoHVAC15cm_II High Velocity Autocannon/15cm Mag (Full Ton)
+ComponentAmmoHVAC15cm_III High Velocity Autocannon/15cm Mag (Double Ton)
+ComponentAmmoHVAC15cmDesc Description Required!
+
+ComponentAmmoHVAC20cm_I High Velocity Autocannon/20cm Mag (Half Ton)
+ComponentAmmoHVAC20cm_II High Velocity Autocannon/20cm Mag (Full Ton)
+ComponentAmmoHVAC20cm_III High Velocity Autocannon/20cm Mag (Double Ton)
+ComponentAmmoHVAC20cmDesc Description Required!
+
+ComponentAmmoHVAC30cm_I High Velocity Autocannon/30cm Mag (Half Ton)
+ComponentAmmoHVAC30cm_II High Velocity Autocannon/30cm Mag (Full Ton)
+ComponentAmmoHVAC30cm_III High Velocity Autocannon/30cm Mag (Double Ton)
+ComponentAmmoHVAC30cmDesc Description Required!
+
+ComponentAmmoGH10cm_I GunHowitzer/10cm Mag (Half Ton)
+ComponentAmmoGH10cm_II GunHowitzer/10cm Mag (Full Ton)
+ComponentAmmoGH10cm_III GunHowitzer/10cm Mag (Double Ton)
+ComponentAmmoGH10cmDesc Description Required!
+
+ComponentAmmoGH20cm_I GunHowitzer/20cm Mag (Half Ton)
+ComponentAmmoGH20cm_II GunHowitzer/20cm Mag (Full Ton)
+ComponentAmmoGH20cm_III GunHowitzer/20cm Mag (Double Ton)
+ComponentAmmoGH20cmDesc Description Required!
+
+ComponentAmmoMG_I Machine Gun Mag (Half Ton)
+ComponentAmmoMG_II Machine Gun Mag (Full Ton)
+ComponentAmmoMG_III Machine Gun Mag (Double Ton)
+ComponentAmmoMGDesc Description Required!
+
+ComponentAmmoHMG_I Heavy Machine Gun Mag (Half Ton)
+ComponentAmmoHMG_II Heavy Machine Gun Mag (Full Ton)
+ComponentAmmoHMG_III Heavy Machine Gun Mag (Double Ton)
+ComponentAmmoHMGDesc Description Required!
+
+ComponentAmmoLRDM_I Long Range-Dynamic Missle Mag (Half Ton)
+ComponentAmmoLRDM_II Long Range-Dynamic Missle Mag (Full Ton)
+ComponentAmmoLRDM_III Long Range-Dynamic Missle Mag (Double Ton)
+ComponentAmmoLRDMDesc Description Required!
+
+ComponentAmmoMRDM_I Medium Range-Dynamic Missile Mag (Half Ton)
+ComponentAmmoMRDM_II Medium Range-Dynamic Missile Mag (Full Ton)
+ComponentAmmoMRDM_III Medium Range-Dynamic MissileMag (Double Ton)
+ComponentAmmoMRDMDesc Description Required!
+
+ComponentAmmoSRDM_I Short Range-Dynamic Missile Mag (Half Ton)
+ComponentAmmoSRDM_II Short Range-Dynamic Missile Mag (Full Ton)
+ComponentAmmoSRDM_III Short Range-Dynamic Missile Mag (Double Ton)
+ComponentAmmoSRDMDesc Description Required!
+
+ComponentAmmoLMG_I Light Machine Gun Mag (Half Ton)
+ComponentAmmoLMG_II Light Machine Gun Mag (Full Ton)
+ComponentAmmoLMG_III Light Machine Gun Mag (Double Ton)
+ComponentAmmolMGDesc Description Required!
+
+ComponentAmmoLRM_I Long Range Missile Mag (Half Ton)
+ComponentAmmoLRM_II Long Range Missile Mag (Full Ton)
+ComponentAmmoLRM_III Long Range Missile Mag (Double Ton)
+ComponentAmmoLRMDesc Description Required!
+
+ComponentAmmoALRM_I Advanced-Long Range Missile Mag (Half Ton)
+ComponentAmmoALRM_II Advanced-Long Range Missile Mag (Full Ton)
+ComponentAmmoALRM_III Advanced-Long Range Missile Mag (Double Ton)
+ComponentAmmoALRMDesc Description Required!
+
+ComponentAmmoULRM_I Ultra-Long Range Missile Mag (Half Ton)
+ComponentAmmoULRM_II Ultra-Long Range Missile Mag (Full Ton)
+ComponentAmmoULRM_III Ultra-Long Range Missile Mag (Double Ton)
+ComponentAmmoULRMDesc Description Required!
+
+ComponentAmmoSLRM_I Smart-Long Range Missile Mag (Half Ton)
+ComponentAmmoSLRM_II Smart-Long Range Missile Mag (Full Ton)
+ComponentAmmoSLRM_III Smart-Long Range Missile Mag (Double Ton)
+ComponentAmmoSLRMDesc Description Required!
+
+ComponentAmmoMRM_I Medium Range Missile Mag (Half Ton)
+ComponentAmmoMRM_II Medium Range Missile Mag (Full Ton)
+ComponentAmmoMRM_III Medium Range Missile Mag (Double Ton)
+ComponentAmmoMRMDesc Description Required!
+
+ComponentAmmoGMRM_I Guided-Medium Range Missile Mag (Half Ton)
+ComponentAmmoGMRM_II Guided-Medium Range Missile Mag (Full Ton)
+ComponentAmmoGMRM_III Guided-Medium Range Missile Mag (Double Ton)
+ComponentAmmoGMRMDesc Description Required!
+
+ComponentAmmoSMRM_I Smart-Medium Range Missile (Half Ton)
+ComponentAmmoSMRM_II Smart-Medium Range Missile Mag (Full Ton)
+ComponentAmmoSMRM_III Smart-Medium Range Missile Mag (Double Ton)
+ComponentAmmoSMRMDesc Description Required!
+
+ComponentAmmoSRM_I Short Range Missile Mag (Half Ton)
+ComponentAmmoSRM_II Short Range Missile Mag (Full Ton)
+ComponentAmmoSRM_III Short Range Missile Mag (Double Ton)
+ComponentAmmoSRMDesc Description Required!
+
+ComponentAmmoTSRM_I Thermal-Short Range Missile Mag (Half Ton)
+ComponentAmmoTSRM_II Thermal-Short Range Missile Mag (Full Ton)
+ComponentAmmoTSRM_III Thermal-Short Range Missile Mag (Double Ton)
+
+ComponentAmmoTSRMDesc Description Required!
+ComponentAmmoGSRM_I Guided-Short Range Missile Mag (Half Ton)
+ComponentAmmoGSRM_II Guided-Short Range Missile Mag (Full Ton)
+ComponentAmmoGSRM_III Guided-Short Range Missile Mag (Double Ton)
+ComponentAmmoGSRMDesc Description Required!
+
+ComponentAmmoSSRM_I Smart-Short Range Missile Mag (Half Ton)
+ComponentAmmoSSRM_II Smart-Short Range Missile Mag (Full Ton)
+ComponentAmmoSSRM_III Smart-Short Range Missile Mag (Double Ton)
+ComponentAmmoSSRMDesc Description Required!
+
+ComponentAmmoASRM_I Advanced-Short Range Missile Mag (Half Ton)
+ComponentAmmoASRM_II Advanced-Short Range Missile Mag (Full Ton)
+ComponentAmmoASRM_III Advanced-Short Range Missile Mag (Double Ton)
+ComponentAmmoASRMDesc Description Required!
+
+ComponentAmmoHSRM_I Heavy-Short Range Missile Mag (Half Ton)
+ComponentAmmoHSRM_II Heavy-Short Range Missile Mag (Full Ton)
+ComponentAmmoHSRM_III Heavy-Short Range Missile Mag (Double Ton)
+ComponentAmmoHSRMDesc Description Required!
+
+ComponentAmmoRAC2cm_I Rotarty Autocannon/2cm Mag (Half Ton)
+ComponentAmmoRAC2cm_II Rotarty Autocannon/2cm Mag (Full Ton)
+ComponentAmmoRAC2cm_III Rotarty Autocannon/2cm Mag (Double Ton)
+ComponentAmmoRAC2cmDesc Description Required!
+
+ComponentAmmoRAC5cm_I Rotarty Autocannon/5cm Mag (Half Ton)
+ComponentAmmoRAC5cm_II Rotarty Autocannon/5cm Mag (Full Ton)
+ComponentAmmoRAC5cm_III Rotarty Autocannon/5cm Mag (Double Ton)
+ComponentAmmoRAC5cmDesc Description Required!
+
+ComponentAmmoRAC10cm_I Rotarty Autocannon/10cm Mag (Half Ton)
+ComponentAmmoRAC10cm_II Rotarty Autocannon/10cm Mag (Full Ton)
+ComponentAmmoRAC10cm_III Rotarty Autocannon/10cm Mag (Double Ton)
+ComponentAmmoRAC10cmDesc Description Required!
+
+ComponentAmmoSlug4cm_I Slug 4cm Mag (Half Ton)
+ComponentAmmoSlug4cm_II Slug 4cm Mag (Full Ton)
+ComponentAmmoSlug4cm_III Slug 4cm Mag (Double Ton)
+ComponentAmmoSlug4cmDesc Description Required!
+
+ComponentAmmoSlug6cm_I Slug 6cm Mag (Half Ton)
+ComponentAmmoSlug6cm_II Slug 6cm Mag (Full Ton)
+ComponentAmmoSlug6cm_III Slug 6cm Mag (Double Ton)
+ComponentAmmoSlug6cmDesc Description Required!
+
+ComponentAmmoSlug2cm_I Slug 2cm Mag (Half Ton)
+ComponentAmmoSlug2cm_II Slug 2cm Mag (Full Ton)
+ComponentAmmoSlug2cm_III Slug 2cm Mag (Double Ton)
+ComponentAmmoSlug2cmDesc Description Required!
+
+ComponentAmmoSlug1cm_I Slug 1cm Mag (Half Ton)
+ComponentAmmoSlug1cm_II Slug 1cm Mag (Full Ton)
+ComponentAmmoSlug1cm_III Slug 1cm Mag (Double Ton)
+ComponentAmmoSlug1cmDesc Description Required!
+
+ComponentAmmoTAM_I Tactical Artillery Missile Mag (Half Ton)
+ComponentAmmoTAM_II Tactical Artillery Missile Mag (Full Ton)
+ComponentAmmoTAM_III Tactical Artillery Missile Mag (Double Ton)
+ComponentAmmoTAMDesc Description Required!
+
+ComponentAmmoTAMC_I Tactical Artillery Missile-Cluster Mag (Half Ton)
+ComponentAmmoTAMC_II Tactical Artillery Missile-Cluster Mag (Full Ton)
+ComponentAmmoTAMC_III Tactical Artillery Missile-Cluster Mag (Double Ton)
+ComponentAmmoTAMCDesc Description Required!
+
+ComponentAmmoTAMM_I Tactical Artillery Missile-Mirv Mag (Half Ton)
+ComponentAmmoTAMM_II Tactical Artillery Missile-Mirv Mag (Full Ton)
+ComponentAmmoTAMM_III Tactical Artillery Missile-Mirv Mag (Double Ton)
+ComponentAmmoTAMMDesc Description Required!
+
+ComponentAmmoCIWS_I Close In Weapon System Mag (Half Ton)
+ComponentAmmoCIWS_II Close In Weapon System Mag (Full Ton)
+ComponentAmmoCIWS_III Close In Weapon System Mag (Double Ton)
+ComponentAmmoCIWSDesc Description Required!
+
+ComponentBAC2 Burst Autocannon/2cm
+ComponentBAC2Desc Description Required!
+ComponentBAC5 Burst Autocannon/5cm
+ComponentBAC5Desc Description Required!
+ComponentBAC10 Burst Autocannon/10cm
+ComponentBAC10Desc Description Required!
+ComponentBAC15 Burst Autocannon/15cm
+ComponentBAC15Desc Description Required!
+ComponentBAC20 Burst Autocannon/20cm
+ComponentBAC20Desc Description Required!
+ComponentBAC30 Burst Autocannon/30cm
+ComponentBAC30Desc Description Required!
+
+ComponentCAC2 Canister Autocannon/2cm
+ComponentCAC2Desc Description Required!
+ComponentCAC5 Canister Autocannon/5cm
+ComponentCAC5Desc Description Required!
+ComponentCAC10 Canister Autocannon/10cm
+ComponentCAC10Desc Description Required!
+ComponentCAC15 Canister Autocannon/15cm
+ComponentCAC15Desc Description Required!
+ComponentCAC20 Canister Autocannon/20cm
+ComponentCAC20Desc Description Required!
+ComponentCAC30 Canister Autocannon/30cm
+ComponentCAC30Desc Description Required!
+
+ComponentLAC2 Light Autocannon/2cm
+ComponentLAC2Desc Description Required!
+ComponentLAC5 Light Autocannon/5cm
+ComponentLAC5Desc Description Required!
+ComponentLAC10 Light Autocannon/10cm
+ComponentLAC10Desc Description Required!
+
+ComponentHVAC2 High Velocity Autocannon/2cm
+ComponentHVAC2Desc Description Required!
+ComponentHVAC5 High Velocity Autocannon/5cm
+ComponentHVAC5Desc Description Required!
+ComponentHVAC10 High Velocity Autocannon/10cm
+ComponentHVAC10Desc Description Required!
+ComponentHVAC15 High Velocity Autocannon/15cm
+ComponentHVAC15Desc Description Required!
+ComponentHVAC20 High Velocity Autocannon/20cm
+ComponentHVAC20Desc Description Required!
+ComponentHVAC30 High Velocity Autocannon/30cm
+ComponentHVAC30Desc Description Required!
+
+ComponentGH10 Gun-Howitzer/10cm
+ComponentGH10Desc Description Required!
+ComponentGH20 Gun-Howitzer/20cm
+ComponentGH20Desc Description Required!
+
+ComponentDRM3 Dynamic Range Missile Launcher x3
+ComponentDRM3Desc Description Required!
+ComponentDRM6 Dynamic Range Missile Launcher x6
+ComponentDRM6Desc Description Required!
+ComponentDRM9 Dynamic Range Missile Launcher x9
+ComponentDRM9Desc Description Required!
+ComponentDRM12 Dynamic Range Missile Launcher x12
+ComponentDRM12Desc Description Required!
+
+ComponentFlamer Flamer
+ComponentFlamerDesc Description Required!
+ComponentFlamerLight Light Flamer
+ComponentFlamerLightDesc Description Required!
+ComponentFlamerHeavy Heavy Flamer
+ComponentFlamerHeavyDesc Description Required!
+
+ComponentLaserMicro Micro Laser
+ComponentLaserMicroDesc Description Required!
+ComponentLaserSmall Small Laser
+ComponentLaserSmallDesc Description Required!
+ComponentLaserSmallArray6 Small Laser Array x6
+ComponentLaserSmallArray6Desc Description Required!
+ComponentLaserMedium Medium Laser
+ComponentLaserMediumDesc Description Required!
+ComponentLaserMediumArray4 Medium Laser Array x4
+ComponentLaserMediumArray4Desc Description Required!
+ComponentLaserLarge Large Laser
+ComponentLaserLargeArray2 Large Laser Array x2
+ComponentLaserLargeArray2Desc Description Required!
+ComponentLaserLargeDesc Description Required!
+
+ComponentLaserMicroER Micro Extended Range Laser
+ComponentLaserMicroERDesc Description Required!
+ComponentLaserSmallER Small Extended Range Laser
+ComponentLaserSmallERDesc Description Required!
+ComponentLaserMediumER Medium Extended Range Laser
+ComponentLaserMediumERDesc Description Required!
+ComponentLaserLargeER Large Extended Range Laser
+ComponentLaserLargeERDesc Description Required!
+
+ComponentLaserPulseMicro Micro Pulse Laser
+ComponentLaserPulseMicroDesc Description Required!
+ComponentLaserPulseSmall Small Pulse Laser
+ComponentLaserPulseSmallDesc Description Required!
+ComponentLaserPulseMedium Medium Pulse Laser
+ComponentLaserPulseMediumDesc Description Required!
+ComponentLaserPulseLarge Large Pulse Laser
+ComponentLaserPulseLargeDesc Description Required!
+
+ComponentLaserHeavyMicro Micro Heavy Laser
+ComponentLaserHeavyMicroDesc Description Required!
+ComponentLaserHeavySmall Small Heavy Laser
+ComponentLaserHeavySmallDesc Description Required!
+ComponentLaserHeavyMedium Medium Heavy Laser
+ComponentLaserHeavyMediumDesc Description Required!
+ComponentLaserHeavyLarge Large Heavy Laser
+ComponentLaserHeavyLargeDesc Description Required!
+
+ComponentLaserERHeavyMicro Micro Extended Range Heavy Laser
+ComponentLaserERHeavyMicroDesc Description Required!
+ComponentLaserERHeavySmall Small Extended Range Heavy Laser
+ComponentLaserERHeavySmallDesc Description Required!
+ComponentLaserERHeavyMedium Medium Extended Range Heavy Laser
+ComponentLaserERHeavyMediumDesc Description Required!
+ComponentLaserERHeavyLarge Large Extended Range Heavy Laser
+ComponentLaserERHeavyLargeDesc Description Required!
+
+ComponentLaserERPulseMicro Micro Extended Range Pulse Laser
+ComponentLaserERPulseMicroDesc Description Required!
+ComponentLaserERPulseSmall Small Extended Range Pulse Laser
+ComponentLaserERPulseSmallDesc Description Required!
+ComponentLaserERPulseMedium Medium Extended Range Pulse Laser
+ComponentLaserERPulseMediumDesc Description Required!
+ComponentLaserERPulseLarge Large Extended Range Pulse Laser
+ComponentLaserERPulseLargeDesc Description Required!
+
+ComponentLaserHyperPulseMicro Micro Hyper Pulse Laser
+ComponentLaserHyperPulseMicroDesc Description Required!
+ComponentLaserHyperPulseSmall Small Hyper Pulse Laser
+ComponentLaserHyperPulseSmallDesc Description Required!
+ComponentLaserHyperPulseMedium Medium Hyper Pulse Laser
+ComponentLaserHyperPulseMediumDesc Description Required!
+ComponentLaserHyperPulseLarge Large Hyper Pulse Laser
+ComponentLaserHyperPulseLargeDesc Description Required!
+
+ComponentLaserLightMicro Micro Light Laser
+ComponentLaserLightMicroDesc Description Required!
+ComponentLaserLightSmall Small Light Laser
+ComponentLaserLightSmallDesc Description Required!
+ComponentLaserLightMedium Medium Light Laser
+ComponentLaserLightMediumDesc Description Required!
+ComponentLaserLightLarge Large Light Laser
+ComponentLaserLightLargeDesc Description Required!
+
+ComponentLaserContinuousMicro Micro Continuous Laser
+ComponentLaserContinuousMicroDesc Description Required!
+ComponentLaserContinuousSmall Small Continuous Laser
+ComponentLaserContinuousSmallDesc Description Required!
+ComponentLaserContinuousMedium Medium Continuous Laser
+ComponentLaserContinuousMediumDesc Description Required!
+ComponentLaserContinuousLarge Large Continuous Laser
+ComponentLaserContinuousLargeDesc Description Required!
+
+ComponentLaserMicroCycleCharge Micro Cycle Charge Laser
+ComponentLaserMicroCycleChargeDesc Description Required!
+ComponentLaserSmallCycleCharge Small Cycle Charge Laser
+ComponentLaserSmallCycleChargeDesc Description Required!
+ComponentLaserMediumCycleCharge Medium Cycle Charge Laser
+ComponentLaserMediumCycleChargeDesc Description Required!
+ComponentLaserLargeCycleCharge Large Cycle Charge Laser
+ComponentLaserLargeCycleChargeDesc Description Required!
+
+ComponentLRM5 Long Range Missile Launcher x5
+ComponentLRM5Desc Description Required!
+ComponentLRM10 Long Range Missile Launcher x10
+ComponentLRM10Desc Description Required!
+ComponentLRM15 Long Range Missile Launcher x15
+ComponentLRM15Desc Description Required!
+ComponentLRM20 Long Range Missile Launcher x20
+ComponentLRM20Desc Description Required!
+
+ComponentALRM5 Advanced Long Range Missile Launcher x5
+ComponentALRM5Desc Description Required!
+ComponentALRM10 Advanced Long Range Missile Launcher x10
+ComponentALRM10Desc Description Required!
+ComponentALRM15 Advanced Long Range Missile Launcher x15
+ComponentALRM15Desc Description Required!
+ComponentALRM20 Advanced Long Range Missile Launcher x20
+ComponentALRM20Desc Description Required!
+
+ComponentULRM5 Ultra Long Range Missile Launcher x5
+ComponentULRM5Desc Description Required!
+ComponentULRM10 Ultra Long Range Missile Launcher x10
+ComponentULRM10Desc Description Required!
+ComponentULRM15 Ultra Long Range Missile Launcher x15
+ComponentULRM15Desc Description Required!
+ComponentULRM20 Ultra Long Range Missile Launcher x20
+ComponentULRM20Desc Description Required!
+
+ComponentSLRM5 Smart Long Range Missile Launcher x5
+ComponentSLRM5Desc Description Required!
+ComponentSLRM10 Smart Long Range Missile Launcher x10
+ComponentSLRM10Desc Description Required!
+ComponentSLRM15 Smart Long Range Missile Launcher x15
+ComponentSLRM15Desc Description Required!
+ComponentSLRM20 Smart Long Range Missile Launcher x20
+ComponentSLRM20Desc Description Required!
+
+ComponentMG Machine Gun
+ComponentMGDesc Description Required!
+ComponentMGA3 Machine Gun Array x3
+ComponentMGA3Desc Description Required!
+ComponentMGA5 Machine Gun Array x5
+ComponentMGA5Desc Description Required!
+
+ComponentHMG Heavy Machine Gun
+ComponentHMGDesc Description Required!
+ComponentHMGA3 Heavy Machine Gun Array x3
+ComponentHMGA3Desc Description Required!
+ComponentHMGA5 Heavy Machine Gun Array x5
+ComponentHMGA5Desc Description Required!
+
+ComponentLMG Light Machine Gun
+ComponentLMGDesc Description Required!
+ComponentLMGA3 Light Machine Gun Array x3
+ComponentLMGA3Desc Description Required!
+ComponentLMGA5 Light Machine Gun Array x5
+ComponentLMGA5Desc Description Required!
+
+ComponentMRM5 Medium Range Missile Launcher x5
+ComponentMRM5Desc Description Required!
+ComponentMRM10 Medium Range Missile Launcher x10
+ComponentMRM10Desc Description Required!
+ComponentMRM15 Medium Range Missile Launcher x15
+ComponentMRM15Desc Description Required!
+ComponentMRM20 Medium Range Missile Launcher x20
+ComponentMRM20Desc Description Required!
+ComponentMRM25 Medium Range Missile Launcher x25
+ComponentMRM25Desc Description Required!
+ComponentMRM30 Medium Range Missile Launcher x30
+ComponentMRM30Desc Description Required!
+ComponentMRM35 Medium Range Missile Launcher x35
+ComponentMRM35Desc Description Required!
+ComponentMRM40 Medium Range Missile Launcher x40
+ComponentMRM40Desc Description Required!
+
+ComponentMRR5 Medium Range Rocket Pod x5
+ComponentMRR5Desc Description Required!
+ComponentMRR10 Medium Range Rocket Pod x10
+ComponentMRR10Desc Description Required!
+ComponentMRR15 Medium Range Rocket Pod x15
+ComponentMRR15Desc Description Required!
+ComponentMRR20 Medium Range Rocket Pod x20
+ComponentMRR20Desc Description Required!
+ComponentMRR25 Medium Range Rocket Pod x25
+ComponentMRR25Desc Description Required!
+ComponentMRR30 Medium Range Rocket Pod x30
+ComponentMRR30Desc Description Required!
+ComponentMRR35 Medium Range Rocket Pod x35
+ComponentMRR35Desc Description Required!
+ComponentMRR40 Medium Range Rocket Pod x40
+ComponentMRR40Desc Description Required!
+
+ComponentSMRM5 Smart Medium Range Missile Launcher x5
+ComponentSMRM5Desc Description Required!
+ComponentSMRM10 Smart Medium Range Missile Launcher x10
+ComponentSMRM10Desc Description Required!
+ComponentSMRM15 Smart Medium Range Missile Launcher x15
+ComponentSMRM15Desc Description Required!
+ComponentSMRM20 Smart Medium Range Missile Launcher x20
+ComponentSMRM20Desc Description Required!
+ComponentSMRM25 Smart Medium Range Missile Launcher x25
+ComponentSMRM25Desc Description Required!
+ComponentSMRM30 Smart Medium Range Missile Launcher x30
+ComponentSMRM30Desc Description Required!
+ComponentSMRM35 Smart Medium Range Missile Launcher x35
+ComponentSMRM35Desc Description Required!
+ComponentSMRM40 Smart Medium Range Missile Launcher x40
+ComponentSMRM40Desc Description Required!
+
+ComponentGMRM5 Guided Medium Range Missile Launcher x5
+ComponentGMRM5Desc Description Required!
+ComponentGMRM10 Guided Medium Range Missile Launcher x10
+ComponentGMRM10Desc Description Required!
+ComponentGMRM15 Guided Medium Range Missile Launcher x15
+ComponentGMRM15Desc Description Required!
+ComponentGMRM20 Guided Medium Range Missile Launcher x20
+ComponentGMRM20Desc Description Required!
+ComponentGMRM25 Guided Medium Range Missile Launcher x25
+ComponentGMRM25Desc Description Required!
+ComponentGMRM30 Guided Medium Range Missile Launcher x30
+ComponentGMRM30Desc Description Required!
+ComponentGMRM35 Guided Medium Range Missile Launcher x35
+ComponentGMRM35Desc Description Required!
+ComponentGMRM40 Guided Medium Range Missile Launcher x40
+ComponentGMRM40Desc Description Required!
+
+ComponentParticleCannon Particle Cannon
+ComponentParticleCannonDesc Description Required!
+ComponentParticleCannonHeavy Heavy Particle Cannon
+ComponentParticleCannonHeavyDesc Description Required!
+ComponentParticleCannonLight Light Particle Cannon
+ComponentParticleCannonLightDesc Description Required!
+ComponentParticleCannonER Extended Range Particle Cannon
+ComponentParticleCannonERDesc Description Required!
+ComponentParticleCannonERHeavy Heavy Extended Range Particle Cannon
+ComponentParticleCannonERHeavyDesc Description Required!
+ComponentParticleCannonSN Snub-Nose Particle Cannon
+ComponentParticleCannonSNDesc Description Required!
+ComponentParticleCannonSNHeavy Heavy Snub-Nose Particle Cannon
+ComponentParticleCannonSNHeavyDesc Description Required!
+ComponentParticleCannonSNLight Light Snub-Nose Particle Cannon
+ComponentParticleCannonSNLightDesc Description Required!
+
+ComponentRailGun Railgun
+ComponentRailGunDesc Description Required!
+ComponentRailGunHeavy Heavy Railgun
+ComponentRailGunHeavyDesc Description Required!
+ComponentRailGunLight Light Railgun
+ComponentRailGunLightDesc Description Required!
+ComponentRailGunMicro Micro Railgun
+ComponentRailGunMicroDesc Description Required!
+
+ComponentGaussRifle Gauss Rifle
+ComponentGaussRifleDesc Description Required!
+ComponentGaussRifleHeavy Heavy Gauss Rifle
+ComponentGaussRifleHeavyDesc Description Required!
+ComponentGaussRifleLight Light Gauss Rifle
+ComponentGaussRifleLightDesc Description Required!
+ComponentGaussRifleMicro Micro Gauss Rifle
+ComponentGaussRifleMicroDesc Description Required!
+
+ComponentGSRM2 Guided Short Range Missile Launcher x2
+ComponentGSRM2Desc Description Required!
+ComponentGSRM4 Guided Short Range Missile Launcher x4
+ComponentGSRM4Desc Description Required!
+ComponentGSRM6 Guided Short Range Missile Launcher x6
+ComponentGSRM6Desc Description Required!
+ComponentGSRM12 Guided Short Range Missile Launcher x12
+ComponentGSRM12Desc Description Required!
+ComponentGSRM18 Guided Short Range Missile Launcher x18
+ComponentGSRM18Desc Description Required!
+ComponentGSRM24 Guided Short Range Missile Launcher x24
+ComponentGSRM24Desc Description Required!
+
+ComponentSSRM2 Smart Short Range Missile Launcher x2
+ComponentSSRM2Desc Description Required!
+ComponentSSRM4 Smart Short Range Missile Launcher x4
+ComponentSSRM4Desc Description Required!
+ComponentSSRM6 Smart Short Range Missile Launcher x6
+ComponentSSRM6Desc Description Required!
+ComponentSSRM12 Smart Short Range Missile Launcher x12
+ComponentSSRM12Desc Description Required!
+ComponentSSRM18 Smart Short Range Missile Launcher x18
+ComponentSSRM18Desc Description Required!
+ComponentSSRM24 Smart Short Range Missile Launcher x24
+ComponentSSRM24Desc Description Required!
+
+ComponentTSRM2 Thermal Short Range Missile Launcher x2
+ComponentTSRM2Desc Description Required!
+ComponentTSRM4 Thermal Short Range Missile Launcher x4
+ComponentTSRM4Desc Description Required!
+ComponentTSRM6 Thermal Short Range Missile Launcher x6
+ComponentTSRM6Desc Description Required!
+ComponentTSRM12 Thermal Short Range Missile Launcher x12
+ComponentTSRM12Desc Description Required!
+ComponentTSRM18 Thermal Short Range Missile Launcher x18
+ComponentTSRM18Desc Description Required!
+ComponentTSRM24 Thermal Short Range Missile Launcher x24
+ComponentTSRM24Desc Description Required!
+
+ComponentTAML Tactical Artillery Missile Launcher
+ComponentTAMLDesc Description Required!
+
+ComponentRAC2 Rotary Autocannon/2cm
+ComponentRAC2Desc Description Required!
+ComponentRAC5 Rotary Autocannon/5cm
+ComponentRAC5Desc Description Required!
+ComponentRAC10 Rotary Autocannon/10cm
+ComponentRAC10Desc Description Required!
+
+ComponentHeatBankI Heat Bank MKI
+ComponentHeatBankII Heat Bank MKII
+ComponentHeatBankIII Heat Bank MKIII
+ComponentHeatBankDesc Description Required!
+ComponentHeatSinkI Heat Sink MKI
+ComponentHeatSinkII Heat Sink MKII
+ComponentHeatSinkIII Heat Sink MKIII
+ComponentHeatSinkIV Heat Sink MKIV
+ComponentHeatSinkV Heat Sink MKV
+ComponentHeatSinkVI Heat Sink MKVI
+ComponentHeatSinkDesc Description Required!
+
+ComponentHeatSinkReactorI Reactor Heat Sink MKI
+ComponentHeatSinkReactorII Reactor Heat Sink MKII
+ComponentHeatSinkReactorIII Reactor Heat Sink MKIII
+ComponentHeatSinkReactorIV Reactor Heat Sink MKIV
+ComponentHeatSinkReactorDesc Description Required!
+
+ComponentWeaponCapacitorI Weapon Capacitor MKI
+ComponentWeaponCapacitorII Weapon Capacitor MKII
+ComponentWeaponCapacitorDesc Description Required!
+ComponentLinkedCapacitorArrayI Linked Capacitor Array MKI
+ComponentLinkedCapacitorArrayII Linked Capacitor Array MKII
+ComponentLinkedCapacitorArrayDesc Description Required!
+
+ComponentJumpJetI Jump Jet MKI
+ComponentJumpJetIDesc Description Required!
+ComponentJumpJetII Jump Jet MKII
+ComponentJumpJetIIDesc Description Required!
+ComponentJumpJetIII Jump Jet MKIII
+ComponentJumpJetIIIDesc Description Required!
+ComponentJumpJetIV Jump Jet MKIV
+ComponentJumpJetIVDesc Description Required!
+
+ComponentECM ECM
+ComponentECMDesc Description Required!
+
+ComponentCoolantTankI Coolant Tank MKI
+ComponentCoolantTankII Coolant Tank MKII
+ComponentCoolantTankDesc Description Required!
+
+ComponentRadarBoosterI Radar Booster MKI
+ComponentRadarBoosterIDesc Description Required!
+ComponentRadarBoosterII Radar Booster MKII
+ComponentRadarBoosterIIDesc Description Required!
+ComponentRadarBoosterIII Radar Booster MKIII
+ComponentRadarBoosterIIIDesc Description Required!
+
+ComponentITAS Integrated Target Acquisition System
+ComponentITASDesc Integrated Target Acquisition System is an advanced electronics package that reduces target lock-on time.
+
+ComponentCIWS Close-In Weapon System
+ComponentCIWSDesc Close-In Weapon System is an automated flak chaingun used to defend against enemy missiles.
+ComponentLCIWS Laser Close-In Weapon System
+ComponentLCIWSDesc Laser Close-In Weapon System is an automated low-power laser used to defend against enemy missiles.
+
+ComponentReactorShieldingI Reactor Shielding MKI
+ComponentReactorShieldingII Reactor Shielding MKII
+ComponentReactorShieldingIII Reactor Shielding MKIII
+ComponentReactorShieldingIV Reactor Shielding MKIV
+ComponentReactorShieldingDesc Extra layers of shielding allows reactors to function at higher temperature without risk of breach.
+
+ComponentEngineDesc Standard reactors are very compact with a high heat limit and good cooling.
+ComponentEngineLightDesc Light reactors are made of lighter materials, but have a lower heat limit and less cooling.
+ComponentEngineUltraLightDesc Ultra light reactors are made of very light materials and have minimal shielding, which makes safe operating temperature very low. 
+
+ComponentEngine100 Fusion 10.0MW
+ComponentEngine105 Fusion 10.5MW
+ComponentEngine110 Fusion 11.0MW
+ComponentEngine115 Fusion 11.5MW
+ComponentEngine120 Fusion 12.0MW
+ComponentEngine125 Fusion 12.5MW
+ComponentEngine130 Fusion 13.0MW
+ComponentEngine135 Fusion 13.5MW
+ComponentEngine140 Fusion 14.0MW
+ComponentEngine145 Fusion 14.5MW
+ComponentEngine150 Fusion 15.0MW
+ComponentEngine155 Fusion 15.5MW
+ComponentEngine160 Fusion 16.0MW
+ComponentEngine165 Fusion 16.5MW
+ComponentEngine170 Fusion 17.0MW
+ComponentEngine175 Fusion 17.5MW
+ComponentEngine180 Fusion 18.0MW
+ComponentEngine185 Fusion 18.5MW
+ComponentEngine190 Fusion 19.0MW
+ComponentEngine195 Fusion 19.5MW
+ComponentEngine200 Fusion 20.0MW
+ComponentEngine205 Fusion 20.5MW
+ComponentEngine210 Fusion 21.0MW
+ComponentEngine215 Fusion 21.5MW
+ComponentEngine220 Fusion 22.0MW
+ComponentEngine225 Fusion 22.5MW
+ComponentEngine230 Fusion 23.0MW
+ComponentEngine235 Fusion 23.5MW
+ComponentEngine240 Fusion 24.0MW
+ComponentEngine245 Fusion 24.5MW
+ComponentEngine250 Fusion 25.0MW
+ComponentEngine255 Fusion 25.5MW
+ComponentEngine260 Fusion 26.0MW
+ComponentEngine265 Fusion 26.5MW
+ComponentEngine270 Fusion 27.0MW
+ComponentEngine275 Fusion 27.5MW
+ComponentEngine280 Fusion 28.0MW
+ComponentEngine285 Fusion 28.5MW
+ComponentEngine290 Fusion 29.0MW
+ComponentEngine295 Fusion 29.5MW
+ComponentEngine300 Fusion 30.0MW
+ComponentEngine305 Fusion 30.5MW
+ComponentEngine310 Fusion 31.0MW
+ComponentEngine315 Fusion 31.5MW
+ComponentEngine320 Fusion 32.0MW
+ComponentEngine325 Fusion 32.5MW
+ComponentEngine330 Fusion 33.0MW
+ComponentEngine335 Fusion 33.5MW
+ComponentEngine340 Fusion 34.0MW
+ComponentEngine345 Fusion 34.5MW
+ComponentEngine350 Fusion 35.0MW
+ComponentEngine355 Fusion 35.5MW
+ComponentEngine360 Fusion 36.0MW
+ComponentEngine365 Fusion 36.5MW
+ComponentEngine370 Fusion 37.0MW
+ComponentEngine375 Fusion 37.5MW
+ComponentEngine380 Fusion 38.0MW
+ComponentEngine385 Fusion 38.5MW
+ComponentEngine390 Fusion 39.0MW
+ComponentEngine395 Fusion 39.5MW
+ComponentEngine400 Fusion 40.0MW
+
+ComponentEngineLight100 Light Fusion 10.0MW
+ComponentEngineLight105 Light Fusion 10.5MW
+ComponentEngineLight110 Light Fusion 11.0MW
+ComponentEngineLight115 Light Fusion 11.5MW
+ComponentEngineLight120 Light Fusion 12.0MW
+ComponentEngineLight125 Light Fusion 12.5MW
+ComponentEngineLight130 Light Fusion 13.0MW
+ComponentEngineLight135 Light Fusion 13.5MW
+ComponentEngineLight140 Light Fusion 14.0MW
+ComponentEngineLight145 Light Fusion 14.5MW
+ComponentEngineLight150 Light Fusion 15.0MW
+ComponentEngineLight155 Light Fusion 15.5MW
+ComponentEngineLight160 Light Fusion 16.0MW
+ComponentEngineLight165 Light Fusion 16.5MW
+ComponentEngineLight170 Light Fusion 17.0MW
+ComponentEngineLight175 Light Fusion 17.5MW
+ComponentEngineLight180 Light Fusion 18.0MW
+ComponentEngineLight185 Light Fusion 18.5MW
+ComponentEngineLight190 Light Fusion 19.0MW
+ComponentEngineLight195 Light Fusion 19.5MW
+ComponentEngineLight200 Light Fusion 20.0MW
+ComponentEngineLight205 Light Fusion 20.5MW
+ComponentEngineLight210 Light Fusion 21.0MW
+ComponentEngineLight215 Light Fusion 21.5MW
+ComponentEngineLight220 Light Fusion 22.0MW
+ComponentEngineLight225 Light Fusion 22.5MW
+ComponentEngineLight230 Light Fusion 23.0MW
+ComponentEngineLight235 Light Fusion 23.5MW
+ComponentEngineLight240 Light Fusion 24.0MW
+ComponentEngineLight245 Light Fusion 24.5MW
+ComponentEngineLight250 Light Fusion 25.0MW
+ComponentEngineLight255 Light Fusion 25.5MW
+ComponentEngineLight260 Light Fusion 26.0MW
+ComponentEngineLight265 Light Fusion 26.5MW
+ComponentEngineLight270 Light Fusion 27.0MW
+ComponentEngineLight275 Light Fusion 27.5MW
+ComponentEngineLight280 Light Fusion 28.0MW
+ComponentEngineLight285 Light Fusion 28.5MW
+ComponentEngineLight290 Light Fusion 29.0MW
+ComponentEngineLight295 Light Fusion 29.5MW
+ComponentEngineLight300 Light Fusion 30.0MW
+ComponentEngineLight305 Light Fusion 30.5MW
+ComponentEngineLight310 Light Fusion 31.0MW
+ComponentEngineLight315 Light Fusion 31.5MW
+ComponentEngineLight320 Light Fusion 32.0MW
+ComponentEngineLight325 Light Fusion 32.5MW
+ComponentEngineLight330 Light Fusion 33.0MW
+ComponentEngineLight335 Light Fusion 33.5MW
+ComponentEngineLight340 Light Fusion 34.0MW
+ComponentEngineLight345 Light Fusion 34.5MW
+ComponentEngineLight350 Light Fusion 35.0MW
+ComponentEngineLight355 Light Fusion 35.5MW
+ComponentEngineLight360 Light Fusion 36.0MW
+ComponentEngineLight365 Light Fusion 36.5MW
+ComponentEngineLight370 Light Fusion 37.0MW
+ComponentEngineLight375 Light Fusion 37.5MW
+ComponentEngineLight380 Light Fusion 38.0MW
+ComponentEngineLight385 Light Fusion 38.5MW
+ComponentEngineLight390 Light Fusion 39.0MW
+ComponentEngineLight395 Light Fusion 39.5MW
+ComponentEngineLight400 Light Fusion 40.0MW
+
+ComponentEngineUltraLight100 Ultra Light Fusion 10.0MW
+ComponentEngineUltraLight105 Ultra Light Fusion 10.5MW
+ComponentEngineUltraLight110 Ultra Light Fusion 11.0MW
+ComponentEngineUltraLight115 Ultra Light Fusion 11.5MW
+ComponentEngineUltraLight120 Ultra Light Fusion 12.0MW
+ComponentEngineUltraLight125 Ultra Light Fusion 12.5MW
+ComponentEngineUltraLight130 Ultra Light Fusion 13.0MW
+ComponentEngineUltraLight135 Ultra Light Fusion 13.5MW
+ComponentEngineUltraLight140 Ultra Light Fusion 14.0MW
+ComponentEngineUltraLight145 Ultra Light Fusion 14.5MW
+ComponentEngineUltraLight150 Ultra Light Fusion 15.0MW
+ComponentEngineUltraLight155 Ultra Light Fusion 15.5MW
+ComponentEngineUltraLight160 Ultra Light Fusion 16.0MW
+ComponentEngineUltraLight165 Ultra Light Fusion 16.5MW
+ComponentEngineUltraLight170 Ultra Light Fusion 17.0MW
+ComponentEngineUltraLight175 Ultra Light Fusion 17.5MW
+ComponentEngineUltraLight180 Ultra Light Fusion 18.0MW
+ComponentEngineUltraLight185 Ultra Light Fusion 18.5MW
+ComponentEngineUltraLight190 Ultra Light Fusion 19.0MW
+ComponentEngineUltraLight195 Ultra Light Fusion 19.5MW
+ComponentEngineUltraLight200 Ultra Light Fusion 20.0MW
+ComponentEngineUltraLight205 Ultra Light Fusion 20.5MW
+ComponentEngineUltraLight210 Ultra Light Fusion 21.0MW
+ComponentEngineUltraLight215 Ultra Light Fusion 21.5MW
+ComponentEngineUltraLight220 Ultra Light Fusion 22.0MW
+ComponentEngineUltraLight225 Ultra Light Fusion 22.5MW
+ComponentEngineUltraLight230 Ultra Light Fusion 23.0MW
+ComponentEngineUltraLight235 Ultra Light Fusion 23.5MW
+ComponentEngineUltraLight240 Ultra Light Fusion 24.0MW
+ComponentEngineUltraLight245 Ultra Light Fusion 24.5MW
+ComponentEngineUltraLight250 Ultra Light Fusion 25.0MW
+ComponentEngineUltraLight255 Ultra Light Fusion 25.5MW
+ComponentEngineUltraLight260 Ultra Light Fusion 26.0MW
+ComponentEngineUltraLight265 Ultra Light Fusion 26.5MW
+ComponentEngineUltraLight270 Ultra Light Fusion 27.0MW
+ComponentEngineUltraLight275 Ultra Light Fusion 27.5MW
+ComponentEngineUltraLight280 Ultra Light Fusion 28.0MW
+ComponentEngineUltraLight285 Ultra Light Fusion 28.5MW
+ComponentEngineUltraLight290 Ultra Light Fusion 29.0MW
+ComponentEngineUltraLight295 Ultra Light Fusion 29.5MW
+ComponentEngineUltraLight300 Ultra Light Fusion 30.0MW
+ComponentEngineUltraLight305 Ultra Light Fusion 30.5MW
+ComponentEngineUltraLight310 Ultra Light Fusion 31.0MW
+ComponentEngineUltraLight315 Ultra Light Fusion 31.5MW
+ComponentEngineUltraLight320 Ultra Light Fusion 32.0MW
+ComponentEngineUltraLight325 Ultra Light Fusion 32.5MW
+ComponentEngineUltraLight330 Ultra Light Fusion 33.0MW
+ComponentEngineUltraLight335 Ultra Light Fusion 33.5MW
+ComponentEngineUltraLight340 Ultra Light Fusion 34.0MW
+ComponentEngineUltraLight345 Ultra Light Fusion 34.5MW
+ComponentEngineUltraLight350 Ultra Light Fusion 35.0MW
+ComponentEngineUltraLight355 Ultra Light Fusion 35.5MW
+ComponentEngineUltraLight360 Ultra Light Fusion 36.0MW
+ComponentEngineUltraLight365 Ultra Light Fusion 36.5MW
+ComponentEngineUltraLight370 Ultra Light Fusion 37.0MW
+ComponentEngineUltraLight375 Ultra Light Fusion 37.5MW
+ComponentEngineUltraLight380 Ultra Light Fusion 38.0MW
+ComponentEngineUltraLight385 Ultra Light Fusion 38.5MW
+ComponentEngineUltraLight390 Ultra Light Fusion 39.0MW
+ComponentEngineUltraLight395 Ultra Light Fusion 39.5MW
+ComponentEngineUltraLight400 Ultra Light Fusion 40.0MW

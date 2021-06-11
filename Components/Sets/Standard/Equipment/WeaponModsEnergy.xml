@@ -10,5 +10,7 @@
 	<Components>
 		<string>WeaponCapacitorI</string>
 		<string>WeaponCapacitorII</string>
+		<string>LinkedCapacitorArrayI</string>
+		<string>LinkedCapacitorArrayII</string>
 	</Components>
 </ComponentSet>

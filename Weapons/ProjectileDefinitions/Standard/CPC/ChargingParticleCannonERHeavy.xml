@@ -1,0 +1,9 @@
+<ProjectileDefinition>
+	<BaseDefinition>ChargingParticleCannonHeavy</BaseDefinition>
+	<Heat>3400.0</Heat>
+	<RangeDamageMin>120.0</RangeDamageMin>
+	<RangeEffective>60.0</RangeEffective>
+	<Velocity>95.0</Velocity>
+	<Spread>0.16</Spread>
+	<ProjectileLifeTime>1.516</ProjectileLifeTime>
+</ProjectileDefinition>

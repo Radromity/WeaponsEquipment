@@ -17,7 +17,9 @@
 	<RangeMax>30.0</RangeMax>
 	<RangeEffective>15.0</RangeEffective>
 	<FiringSound>FireLaser1</FiringSound>
-	<FiringSoundLoops>true</FiringSoundLoops>
+	<FiringVolume>1.1</FiringVolume>
+	<FiringPitch>0.9</FiringPitch>
+	<BeamFiringModeType>Continuous</BeamFiringModeType>
 	<BeamPrefab>LaserBeamGreen</BeamPrefab>
 	<Duration>0.0</Duration>
 	<DurationMin>0.1</DurationMin>

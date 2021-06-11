@@ -7,6 +7,7 @@ Additions:
   1 New Tank Variants, 44 New Mech Variants, 1 New Mech Chassis!
   These additions appear in Career and Instant Action.
   New Contract types for Career mode.
+  New sound effects.
 
   Colors toned down in the mechlab to reduce eyestrain,
 
@@ -20,8 +21,8 @@ Additions:
     Groxglitch - Magnum ammo type idea.
 </Description>
   <Author>Katrina Kerensky</Author>
-  <ModVersion>0.2.7 Beta</ModVersion>
-  <BaseGameVersion>1.2.0</BaseGameVersion>
+  <ModVersion>3.0 Beta</ModVersion>
+  <BaseGameVersion>1.2.2</BaseGameVersion>
   <PreviewImagePath>PreviewImage.png</PreviewImagePath>
   <SteamPublishedID>2063486516</SteamPublishedID>
 </ModInfo>

@@ -708,12 +708,27 @@
 			<Definition>Light_Missle_SRM</Definition>
 		</TurretSpawnDefinition>
 	</TurretsLight>
-	<turretsMedium>
-	</turretsMedium>
-	<turretHeavy>
-	</turretHeavy>
-	<turretAssault>
-	</turretAssault>
+	<TurretsMedium>
+		<TurretSpawnDefinition>
+			<Definition>Medium_Ballistic_10cm</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Medium_Energy_LaserLarge</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Medium_Missile_LRM</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Medium_Missile_MRM</Definition>
+		</TurretSpawnDefinition>
+		<TurretSpawnDefinition>
+			<Definition>Medium_Missile_SRM</Definition>
+		</TurretSpawnDefinition>
+	</TurretsMedium>
+	<TurretsHeavy>
+	</TurretsHeavy>
+	<TurretsAssault>
+	</TurretsAssault>
 	
 	<BaseFoundationsSmall>
 		<string>BaseFoundationSmall_1</string>
@@ -733,7 +748,7 @@
 	
 	<BaseOptionalBuildings>
 		<BuildingSpawnDefinition>
-			<Definition>Building_Industrial_1</Definition>
+			<Definition>AutoWarehouse</Definition>
 		</BuildingSpawnDefinition>
 	</BaseOptionalBuildings>
 	

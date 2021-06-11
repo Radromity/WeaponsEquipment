@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLaserCannonSmall</DisplayName>
+	<Description>ComponentLaserCannonSmallDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.81568</r>
+		<g>0.41960</g>
+		<b>0.44705</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>1</SlotSize>
+	<Weight>0.5</Weight>
+	
+	<MarketValue>40000</MarketValue>
+	<Weapon>LaserCannonSmall</Weapon>
+</ComponentDefinition>

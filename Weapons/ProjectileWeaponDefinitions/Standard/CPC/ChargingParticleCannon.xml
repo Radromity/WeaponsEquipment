@@ -1,0 +1,24 @@
+<ProjectileWeaponDefinition>
+	<DisplayName>WeaponCPC</DisplayName>
+	<ModelPrefab>ParticleCannon</ModelPrefab>
+	<ModelScale>
+		<x>1.0</x>
+		<y>1.0</y>
+		<z>0.5</z>
+	</ModelScale>
+	<WeaponClassifications>
+		<WeaponClassification>Energy</WeaponClassification>
+		<WeaponClassification>ParticleCannon</WeaponClassification>
+	</WeaponClassifications>
+	<RecycleTime>3.0</RecycleTime>
+	<DefaultWeaponGrouping>
+		<WeaponGroup1>true</WeaponGroup1>
+	</DefaultWeaponGrouping>
+	<ProjectileFiringModeType>Charging</ProjectileFiringModeType>
+	<MuzzleEffectPrefab>MuzzleFlashParticleCannon</MuzzleEffectPrefab>
+	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
+	<ChargingRate>0.4445</ChargingRate>
+	<ProjectileDefinitions>
+		<string>ChargingParticleCannon</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>

@@ -1,0 +1,29 @@
+<ComponentDefinition>
+	<DisplayName>ComponentLinkedCapacitorArrayII</DisplayName>
+	<Description>ComponentLinkedCapacitorArrayDesc</Description>
+	<ComponentType>Equipment</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.65490</r>
+		<g>0.22745</g>
+		<b>0.22745</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>2</SlotSize>
+	<Weight>2.0</Weight>
+	
+	<MarketValue>90000</MarketValue>
+	
+	<WeaponModifications>
+		<WeaponModification>
+			<WeaponModificationType>RecycleTime</WeaponModificationType>
+			<WeaponClassification>ParticleCannon</WeaponClassification>
+			<Value>-0.4</Value>
+		</WeaponModification>
+		<WeaponModification>
+			<WeaponModificationType>Heat</WeaponModificationType>
+			<WeaponClassification>ParticleCannon</WeaponClassification>
+			<Value>0.3</Value>
+		</WeaponModification>
+	</WeaponModifications>
+</ComponentDefinition>

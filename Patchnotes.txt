@@ -1,3 +1,15 @@
+Patch 0.3.1:
+  Updated for 1.3.3
+Patch 0.3.0:
+  Fixed Linked Capacitor Arrays appearing outside of a set. They have been moved to the Energy Weapon Mods set.
+  Fixed Electronics set text not being formated correctly. Should say Electronics - Equipment now.
+  Fixed Continuous Laser arrays not being able to fire.
+  Updated names for weapons in the mechbay so they are more apparant at a glance what they are.
+  Updated the names for the weapons in the hud so they are short and understandable.
+  Added Charging Particle Cannons. Bit faster fire rate, same damage but require charging before firing.
+  Added custom firing sound efect for Particle Accelerators.
+  Added static rifles
+  Updated for 1.2.2
 Patch 0.2.7:
   Oops. Forgot to update the factions.
 Patch 0.2.6:

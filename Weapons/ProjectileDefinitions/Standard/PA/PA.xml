@@ -7,7 +7,7 @@
 	<RangeEffective>15.0</RangeEffective>
 	<Velocity>60.0</Velocity>
 	<Spread>0.3</Spread>
-	<FiringSound>FireParticleCannon</FiringSound>
+	<FiringSound>PAFire</FiringSound>
 	<ProjectileLifeTime>1.5</ProjectileLifeTime>
 	<UseGravity>true</UseGravity>
 	<ProjectilePrefab>ParticleCannonProjectile</ProjectilePrefab>

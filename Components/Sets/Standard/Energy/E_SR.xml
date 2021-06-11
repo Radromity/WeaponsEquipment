@@ -1,0 +1,13 @@
+<ComponentSet>
+	<DisplayName>ComponentSetSR</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.33333</r>
+		<g>0.00784</g>
+		<b>0.03137</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>StaticRifle</string>
+	</Components>
+</ComponentSet>

@@ -1,0 +1,20 @@
+<ComponentSet>
+	<DisplayName>ComponentSetCPC</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.33333</r>
+		<g>0.00784</g>
+		<b>0.03137</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>ChargingParticleCannonLight</string>
+		<string>ChargingParticleCannon</string>
+		<string>ChargingParticleCannonHeavy</string>
+		<string>ChargingParticleCannonER</string>
+		<string>ChargingParticleCannonERHeavy</string>
+		<string>ChargingParticleCannonSNLight</string>
+		<string>ChargingParticleCannonSN</string>
+		<string>ChargingParticleCannonSNHeavy</string>
+	</Components>
+</ComponentSet>

@@ -1,46 +1,46 @@
 
-WeaponDDIAC2cm DDI 20mm Standard Cannon
-WeaponDDIAC5cm DDI 50mm Standard Cannon
-WeaponDDIAC10cm DDI 100mm Standard Cannon
-WeaponDDIAC15cm DDI 150mm Standard Cannon
-WeaponDDIAC20cm DDI 200mm Standard Cannon 
-WeaponDDIAC30cm DDI 300mm Standard Cannon
+WeaponDDIAC2cm AC/2
+WeaponDDIAC5cm AC/5
+WeaponDDIAC10cm AC/10
+WeaponDDIAC15cm AC/15
+WeaponDDIAC20cm AC/20
+WeaponDDIAC30cm AC/30
 
-WeaponDDIBAC2cm DDI 20mm Burstfire Cannon
-WeaponDDIBAC5cm DDI 20mm Burstfire Cannon
-WeaponDDIBAC10cm DDI 100mm Burstfire Cannon
-WeaponDDIBAC15cm DDI 150mm Burstfire Cannon
-WeaponDDIBAC20cm DDI 200mm Burstfire Cannon
-WeaponDDIBAC30cm DDI 300mm Burstfire Cannon
+WeaponDDIBAC2cm BAC/2
+WeaponDDIBAC5cm BAC/5
+WeaponDDIBAC10cm BAC/10
+WeaponDDIBAC15cm BAC/15
+WeaponDDIBAC20cm BAC/20
+WeaponDDIBAC30cm BAC/30
 
-WeaponDDICAC2cm DDI 20mm Flak Cannon
-WeaponDDICAC5cm DDI 50mm Flak Cannon
-WeaponDDICAC10cm DDI 100mm Flak Cannon
-WeaponDDICAC15cm DDI 150mm Flak Cannon
-WeaponDDICAC20cm DDI 200mm Flak Cannon
-WeaponDDICAC30cm DDI 300mm Flak Cannon
+WeaponDDICAC2cm CAC/2
+WeaponDDICAC5cm CAC/5
+WeaponDDICAC10cm CAC/10
+WeaponDDICAC15cm CAC/15
+WeaponDDICAC20cm CAC/20
+WeaponDDICAC30cm CAC/30
 
-WeaponDDILAC2cm DDI 20mm Light Cannon
-WeaponDDILAC5cm DDI 50mm Light Cannon
-WeaponDDILAC10cm DDI 100mm Light Cannon
+WeaponDDILAC2cm LAC/2
+WeaponDDILAC5cm LAC/5
+WeaponDDILAC10cm LAC/10
 
-WeaponDDIHVAC2cm DDI 20mm High Velocity Cannon
-WeaponDDIHVAC5cm DDI 50mm High Velocity Cannon
-WeaponDDIHVAC10cm DDI 100mm High Velocity Cannon
-WeaponDDIHVAC15cm DDI 150mm High Velocity Cannon
-WeaponDDIHVAC20cm DDI 200mm High Velocity Cannon
-WeaponDDIHVAC30cm DDI 300mm High Velocity Cannon
+WeaponDDIHVAC2cm HVAC/2
+WeaponDDIHVAC5cm HVAC/5
+WeaponDDIHVAC10cm HVAC/10
+WeaponDDIHVAC15cm HVAC/15
+WeaponDDIHVAC20cm HVAC/20
+WeaponDDIHVAC30cm HVAC/30
 
-WeaponDDIFlamerLight DDI Lightweight Flamethrower
-WeaponDDIFlamer DDI Flamethrower
-WeaponDDIFlamerHeavy DDI Heavyweight Flamethrower
+WeaponDDIFlamerLight L-Flamer
+WeaponDDIFlamer Flamer
+WeaponDDIFlamerHeavy H-Flamer
 
-WeaponDDILaserLarge DDI 300kw Large Laser
-WeaponDDILaserLargeArray2 DDI 600kw L Laser Array
+WeaponDDILaserLarge L Laser
+WeaponDDILaserLargeArray2 L Laser x2
 WeaponDDILaserMedium M Laser
-WeaponDDILaserMediumArray4 M Laser Array x4
+WeaponDDILaserMediumArray4 M Laser x4
 WeaponDDILaserSmall S Laser
-WeaponDDILaserSmallArray6 S Laser Array x6
+WeaponDDILaserSmallArray6 S Laser x6
 WeaponDDILaserMicro m Laser
 
 WeaponDDILaserLargeER L-ER Laser
@@ -109,16 +109,16 @@ WeaponDDIULRM15 U-LRML x15
 WeaponDDIULRM20 U-LRML x20
 
 WeaponDDIMG MG
-WeaponDDIMGA3 MG Array x3
-WeaponDDIMGA5 MG Array x5
+WeaponDDIMGA3 MG x3
+WeaponDDIMGA5 MG x5
 
 WeaponDDILMG LMG
-WeaponDDILMGA3 LMG Array x3
-WeaponDDILMGA5 LMG Array x5
+WeaponDDILMGA3 LMG x3
+WeaponDDILMGA5 LMG x5
 
 WeaponDDIHMG HMG
-WeaponDDIHMGA3 HMG Array x3
-WeaponDDIHMGA5 HMG Array x5
+WeaponDDIHMGA3 HMG x3
+WeaponDDIHMGA5 HMG x5
 
 WeaponDDIHSRM2 H-SRML x2
 WeaponDDIHSRM3 H-SRML x3
@@ -187,14 +187,14 @@ WeaponDDIPCER ER-PC
 WeaponDDIPCERH HER-PC
 
 WeaponDDIRailGun Railgun
-WeaponDDIRailGunHeavy Heavy Railgun
-WeaponDDIRailGunLight Light Railgun
-WeaponDDIRailGunMicro Micro Railgun
+WeaponDDIRailGunHeavy H-Railgun
+WeaponDDIRailGunLight L-Railgun
+WeaponDDIRailGunMicro m-Railgun
 
-WeaponDDIGaussRifle Gauss Rifle
-WeaponDDIGaussRifleHeavy Heavy Gauss Rifle
-WeaponDDIGaussRifleLight Light Gauss Rifle
-WeaponDDIGaussRifleMicro Micro Gauss Rifle
+WeaponDDIGaussRifle GR
+WeaponDDIGaussRifleHeavy HGR
+WeaponDDIGaussRifleLight LGR
+WeaponDDIGaussRifleMicro MGR
 
 WeaponDDIRAC2cm RAC 2cm
 WeaponDDIRAC5cm RAC 5cm
@@ -226,60 +226,226 @@ WeaponDDITAML TAML
 WeaponDDICIWS CIWS
 WeaponDDILCIWS LCIWS
 
-WeaponTwinPC Twin PC
-WeaponTwinPCH Twin H-PC
-WeaponTwinPCL Twin L-PC
-WeaponTwinPCSN Twin SN-PC
-WeaponTwinPCSNH Twin HSN-PC
-WeaponTwinPCSNL Twin LSN-PC
-WeaponTwinPCER Twin ER-PC
-WeaponTwinPCERH Twin HER-PC
+WeaponTwinPC T PC
+WeaponTwinPCH T H-PC
+WeaponTwinPCL T L-PC
+WeaponTwinPCSN T SN-PC
+WeaponTwinPCSNH T HSN-PC
+WeaponTwinPCSNL T LSN-PC
+WeaponTwinPCER T ER-PC
+WeaponTwinPCERH T HER-PC
 
-WeaponGaussRifleRapid Rapidfire Micro Gauss Rifle
-WeaponGaussRifleLightRapid Rapidfire Heavy Gauss Rifle
-WeaponGaussRifleHeavyRapid Rapidfire Light Gauss Rifle
-WeaponGaussRifleMicroRapid Rapidfire Gauss Rifle
+WeaponGaussRifleRapid R-GR
+WeaponGaussRifleLightRapid R-LGR
+WeaponGaussRifleHeavyRapid R-HGR
+WeaponGaussRifleMicroRapid R-MGR
 
-WeaponGaussRifleCan Cannister Gauss Rifle
-WeaponGaussRifleHeavyCan Cannister Heavy Gauss Rifle
-WeaponGaussRifleLightCan Cannister Light Gauss Rifle
-WeaponGaussRifleMicroCan Cannister Micro Gauss Rifle
+WeaponGaussRifleCan C-GR
+WeaponGaussRifleHeavyCan C-HGR
+WeaponGaussRifleLightCan C-LGR
+WeaponGaussRifleMicroCan C-MGR
 
-WeaponContinuousLaserLargeArray2 Continuous Large Laser Array x2
-WeaponContinuousLaserMediumArray4 Continuous Medium Laser Array x2
-WeaponContinuousLaserSmallArray6 Continuous Small Laser Array x2
+WeaponContinuousLaserLargeArray2 L-C Laser Array x2
+WeaponContinuousLaserMediumArray4 M-C Laser Array x2
+WeaponContinuousLaserSmallArray6 S-C Laser Array x2
 
-WeaponDDITwinPC Twin PC
-WeaponDDITwinPCH Twin H-PC
-WeaponDDITwinPCL Twin L-PC
-WeaponDDITwinPCSN Twin SN-PC
-WeaponDDITwinPCSNH Twin HSN-PC
-WeaponDDITwinPCSNL Twin LSN-PC
-WeaponDDITwinPCER Twin ER-PC
-WeaponDDITwinPCERH Twin HER-PC
+WeaponStaticRifle S-Rifle
 
-WeaponDDIGaussRifleRapid Rapidfire Micro Gauss Rifle
-WeaponDDIGaussRifleLightRapid Rapidfire Heavy Gauss Rifle
-WeaponDDIGaussRifleHeavyRapid Rapidfire Light Gauss Rifle
-WeaponDDIGaussRifleMicroRapid Rapidfire Gauss Rifle
+WeaponDDITwinPC T PC
+WeaponDDITwinPCH T H-PC
+WeaponDDITwinPCL T L-PC
+WeaponDDITwinPCSN T SN-PC
+WeaponDDITwinPCSNH T HSN-PC
+WeaponDDITwinPCSNL T LSN-PC
+WeaponDDITwinPCER T ER-PC
+WeaponDDITwinPCERH T HER-PC
 
-WeaponDDIGaussRifleCan Cannister Gauss Rifle
-WeaponDDIGaussRifleHeavyCan Cannister Heavy Gauss Rifle
-WeaponDDIGaussRifleLightCan Cannister Light Gauss Rifle
-WeaponDDIGaussRifleMicroCan Cannister Micro Gauss Rifle
+WeaponDDIGaussRifleRapid R-GR
+WeaponDDIGaussRifleLightRapid R-LGR
+WeaponDDIGaussRifleHeavyRapid R-HGR
+WeaponDDIGaussRifleMicroRapid R-MGR
 
-WeaponHMGA7 Heavy Machine Gun Array x7
-WeaponMGA7 Machine Gun Array x7
-WeaponLMGA7 Light Machine Gun Array x7
+WeaponDDIGaussRifleCan C-GR
+WeaponDDIGaussRifleHeavyCan C-HGR
+WeaponDDIGaussRifleLightCan C-LGR
+WeaponDDIGaussRifleMicroCan C-MGR
 
-WeaponAC2cmA2 Autocannon 2cm Array x2
-WeaponAC2cmA3 Autocannon 2cm Array x3
-WeaponAC2cmA4 Autocannon 2cm Array x4
+WeaponHMGA7 HMG x7
+WeaponMGA7 MG x7
+WeaponLMGA7 LMG x7
 
-WeaponLPA Light Plasma Accelerator
-WeaponPA Plasma Accelerator
-WeaponHPA Heavy Plasma Accelerator
+WeaponAC2cmA2 AC/2 x2
+WeaponAC2cmA3 AC/2 x3
+WeaponAC2cmA4 AC/2 x4
+
+WeaponLPA L-PA
+WeaponPA PA
+WeaponHPA H-PA
 
 WeaponASRM8 ASRM8
-WeaponLaserSmallArray2 Small Laser Array x2
-WeaponLaserMediumPulseArray2 Medium Pulse Laser Array x2
+WeaponLaserSmallArray2 SL x2
+WeaponLaserMediumPulseArray2 MPL x2
+
+WeaponCPC C PC
+WeaponCPCER C ER-PC
+WeaponCPCERH C HER-PC
+WeaponCPCH C HPC
+WeaponCPCL C LPC
+WeaponCPCSN C SN-PC
+WeaponCPCSNH C SN-HPC
+WeaponCPCSN C SN-LPC
+
+WeaponAC2cm AC/2
+WeaponAC5cm AC/5
+WeaponAC10cm AC/10
+WeaponAC15cm AC/15
+WeaponAC20cm AC/20
+WeaponAC30cm AC/30
+WeaponBAC2cm BAC/2
+WeaponBAC5cm BAC/5
+WeaponBAC10cm BAC/10
+WeaponBAC15cm BAC/15
+WeaponBAC20cm BAC/20
+WeaponBAC30cm BAC/30
+WeaponCAC2cm CAC/2
+WeaponCAC5cm CAC/5
+WeaponCAC10cm CAC/10
+WeaponCAC15cm CAC/15
+WeaponCAC20cm CAC/20
+WeaponCAC30cm CAC/30
+WeaponLAC2cm LAC/2
+WeaponLAC5cm LAC/5
+WeaponLAC10cm LAC/10
+WeaponHVAC2cm HVAC/2
+WeaponHVAC5cm HVAC/5
+WeaponHVAC10cm HVAC/10
+WeaponHVAC15cm HVAC/15
+WeaponHVAC20cm HVAC/20
+WeaponHVAC30cm HVAC/30
+WeaponFlamerLight L-Flamer
+WeaponFlamer Flamer
+WeaponFlamerHeavy H-Flamer
+WeaponLaserLarge L Laser
+WeaponLaserLargeArray2 L Laser x2
+WeaponLaserMedium M Laser
+WeaponLaserMediumArray4 M Laser x4
+WeaponLaserSmall S Laser
+WeaponLaserSmallArray6 S Laser x6
+WeaponLaserMicro m Laser
+WeaponLaserLargeER L-ER Laser
+WeaponLaserMediumER M-ER Laser
+WeaponLaserSmallER S-ER Laser
+WeaponLaserMicroER m-ER Laser
+WeaponLaserLargePulse L-P Laser
+WeaponLaserMediumPulse M-P Laser
+WeaponLaserSmallPulse S-P Laser
+WeaponLaserMicroPulse m-P Laser
+WeaponLaserLargeHeavy L-H Laser
+WeaponLaserMediumHeavy M-H Laser
+WeaponLaserSmallHeavy S-H Laser
+WeaponLaserMicroHeavy m-H Laser
+WeaponLaserLargeLight L-L Laser
+WeaponLaserMediumLight M-L Laser
+WeaponLaserSmallLight S-L Laser
+WeaponLaserMicroLight m-L Laser
+WeaponLaserLargeERPulse L-ERP Laser
+WeaponLaserMediumERPulse M-ERP Laser
+WeaponLaserSmallERPulse S-ERP Laser
+WeaponLaserMicroERPulse m-ERP Laser
+WeaponLaserLargeERHeavy L-ERH Laser
+WeaponLaserMediumERHeavy M-ERH Laser
+WeaponLaserSmallERHeavy S-ERH Laser
+WeaponLaserMicroERHeavy m-ERH Laser
+WeaponLaserLargeHyperPulse L-HP Laser
+WeaponLaserMediumHyperPulse M-HP Laser
+WeaponLaserSmallHyperPulse S-HP Laser
+WeaponLaserMicroHyperPulse m-HP Laser
+WeaponLaserContinuousLarge L-C Laser
+WeaponLaserContinuousMedium M-C Laser
+WeaponLaserContinuousSmall S-C Laser
+WeaponLaserContinuousMicro m-C Laser
+WeaponLaserMicroCycleCharge m-CC Laser
+WeaponLaserSmallCycleCharge S-CC Laser
+WeaponLaserMediumCycleCharge M-CC Laser
+WeaponLaserLargeCycleCharge L-CC Laser
+WeaponDRM3 DRML x3
+WeaponDRM6 DRML x6
+WeaponDRM9 DRML x9
+WeaponDRM12 DRML x12
+WeaponLRM5 LRML x5
+WeaponLRM10 LRML x10
+WeaponLRM15 LRML x15
+WeaponLRM20 LRML x20
+WeaponALRM5 A-LRML x5
+WeaponALRM10 A-LRML x10
+WeaponALRM15 A-LRML x15
+WeaponALRM20 A-LRML x20
+WeaponMG MG
+WeaponMGA3 MG x3
+WeaponMGA5 MG x5
+WeaponLMG LMG
+WeaponLMGA3 LMG x3
+WeaponLMGA5 LMG x5
+WeaponHMG HMG
+WeaponHMGA3 HMG x3
+WeaponHMGA5 HMG x5
+WeaponHSRM2 H-SRML x2
+WeaponHSRM3 H-SRML x3
+WeaponHSRM4 H-SRML x4
+WeaponHSRM6 H-SRML x6
+WeaponMRM5 MRML x5
+WeaponMRM10 MRML x10
+WeaponMRM15 MRML x15
+WeaponMRM20 MRML x20
+WeaponMRM25 MRML x25
+WeaponMRM30 MRML x30
+WeaponMRM35 MRML x35
+WeaponMRM40 MRML x40
+WeaponMRR5 MRRP x5
+WeaponMRR10 MRRP x10
+WeaponMRR15 MRRP x15
+WeaponMRR20 MRRP x20
+WeaponMRR25 MRRP x25
+WeaponMRR30 MRRP x30
+WeaponMRR35 MRRP x35
+WeaponMRR40 MRRP x40
+WeaponGSRM2 G-SRML x2
+WeaponGSRM4 G-SRML x4
+WeaponGSRM6 G-SRML x6
+WeaponGSRM12 G-SRML x12
+WeaponGSRM18 G-SRML x18
+WeaponGSRM24 G-SRML x24
+WeaponASRM2 A-SRML x2
+WeaponASRM4 A-SRML x4
+WeaponASRM6 A-SRML x6
+WeaponASRM12 A-SRML x12
+WeaponASRM18 A-SRML x18
+WeaponASRM24 A-SRML x24
+WeaponPC PC
+WeaponPCH H-PC
+WeaponPCL L-PC
+WeaponPCSN SN-PC
+WeaponPCSNH HSN-PC
+WeaponPCSNL LSN-PC
+WeaponPCER ER-PC
+WeaponPCERH HER-PC
+WeaponRailGun Railgun
+WeaponRailGunHeavy H-Railgun
+WeaponRailGunLight L-Railgun
+WeaponRailGunMicro m-Railgun
+WeaponGaussRifle GR
+WeaponGaussRifleHeavy HGR
+WeaponGaussRifleLight LGR
+WeaponGaussRifleMicro mGR
+WeaponRAC2cm RAC/2
+WeaponRAC5cm RAC/5
+WeaponRAC10cm RAC/10
+WeaponSRM2 SRML x2
+WeaponSRM4 SRML x4
+WeaponSRM6 SRML x6
+WeaponSRM12 SRML x12
+WeaponSRM18 SRML x18
+WeaponSRM24 SRML x24
+WeaponTAML TAML
+WeaponCIWS CIWS
+WeaponLCIWS LCIWS

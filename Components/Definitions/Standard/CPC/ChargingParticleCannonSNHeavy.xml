@@ -1,0 +1,17 @@
+<ComponentDefinition>
+	<DisplayName>ComponentChargingParticleCannonSNHeavy</DisplayName>
+	<Description>ComponentChargingParticleCannonSNHeavyDesc</Description>
+	<ComponentType>Weapon</ComponentType>
+	<RequiredSlotType>WeaponEnergy</RequiredSlotType>
+	<Color>
+		<r>0.33333</r>
+		<g>0.00784</g>
+		<b>0.03137</b>
+		<a>0.94</a>
+	</Color>
+	<SlotSize>4</SlotSize>
+	<Weight>8.0</Weight>
+	
+	<MarketValue>1100000</MarketValue>
+	<Weapon>ChargingParticleCannonSNHeavy</Weapon>
+</ComponentDefinition>

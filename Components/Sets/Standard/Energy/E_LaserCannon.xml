@@ -1,0 +1,15 @@
+<ComponentSet>
+	<DisplayName>ComponentSetLaserCannon</DisplayName>
+	<ComponentType>Weapon</ComponentType>
+	<Color>
+		<r>0.81568</r>
+		<g>0.41960</g>
+		<b>0.44705</b>
+		<a>0.94</a>
+	</Color>
+	<Components>
+		<string>LaserCannon_Small</string>
+		<string>LaserCannon_Medium</string>
+		<string>LaserCannon_Large</string>
+	</Components>
+</ComponentSet>

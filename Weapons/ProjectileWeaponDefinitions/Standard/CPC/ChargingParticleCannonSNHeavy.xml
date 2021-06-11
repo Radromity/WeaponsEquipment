@@ -1,0 +1,12 @@
+<ProjectileWeaponDefinition>
+	<BaseDefinition>ChargingParticleCannonHeavy</BaseDefinition>
+	<DisplayName>WeaponCPCSNH</DisplayName>
+	<ModelScale>
+		<x>1.0</x>
+		<y>1.0</y>
+		<z>0.4</z>
+	</ModelScale>
+	<ProjectileDefinitions>
+		<string>ChargingParticleCannonSNHeavy</string>
+	</ProjectileDefinitions>
+</ProjectileWeaponDefinition>

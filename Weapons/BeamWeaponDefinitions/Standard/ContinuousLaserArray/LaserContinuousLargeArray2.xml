@@ -17,7 +17,9 @@
 	<RangeMax>90.0</RangeMax>
 	<RangeEffective>45.0</RangeEffective>
 	<FiringSound>FireLaser1</FiringSound>
-	<FiringSoundLoops>true</FiringSoundLoops>
+	<FiringVolume>1.1</FiringVolume>
+	<FiringPitch>0.9</FiringPitch>
+	<BeamFiringModeType>Continuous</BeamFiringModeType>
 	<BeamPrefab>LaserBeamRed</BeamPrefab>
 	<Duration>0.0</Duration>
 	<DurationMin>0.1</DurationMin>
@@ -26,7 +28,6 @@
 	<BeamWidth>0.8</BeamWidth>
 	<MuzzleEffectScale>0.15</MuzzleEffectScale>
 	<ImpactEffectScale>0.25</ImpactEffectScale>
-	<BeamCount>2</BeamCount>
 	<DefaultWeaponGrouping>
 		<WeaponGroup1>true</WeaponGroup1>
 		<WeaponGroup2>false</WeaponGroup2>

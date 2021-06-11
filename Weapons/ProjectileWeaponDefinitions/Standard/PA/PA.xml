@@ -16,6 +16,7 @@
 	</DefaultWeaponGrouping>
 	<MuzzleEffectPrefab>MuzzleFlashParticleCannon</MuzzleEffectPrefab>
 	<ProjectSpawnForwardMulti>0.3</ProjectSpawnForwardMulti>
+	<FiringSound>PAFire</FiringSound>
 	<ProjectileDefinitions>
 		<string>PA</string>
 	</ProjectileDefinitions>
